@@ -14,7 +14,7 @@
     <MarkerCategory name="common" DisplayName="Common Markers">
       <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;----[-COMMON MARKERS-]----&gt;"/>
       <!--SlayingSigil-->
-      <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60">
+      <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1500" heightOffset="1.5" resetLength="60">
         <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\SigilMarkers\Slaying\NightSigil.png"/>
         <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\SigilMarkers\Slaying\CentaurSlaying.png"/>
         <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconFile="Data\SigilMarkers\Slaying\DemonSlaying.png"/>
@@ -35,7 +35,7 @@
       </MarkerCategory>
 
       <!--BasicSigil-->
-      <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60">
+      <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1500" heightOffset="1.5" resetLength="60">
         <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\SigilMarkers\BasicDPS\AirSigil.png"/>
         <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconFile="Data\SigilMarkers\BasicDPS\ForceSigil.png"/>
         <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\SigilMarkers\BasicDPS\ImpactSigil.png"/>
@@ -44,7 +44,7 @@
 
       <!--Utility-->
       <MarkerCategory name="Utility" DisplayName="Utility">
-        <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60">
+        <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1500" heightOffset="1.5" resetLength="60">
           <MarkerCategory name="CentaurPotion" DisplayName="Centaur Potion" iconFile="Data\PotionMarkers\CentaurPotion.png"/>
           <MarkerCategory name="DemonPotion" DisplayName="Demon Potion" iconFile="Data\PotionMarkers\DemonPotion.png"/>
           <MarkerCategory name="DestroyerPotion" DisplayName="Destroyer Potion" iconFile="Data\PotionMarkers\DestroyerPotion.png"/>
