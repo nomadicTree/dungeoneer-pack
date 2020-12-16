@@ -1,0 +1,25 @@
+<OverlayData>
+  <MarkerCategory name="dp">
+    <MarkerCategory name="dungeon">
+      <MarkerCategory name="coe" DisplayName="Crucible of Eternity">
+
+        <MarkerCategory name="story" DisplayName="Story">
+        </MarkerCategory><!--/story-->
+
+        <MarkerCategory name="exp" DisplayName="Explorable">
+        </MarkerCategory><!--/exp-->
+
+      </MarkerCategory><!--/coe-->
+    </MarkerCategory><!--/dungeon-->
+  </MarkerCategory><!--/dp-->
+
+  <POIs>
+	<!--MapID=82 | Explorable-->
+    <POI MapID="82" xpos="27.0133" ypos="115.915" zpos="39.9413" type="dp.common.daynight.night" GUID="B5H2l3uqmkO/hxqJrdPVqQ=="/>
+    <POI MapID="82" xpos="36.3094" ypos="115.903" zpos="26.3677" type="dp.common.basicsigil.forcesigil" GUID="5y5bBceQqEefolquXj3rdA=="/>
+    <POI MapID="82" xpos="34.3873" ypos="115.903" zpos="26.9529" type="dp.common.slayingsigil.nightsigil" GUID="2wPuc4kiykKpByCq1igIhg=="/>
+    <POI MapID="82" xpos="2.14522" ypos="115.65" zpos="10.1992" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="LpvtvlCEZkqKobnkgWDNPQ=="/>
+    <POI MapID="82" xpos="32.4315" ypos="115.903" zpos="27.4237" type="dp.common.utility.slayingpotions.undeadpotion" GUID="5z/Q0qC2rEq0NQU/9a1h8Q=="/>
+  </POIs>
+
+</OverlayData>

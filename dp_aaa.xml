@@ -1,0 +1,111 @@
+<OverlayData>
+  <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
+
+    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="  [-v0.0.1-|-2020.12.16-]"/>
+
+    <MarkerCategory name="dungeon" DisplayName="Dungeons">
+      <MarkerCategory name="separatormenudungeon" IsSeparator="1" DisplayName="&lt;-------[-DUNGEONS-]-------&gt;"/>
+    </MarkerCategory><!--/dungeon-->
+
+    <MarkerCategory name="raid" DisplayName="Raids">
+      <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;--------[-RAIDS-]--------&gt;"/>
+    </MarkerCategory><!--/raid-->
+
+    <MarkerCategory name="common" DisplayName="Common Markers">
+      <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;----[-COMMON MARKERS-]----&gt;"/>
+      <!--SlayingSigil-->
+      <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60">
+        <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\SigilMarkers\Slaying\NightSigil.png"/>
+        <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\SigilMarkers\Slaying\CentaurSlaying.png"/>
+        <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconFile="Data\SigilMarkers\Slaying\DemonSlaying.png"/>
+        <MarkerCategory name="DestroyerSlaying" DisplayName="Destroyer Sigil" iconFile="Data\SigilMarkers\Slaying\DestroyerSlaying.png"/>
+        <MarkerCategory name="DredgeSlaying" DisplayName="Dredge Sigil" iconFile="Data\SigilMarkers\Slaying\DredgeSlaying.png"/>
+        <MarkerCategory name="ElementalSlaying" DisplayName="Elemental Sigil" iconFile="Data\SigilMarkers\Slaying\ElementalSlaying.png"/>
+        <MarkerCategory name="FlamelegionSlaying" DisplayName="Flame Legion Sigil" iconFile="Data\SigilMarkers\Slaying\FlamelegionSlaying.png"/>
+        <MarkerCategory name="GhostSlaying" DisplayName="Ghost Sigil" iconFile="Data\SigilMarkers\Slaying\GhostSlaying.png"/>
+        <MarkerCategory name="GrawlSlaying" DisplayName="Grawl Sigil" iconFile="Data\SigilMarkers\Slaying\GrawlSlaying.png"/>
+        <MarkerCategory name="IcebroodSlaying" DisplayName="Icebrood Sigil" iconFile="Data\SigilMarkers\Slaying\IcebroodSlaying.png"/>
+        <MarkerCategory name="InquestSlaying" DisplayName="Inquest Sigil" iconFile="Data\SigilMarkers\Slaying\InquestSlaying.png"/>
+        <MarkerCategory name="JusticeSlaying" DisplayName="Justice Sigil" iconFile="Data\SigilMarkers\Slaying\JusticeSlaying.png"/>
+        <MarkerCategory name="NightmareCourtSlaying" DisplayName="Nightmare Court Sigil" iconFile="Data\SigilMarkers\Slaying\NightmareCourtSlaying.png"/>
+        <MarkerCategory name="OgreSlaying" DisplayName="Ogre Sigil" iconFile="Data\SigilMarkers\Slaying\OgreSlaying.png"/>
+        <MarkerCategory name="SerpentSlaying" DisplayName="Krait Sigil" iconFile="Data\SigilMarkers\Slaying\SerpentSlaying.png"/>
+        <MarkerCategory name="SonsOfSvanirSlaying" DisplayName="Sons Of Svanir Sigil" iconFile="Data\SigilMarkers\Slaying\SonsOfSvanirSlaying.png"/>
+        <MarkerCategory name="UndeadSlaying" DisplayName="Undead Sigil" iconFile="Data\SigilMarkers\Slaying\UndeadSlaying.png"/>
+      </MarkerCategory>
+
+      <!--BasicSigil-->
+      <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60">
+        <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\SigilMarkers\BasicDPS\AirSigil.png"/>
+        <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconFile="Data\SigilMarkers\BasicDPS\ForceSigil.png"/>
+        <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\SigilMarkers\BasicDPS\ImpactSigil.png"/>
+        <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconFile="Data\SigilMarkers\BasicDPS\NOTImpactSigil.png"/>
+      </MarkerCategory>
+
+      <!--Utility-->
+      <MarkerCategory name="Utility" DisplayName="Utility">
+        <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60">
+          <MarkerCategory name="CentaurPotion" DisplayName="Centaur Potion" iconFile="Data\PotionMarkers\CentaurPotion.png"/>
+          <MarkerCategory name="DemonPotion" DisplayName="Demon Potion" iconFile="Data\PotionMarkers\DemonPotion.png"/>
+          <MarkerCategory name="DestroyerPotion" DisplayName="Destroyer Potion" iconFile="Data\PotionMarkers\DestroyerPotion.png"/>
+          <MarkerCategory name="DredgePotion" DisplayName="Dredge Potion" iconFile="Data\PotionMarkers\DredgePotion.png"/>
+          <MarkerCategory name="ElementalPotion" DisplayName="Elemental Potion" iconFile="Data\PotionMarkers\ElementalPotion.png"/>
+          <MarkerCategory name="FlamelegionPotion" DisplayName="Flame Legion Potion" iconFile="Data\PotionMarkers\FlamelegionPotion.png"/>
+          <MarkerCategory name="GhostPotion" DisplayName="Ghost Potion" iconFile="Data\PotionMarkers\GhostPotion.png"/>
+          <MarkerCategory name="GrawlPotion" DisplayName="Grawl Potion" iconFile="Data\PotionMarkers\GrawlPotion.png"/>
+          <MarkerCategory name="IcebroodPotion" DisplayName="Icebrood Potion" iconFile="Data\PotionMarkers\IcebroodPotion.png"/>
+          <MarkerCategory name="InquestPotion" DisplayName="Inquest Potion" iconFile="Data\PotionMarkers\InquestPotion.png"/>
+          <MarkerCategory name="SerpentPotion" DisplayName="Krait Potion" iconFile="Data\PotionMarkers\KraitPotion.png"/>
+          <MarkerCategory name="NightmareCourtPotion" DisplayName="Nightmare Court Potion" iconFile="Data\PotionMarkers\NightmareCourtPotion.png"/>
+          <MarkerCategory name="OgrePotion" DisplayName="Ogre Potion" iconFile="Data\PotionMarkers\OgrePotion.png"/>
+          <MarkerCategory name="OutlawSlaying" DisplayName="Outlaw Potion" iconFile="Data\PotionMarkers\OutlawPotion.png"/>
+          <MarkerCategory name="ScarletsArmyPotion" DisplayName="Scarlets Army Potion" iconFile="Data\PotionMarkers\ScarletPotion.png"/>
+          <MarkerCategory name="SonsOfSvanirPotion" DisplayName="Sons Of Svanir Potion" iconFile="Data\PotionMarkers\SvanirPotion.png"/>
+          <MarkerCategory name="UndeadPotion" DisplayName="Undead Potion" iconFile="Data\PotionMarkers\UndeadPotion.png"/>
+          <MarkerCategory name="NOpotionMarker" DisplayName="NO Potion Marker" iconFile="Data\PotionMarkers\NOpotionMarker.png"/>
+        </MarkerCategory>
+      </MarkerCategory>
+
+      <!--Day/Night-->
+      <MarkerCategory name="DayNight" DisplayName="Day/Night Indicators" iconSize="0.75" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60">
+        <MarkerCategory name="Day" DisplayName="Daytime" iconFile="Data\Sun.png"/>
+        <MarkerCategory name="Night" DisplayName="Nighttime" iconFile="Data\Moon.png"/>
+      </MarkerCategory>
+
+      <!--PortalSpots-->
+      <MarkerCategory name="PortalSpots" DisplayName="Portal Spots" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" >
+        <MarkerCategory name="PortalSTART" DisplayName="Portal-Start" iconFile="Data\SkillUsage\Portal-IN-Marker.png"/>
+        <MarkerCategory name="PortalEND" DisplayName="Portal-End" iconFile="Data\SkillUsage\Portal-OUT-Marker.png"/>
+      </MarkerCategory>
+
+      <!--BlinkSpots-->
+      <MarkerCategory name="BlinkSpots" DisplayName="Blink Spots" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60">
+        <MarkerCategory name="BlinkStart" DisplayName="Blink Start" iconFile="Data\Arrows\TeleportMarkerUP-white.png"/>
+        <MarkerCategory name="BlinkAIM" DisplayName="Blink AIM" iconFile="Data\Arrows\TeleportMarkerDOWN-white.png"/>
+      </MarkerCategory>
+
+      <!--LeapAndJumpSpots-->
+      <MarkerCategory name="LeapAndJumpSpots" DisplayName="Leap & Jump Spots" iconSize="0.50" behavior="0" heightOffset="0" resetLength="60">
+        <MarkerCategory name="LeapSTART" DisplayName="Leap-Start"  alpha="0.50" fadeNear="1200" fadeFar="1300" iconFile="Data\SkillUsage\LeapMarker.png"/>
+        <MarkerCategory name="LeapAIM" DisplayName="Leap-AIM" alpha="1.0" fadeNear="1300" fadeFar="1500" iconFile="Data\Arrows\CrosshairMarker-White.png"/>
+        <MarkerCategory name="FARLeapAIM" DisplayName="FARLeap-AIM" alpha="1.0" fadeNear="5300" fadeFar="5500" iconFile="Data\Arrows\CrosshairMarker-White.png"/>
+        <MarkerCategory name="JumpMarker" DisplayName="Jump Marker" alpha="0.50" fadeNear="1200" fadeFar="1300" iconFile="Data\SkillUsage\JumpMarker.png"/>
+      </MarkerCategory>
+
+      <!--StealthSpots-->
+      <MarkerCategory name="StealthSpots" DisplayName="Stealth Spots" iconSize="0.60" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60">
+        <MarkerCategory name="StealthMarker" DisplayName="Stealth Marker" iconFile="Data\SkillUsage\StealthMarker.png"/>
+      </MarkerCategory>
+
+      <!--Boon&SkillReminders-->
+      <MarkerCategory name="Boon&SkillReminders" DisplayName="Boon & Skill Reminders" behavior="0" fadeNear="900" fadeFar="1000" resetLength="60">
+        <MarkerCategory name="MightStacking" DisplayName="Might Stacking" iconSize="0.35" alpha="0.75"  heightOffset="0.0" iconFile="Data\SkillUsage\MightMarker.png"/>
+        <MarkerCategory name="Stability" DisplayName="Stability" iconSize="0.35" alpha="0.75" heightOffset="0.0" iconFile="Data\SkillUsage\StabilityMarker.png"/>
+        <MarkerCategory name="ReflectMarker" DisplayName="Reflects" iconSize="1.0" alpha="1.00" heightOffset="1.0" iconFile="Data\SkillUsage\ReflectMarker.png"/>
+        <MarkerCategory name="CrowdControl" DisplayName="Crowd Control" iconSize="1.0" alpha="1.00" heightOffset="1.0" iconFile="Data\SkillUsage\CCMarker.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+
+  </MarkerCategory><!--/dp-->
+</OverlayData>
+

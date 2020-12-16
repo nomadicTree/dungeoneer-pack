@@ -1,0 +1,32 @@
+<OverlayData>
+  <MarkerCategory name="dp">
+    <MarkerCategory name="dungeon">
+      <MarkerCategory name="ac" DisplayName="Ascalonian Catacombs">
+
+        <MarkerCategory name="story" DisplayName="Story">
+        </MarkerCategory>
+
+        <MarkerCategory name="exp" DisplayName="Explorable">
+          <MarkerCategory name="path1" DisplayName="Path1">
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5"/>
+          </MarkerCategory><!--/path1-->
+        </MarkerCategory><!--/exp-->
+          
+        </MarkerCategory>	<!--/ac-->
+      </MarkerCategory><!--/dungeon-->
+    </MarkerCategory><!--/dp-->
+
+  <POIs>
+    <!--MapID=36 | Explorable-->
+    <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.common.daynight.night" GUID="jL04kVqPNkmsPxO6NAJ4gg=="/>
+    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.forcesigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
+    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.slayingsigil.nightsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
+    <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
+    <!--Path 1 scepter locations-->
+    <POI MapID="36" xpos="102.673" ypos="66.6672" zpos="161.921" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="2DfVdjsNrE6OJf+7TLCiRQ=="/>
+    <POI MapID="36" xpos="-70.69" ypos="68.9711" zpos="167.149" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="m6nckFCTJkemgAdnwbgPjg=="/>
+    <POI MapID="36" xpos="12.9593" ypos="66.666" zpos="118.995" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="mhfnLhSiOECq5r0afnLYQQ=="/>
+    <POI MapID="36" xpos="100.81" ypos="66.6729" zpos="123.132" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="KJ0idqsDUEajLr1LJyQtKg=="/>
+    <POI MapID="36" xpos="149.957" ypos="66.6663" zpos="139.748" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="KdakgCyJ+EKgDomZypaOJw=="/>
+  </POIs>
+</OverlayData>

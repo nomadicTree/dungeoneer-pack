@@ -1,0 +1,31 @@
+<OverlayData>
+    <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
+		<MarkerCategory name="raid" DisplayName="Raids">
+			<MarkerCategory name="entrance" DisplayName="Entrances" fadeNear="3500" fadeFar="4000" heightOffset="5" iconSize="1.0" resetLength="60">
+				<MarkerCategory name="marker1" DisplayName="Wing 1" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+				<MarkerCategory name="marker2" DisplayName="Wing 2" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+				<MarkerCategory name="marker3" DisplayName="Wing 3" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+				<MarkerCategory name="marker4" DisplayName="Wing 4" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+				<MarkerCategory name="marker5" DisplayName="Wing 5" iconFile="Data\Arrows\NumberMarkers\Marker5.png"/>
+				<MarkerCategory name="marker6" DisplayName="Wing 6" iconFile="Data\Arrows\NumberMarkers\Marker6.png"/>
+				<MarkerCategory name="marker7" DisplayName="Wing 7" iconFile="Data\Arrows\NumberMarkers\Marker7.png"/>
+				<!-- Unreleased
+				<MarkerCategory name="Marker8" DisplayName="Wing 8" iconFile="Data\Arrows\NumberMarkers\Marker8.png"/>
+				<MarkerCategory name="Marker9" DisplayName="Wing 9" iconFile="Data\Arrows\NumberMarkers\Marker9.png"/>
+				<MarkerCategory name="Marker10" DisplayName="Wing 10" iconFile="Data\Arrows\NumberMarkers\Marker10.png"/>
+				-->
+			</MarkerCategory><!--/entrance-->
+		</MarkerCategory><!--/raid-->
+	</MarkerCategory><!--/dp-->
+	
+	<POIs>
+		<!--MapID=1155 | Lion's Arch Aerodrome-->
+		<POI MapID="1155" xpos="58.3496" ypos="34.184" zpos="-343.989" type="dp.raid.entrance.marker1" GUID="0By+dbHDgk2eEn5WXoUI5w=="/>
+		<POI MapID="1155" xpos="66.4905" ypos="39.5604" zpos="-370.287" type="dp.raid.entrance.marker2" GUID="m1Y3wTDIN0+sojbtIJ4b/w=="/>
+		<POI MapID="1155" xpos="86.0501" ypos="34.1838" zpos="-385.833" type="dp.raid.entrance.marker3" GUID="/avm2WIfHUKNNw8IJJBWQg=="/>
+		<POI MapID="1155" xpos="92.3679" ypos="39.6092" zpos="-414.841" type="dp.raid.entrance.marker4" GUID="wC5apBxh70OcN00XAlw2+A=="/>
+		<POI MapID="1155" xpos="126.799" ypos="34.1838" zpos="-410.355" type="dp.raid.entrance.marker5" GUID="jmyOsceafUCfJ9M6VkkL5A=="/>
+		<POI MapID="1155" xpos="163.777" ypos="34.2041" zpos="-389.17" type="dp.raid.entrance.marker6" GUID="Yi+gcgmYuUuiRPimq9Ps1w=="/>
+		<POI MapID="1155" xpos="157.536" ypos="39.699" zpos="-413.596" type="dp.raid.entrance.marker7" GUID="np6rY1k9MECTluqVzBhJhg=="/>
+	</POIs>
+</OverlayData>

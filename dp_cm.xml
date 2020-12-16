@@ -1,0 +1,24 @@
+<OverlayData>
+  <MarkerCategory name="dp">
+    <MarkerCategory name="dungeon">
+      <MarkerCategory name="cm" DisplayName="Caudecus Manor">
+
+        <MarkerCategory name="story" DisplayName="Story">
+        </MarkerCategory><!--/story-->
+
+        <MarkerCategory name="exp" DisplayName="Explorable">
+        </MarkerCategory><!--/exp-->
+
+      </MarkerCategory><!--/cm-->
+    </MarkerCategory><!--/dungeon-->
+  </MarkerCategory><!--/dp-->
+
+  <POIs>
+	<!--MapID=76 | Eexplorable-->
+    <POI MapID="76" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.common.daynight.day" GUID="I+WRzJLe5kOkiC5VwtQCig=="/>
+    <POI MapID="76" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.common.basicsigil.forcesigil" GUID="xw3lBzn34EO65AoDSQLdZg=="/>
+    <POI MapID="76" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.common.slayingsigil.justiceslaying" GUID="vi/FySMSbkqwtx6VXaEA6g=="/>
+    <POI MapID="76" xpos="218.019" ypos="29.1026" zpos="3.3806" type="dp.common.utility.slayingpotions.outlawslaying" GUID="9fEX0tB4F0+tx1/Me3pWNA=="/>
+  </POIs>
+
+</OverlayData>

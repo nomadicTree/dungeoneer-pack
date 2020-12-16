@@ -1,0 +1,36 @@
+<OverlayData>
+  <MarkerCategory name="dp">
+    <MarkerCategory name="dungeon">
+      <MarkerCategory name="hotw" DisplayName="Honor of the Waves">
+
+        <MarkerCategory name="story" DisplayName="Story">
+        </MarkerCategory><!--/story-->
+
+        <MarkerCategory name="exp" DisplayName="Explorable">
+        </MarkerCategory><!--/exp-->
+
+      </MarkerCategory><!--/hotw-->
+    </MarkerCategory><!--/dungeon-->
+  </MarkerCategory><!--/dp-->
+
+  <POIs>
+  	<!--MapID=70 | Story-->
+  	<!--<POI MapID="70" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
+    <POI MapID="70" xpos="-36.9211" ypos="39.5182" zpos="-56.3777" type="dp.common.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>-->
+
+  	<!--MapID=71 | Explorable-->
+    <POI MapID="71" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.common.daynight.day" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
+    <POI MapID="71" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.common.basicsigil.forcesigil" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
+    <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.slayingsigil.icebroodslaying" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
+    <POI MapID="71" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
+    <POI MapID="71" xpos="-46.685" ypos="6.19467" zpos="169.835" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="KUZCFOJ0P0Wg5oPotzIkXA=="/>
+    <POI MapID="71" xpos="-70.2219" ypos="36.0014" zpos="165.195" type="dp.common.utility.slayingpotions.sonsofsvanirpotion" GUID="hqi69obJ7UW7DwAHafexSQ=="/>
+    <POI MapID="71" xpos="-100.755" ypos="59.458" zpos="-17.6681" type="dp.common.boon_skillreminders.reflectmarker" GUID="PwVPNiNzZUij19Yt2HoKJw=="/>
+    <POI MapID="71" xpos="-123.098" ypos="55.8776" zpos="146.613" type="dp.common.boon_skillreminders.stability" GUID="RDh7iRewQkq8+W/ahISOQQ=="/>
+    <POI MapID="71" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
+    <POI MapID="71" xpos="-36.9211" ypos="39.5182" zpos="-56.3777" type="dp.common.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>
+    <POI MapID="71" xpos="-49.0499" ypos="6.21448" zpos="170.02" type="dp.common.stealthspots.stealthmarker" GUID="SM5QwZeU8kihEDvj5M+Vfg=="/>
+    <POI MapID="71" xpos="-69.2131" ypos="35.9001" zpos="163.332" type="dp.common.boon_skillreminders.reflectmarker" GUID="YDLypTWc3Uu0+WLvlqbChA=="/>
+  </POIs>
+
+</OverlayData>
