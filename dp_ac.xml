@@ -8,7 +8,7 @@
 
         <MarkerCategory name="exp" DisplayName="Explorable">
           <MarkerCategory name="path1" DisplayName="Path1">
-            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5"/>
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5"/>
           </MarkerCategory><!--/path1-->
         </MarkerCategory><!--/exp-->
           

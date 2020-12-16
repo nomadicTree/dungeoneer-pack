@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
 
-    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="  [-v0.0.1-|-2020.12.16-]"/>
+    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="  [-2020.12.16-]"/>
 
     <MarkerCategory name="dungeon" DisplayName="Dungeons">
       <MarkerCategory name="separatormenudungeon" IsSeparator="1" DisplayName="&lt;-------[-DUNGEONS-]-------&gt;"/>
