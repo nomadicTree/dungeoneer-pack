@@ -1,4 +1,4 @@
-$Source="C:\Path\to\dungeoneer-pack\" # change this
+$Source="C:\Path\to\dungeoneer-pack\"         # change this
 $Target="C:\Path\to\TacO\dungeoneer-pack.zip" # and this
 
 $7zipPath = "$env:ProgramFiles\7-Zip\7z.exe"
