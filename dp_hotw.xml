@@ -33,9 +33,10 @@
     <!--Path 1-->
     <!--Path 1 first gate-->
     <POI MapID="71" xpos="-100.755" ypos="59.458" zpos="-17.6681" type="dp.common.boon_skillreminders.reflectmarker" GUID="PwVPNiNzZUij19Yt2HoKJw=="/>
+    <!--Path 1 troll-->
+    <POI MapID="71" xpos="-123.098" ypos="55.8776" zpos="146.613" type="dp.common.boon_skillreminders.stability" GUID="RDh7iRewQkq8+W/ahISOQQ=="/>
     <!--Path 1 Aldus-->
     <POI MapID="71" xpos="-70.2219" ypos="36.0014" zpos="165.195" type="dp.common.utility.slayingpotions.sonsofsvanirpotion" GUID="hqi69obJ7UW7DwAHafexSQ=="/>
-    <POI MapID="71" xpos="-123.098" ypos="55.8776" zpos="146.613" type="dp.common.boon_skillreminders.stability" GUID="RDh7iRewQkq8+W/ahISOQQ=="/>
     <POI MapID="71" xpos="-69.2131" ypos="35.9001" zpos="163.332" type="dp.common.boon_skillreminders.reflectmarker" GUID="YDLypTWc3Uu0+WLvlqbChA=="/>
     <!--Path 1 after Aldus-->
     <POI MapID="71" xpos="-46.685" ypos="6.19467" zpos="169.835" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="KUZCFOJ0P0Wg5oPotzIkXA=="/>
