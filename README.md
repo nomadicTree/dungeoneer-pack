@@ -1,16 +1,18 @@
 # dungeoneer-pack
 A try-harding TacO pack for dungeons.
 
-## Installation
+## Install Guide
 
-### Releases
-Head over to the [releases page](https://github.com/nomadicTree/dungeoneer-pack/releases/latest) to download the latest release. Simply move the .zip file to your TacO POIs folder.
+### From release (simple, recommended)
+Head over to the [releases page](https://github.com/nomadicTree/dungeoneer-pack/releases/latest) to download the latest release. Once downloaded, move the `dungeoneer-pack-<release number>.zip` file to your TacO\POIs folder. Do not unzip it!
+	
+If you have a previous release of the dungeoneer-pack, you should remove it from your TacO\POIs folder.
 
-### From source
-#### Manual zipping (simple)
+### From source (advanced)
+#### Manual zipping
 Just zip the `.xml` files and `Data` directory using your favorite archive manager and place the .zip in your TacO POIs folder.
 
-#### tacofy (advanced)
+#### tacofy
 You can use `tacofy.ps1` to automatically zip the pack for you. This requires 7zip and the ability to run PowerShell scripts, you will also need to edit `tacofy.ps1` to specify the right source and target locations. This is recommended if you want to make edits to the pack and quickly build the .zip archive to the right location.
 
 ## Usage
