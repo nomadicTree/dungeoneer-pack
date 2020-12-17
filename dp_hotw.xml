@@ -32,5 +32,5 @@
     <POI MapID="71" xpos="-49.0499" ypos="6.21448" zpos="170.02" type="dp.common.stealthspots.stealthmarker" GUID="SM5QwZeU8kihEDvj5M+Vfg=="/>
     <POI MapID="71" xpos="-69.2131" ypos="35.9001" zpos="163.332" type="dp.common.boon_skillreminders.reflectmarker" GUID="YDLypTWc3Uu0+WLvlqbChA=="/>
   </POIs>
-
+  
 </OverlayData>

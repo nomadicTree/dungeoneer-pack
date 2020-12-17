@@ -12,6 +12,7 @@
       </MarkerCategory><!--/se-->
     </MarkerCategory><!--/dungeon-->
   </MarkerCategory><!--/dp-->
+  
   <POIs>
     <!--MapID=64 | Explorable-->
     <POI MapID="64" xpos="-322.595" ypos="214.555" zpos="219.03" type="dp.common.daynight.night" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
@@ -34,4 +35,5 @@
     <POI MapID="64" xpos="-84.5198" ypos="217.019" zpos="218.243" type="dp.common.leapandjumpspots.leapaim" GUID="9ihnDbWRM0m3cVd0OWeMdA=="/>
     <POI MapID="64" xpos="-94.5168" ypos="216.22" zpos="225.563" type="dp.common.leapandjumpspots.leapstart" GUID="3iLZnKgRQUKqZZ2/1Xvh9Q=="/>
   </POIs>
+
 </OverlayData>
