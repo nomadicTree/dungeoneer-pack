@@ -10,11 +10,11 @@
         <MarkerCategory name="exp" DisplayName="Explorable">
 
           <MarkerCategory name="path1" DisplayName="Path1">
-            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="6"/>
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360"/>
           </MarkerCategory><!--/path1-->
 
           <MarkerCategory name="path3" DisplayName="Path 3">
-            <MarkerCategory name="burrowlocations" DisplayName="Burrow Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" behavior="6"/>
+            <MarkerCategory name="burrowlocations" DisplayName="Burrow Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" behavior="4" resetLength="360"/>
           </MarkerCategory><!--/path3-->
 
         </MarkerCategory><!--/exp-->
@@ -40,6 +40,9 @@
     <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.forcesigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
     <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.slayingsigil.nightsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
     <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.common.utility.slayingpotions.ghostpotion" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
+
+    <!--Explorable Kholer-->
+    <POI MapID="36" xpos="71.9345" ypos="41.302" zpos="-54.2681" type="dp.common.boon_skillreminders.reflectmarker" GUID="DA8OTUvurECrTABqQ6bTqQ=="/>
    
     <!--Path 1-->
     <!--Path 1 scepter locations-->
