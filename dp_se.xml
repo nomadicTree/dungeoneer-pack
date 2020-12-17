@@ -23,6 +23,12 @@
     <POI MapID="64" xpos="-297.781" ypos="214.121" zpos="209.647" type="dp.common.utility.slayingpotions.inquestpotion" GUID="tYn6Kv+VfkWUVbHlwBMdBA=="/>
     <POI MapID="64" xpos="-298.245" ypos="209.013" zpos="158.569" type="dp.common.utility.slayingpotions.dredgepotion" GUID="J4v/lQZd/Ei5AjznHJ6B+Q=="/>
 
+    <!--Path 1-->
+    <!--Path 1 | Champion golem at start-->
+    <POI MapID="64" xpos="-91.646" ypos="160.705" zpos="-155.642" type="dp.common.boon_skillreminders.reflectmarker" GUID="rSPzGUmPWkWu2gvjQI5ZZQ=="/>
+    <!--Path 1 | Champion asura after gates-->
+    <POI MapID="64" xpos="128.97" ypos="146.03" zpos="-93.2302" type="dp.common.boon_skillreminders.reflectmarker" GUID="A/jHzkiSkUy5CU/5fKKPmg=="/>
+
     <!--Path 2-->
     <!--Path 2 Kreutzerova and Champions-->
     <POI MapID="64" xpos="-100.465" ypos="211.128" zpos="192.736" type="dp.common.boon_skillreminders.stability" GUID="jsip3dxB10+IzqJJwUgo0g=="/>
