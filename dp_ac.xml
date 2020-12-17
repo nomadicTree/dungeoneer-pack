@@ -5,7 +5,7 @@
       <MarkerCategory name="ac" DisplayName="Ascalonian Catacombs">
 
         <MarkerCategory name="story" DisplayName="Story">
-        </MarkerCategory>
+        </MarkerCategory><!--/story-->
 
         <MarkerCategory name="exp" DisplayName="Explorable">
 
