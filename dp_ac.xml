@@ -10,11 +10,11 @@
         <MarkerCategory name="exp" DisplayName="Explorable">
 
           <MarkerCategory name="path1" DisplayName="Path1">
-            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5"/>
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="6" triggerRange="40"/>
           </MarkerCategory><!--/path1-->
 
           <MarkerCategory name="path3" DisplayName="Path 3">
-            <MarkerCategory name="burrowlocations" DisplayName="Burrow Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" behavior="6" triggerRange="20"/>
+            <MarkerCategory name="burrowlocations" DisplayName="Burrow Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" behavior="6" triggerRange="40"/>
           </MarkerCategory><!--/path3-->
 
         </MarkerCategory><!--/exp-->
