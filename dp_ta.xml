@@ -37,6 +37,16 @@
     <!--Portal from the first wurm event to the start-->
     <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalstart" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
     <POI MapID="67" xpos="58.9938" ypos="24.2094" zpos="-123.24" type="dp.common.portalspots.portalend" GUID="paQajMqiZ0arBoG8uIok/A=="/>
+
+    <!--Forward-->
+    <!--Forward | Stealth past wurms after malrona-->
+    <POI MapID="67" xpos="83.2926" ypos="41.0866" zpos="-165.923" type="dp.common.stealthspots.stealthmarker" GUID="0cU9j0BavUidJhPeSKgrrw=="/>
+    <!--Forward | Stability for champion and elite before final boss-->
+    <POI MapID="67" xpos="150.222" ypos="37.8283" zpos="42.4867" type="dp.common.boon_skillreminders.stability" GUID="/SeTekVPWk68JXxnX+EeJg=="/>
+
+    <!--Up-->
+    <!--Up | Reflects for Leurent-->
+    <POI MapID="67" xpos="155.481" ypos="33.5809" zpos="61.7718" type="dp.common.boon_skillreminders.reflectmarker" GUID="Dai31GOuj0afVka1N/iHwg=="/>
         
   </POIs>
 
