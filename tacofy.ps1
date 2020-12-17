@@ -1,5 +1,5 @@
-$Source="F:\Users\joshu\OneDrive\Documents\GitHub\dungeoneer-pack\"
-$Target="F:\Users\joshu\Software\GW2 TacO\POIs\dungeoneer-pack.zip"
+$Source="C:\Path\to\dungeoneer-pack\"
+$Target="C:\Path\to\TacO\dungeoneer-pack.zip"
 
 $7zipPath = "$env:ProgramFiles\7-Zip\7z.exe"
 
