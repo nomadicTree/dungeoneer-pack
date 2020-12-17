@@ -16,21 +16,28 @@
 
   <POIs>
     <!--MapID=67 | Explorable-->
+    <!--Entrance markers-->
     <POI MapID="67" xpos="148.695" ypos="46.7047" zpos="-282.322" type="dp.common.daynight.night" GUID="iiLfWH1kfkK8VsTVXpVBnA=="/>
     <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.common.basicsigil.forcesigil" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
     <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.common.slayingsigil.nightsigil" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
     <POI MapID="67" xpos="133.962" ypos="43.1964" zpos="-242.131" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="TyjDYwWwC0u3L/hIjJyEFw=="/>
     <POI MapID="67" xpos="91.1702" ypos="49.0389" zpos="-288.323" type="dp.common.utility.slayingpotions.scarletsarmypotion" GUID="d91KPVpkDUm8sb47MJ6BXg=="/>
-    <POI MapID="67" xpos="106.499" ypos="41.6025" zpos="-75.8541" type="dp.common.leapandjumpspots.leapstart" GUID="KDDWEWMJIkyrg2ysdPFAwQ=="/>
-    <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalstart" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
-    <POI MapID="67" xpos="128.988" ypos="46.1548" zpos="-245.748" type="dp.common.leapandjumpspots.leapstart" GUID="VL0qgKgjS0+OCqQ1OXqN/Q=="/>
+    <!--Fw/Up-->
+    <!--Jump over the first gate-->
     <POI MapID="67" xpos="140.603" ypos="45.9042" zpos="-245.719" type="dp.common.leapandjumpspots.jumpmarker" GUID="3L6KsUWMjkO/ocnRXSlaUw=="/>
-    <POI MapID="67" xpos="141.929" ypos="46.5784" zpos="-246.896" type="dp.common.leapandjumpspots.leapaim" GUID="iV5tTh1U5keIlZLSCUnBxw=="/>
     <POI MapID="67" xpos="142.15" ypos="46.7379" zpos="-246.845" type="dp.common.leapandjumpspots.jumpmarker" GUID="XeK+Et7PN0GIN5KakpG2rg=="/>
     <POI MapID="67" xpos="142.735" ypos="44.3483" zpos="-249.872" type="dp.common.leapandjumpspots.jumpmarker" GUID="hkN21TMf20uWnLsS2/r+9g=="/>
     <POI MapID="67" xpos="144.545" ypos="48.8823" zpos="-247.454" type="dp.common.leapandjumpspots.jumpmarker" GUID="RiztqTnDHE+h9dy5eCtl+A=="/>
-    <POI MapID="67" xpos="58.9938" ypos="24.2094" zpos="-123.24" type="dp.common.portalspots.portalend" GUID="paQajMqiZ0arBoG8uIok/A=="/>
+    <!--Leap over the first gate-->
+    <POI MapID="67" xpos="141.929" ypos="46.5784" zpos="-246.896" type="dp.common.leapandjumpspots.leapaim" GUID="iV5tTh1U5keIlZLSCUnBxw=="/>
+    <POI MapID="67" xpos="128.988" ypos="46.1548" zpos="-245.748" type="dp.common.leapandjumpspots.leapstart" GUID="VL0qgKgjS0+OCqQ1OXqN/Q=="/>
+    <!--Leap over the second gate-->
+    <POI MapID="67" xpos="106.499" ypos="41.6025" zpos="-75.8541" type="dp.common.leapandjumpspots.leapstart" GUID="KDDWEWMJIkyrg2ysdPFAwQ=="/>  
     <POI MapID="67" xpos="92.3885" ypos="39.3951" zpos="-78.9604" type="dp.common.leapandjumpspots.leapaim" GUID="/WF9TDa/lkqUkr5a16SepQ=="/>
+    <!--Portal from the first wurm event to the start-->
+    <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalstart" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
+    <POI MapID="67" xpos="58.9938" ypos="24.2094" zpos="-123.24" type="dp.common.portalspots.portalend" GUID="paQajMqiZ0arBoG8uIok/A=="/>
+        
   </POIs>
 
 </OverlayData>
