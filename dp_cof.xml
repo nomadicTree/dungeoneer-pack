@@ -10,9 +10,9 @@
         <MarkerCategory name="exp" DisplayName="Explorable">
         	<MarkerCategory name="path3" DisplayName="Path 3">
         	  <MarkerCategory name="torches" DisplayName="Torches" fadeNear="3500" fadeFar="4000" heightOffset="2" iconSize="2.0" resetLength="60">
-        	    <MarkerCategory name="torch1" DisplayName="Torch 1" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker1.png"/>
-        	    <MarkerCategory name="torch2" DisplayName="Torch 2" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker2.png"/>
-        	    <MarkerCategory name="torch3" DisplayName="Torch 3" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker3.png"/>
+        	    <MarkerCategory name="torch1" DisplayName="Torch 1" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png"/>
+        	    <MarkerCategory name="torch2" DisplayName="Torch 2" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png"/>
+        	    <MarkerCategory name="torch3" DisplayName="Torch 3" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png"/>
         	  </MarkerCategory><!--/torches-->
         	</MarkerCategory><!--/path3-->
         </MarkerCategory><!--/exp-->

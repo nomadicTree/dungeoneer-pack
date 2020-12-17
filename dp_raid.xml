@@ -3,17 +3,17 @@
   <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
     <MarkerCategory name="raid" DisplayName="Raids">
       <MarkerCategory name="entrance" DisplayName="Entrances" fadeNear="3500" fadeFar="4000" heightOffset="5" iconSize="1.0" resetLength="60">
-        <MarkerCategory name="marker1" DisplayName="Wing 1" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker1.png"/>
-        <MarkerCategory name="marker2" DisplayName="Wing 2" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker2.png"/>
-        <MarkerCategory name="marker3" DisplayName="Wing 3" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker3.png"/>
-        <MarkerCategory name="marker4" DisplayName="Wing 4" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker4.png"/>
-        <MarkerCategory name="marker5" DisplayName="Wing 5" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker5.png"/>
-        <MarkerCategory name="marker6" DisplayName="Wing 6" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker6.png"/>
-        <MarkerCategory name="marker7" DisplayName="Wing 7" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker7.png"/>
+        <MarkerCategory name="marker1" DisplayName="Wing 1" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png"/>
+        <MarkerCategory name="marker2" DisplayName="Wing 2" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png"/>
+        <MarkerCategory name="marker3" DisplayName="Wing 3" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png"/>
+        <MarkerCategory name="marker4" DisplayName="Wing 4" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker4.png"/>
+        <MarkerCategory name="marker5" DisplayName="Wing 5" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker5.png"/>
+        <MarkerCategory name="marker6" DisplayName="Wing 6" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker6.png"/>
+        <MarkerCategory name="marker7" DisplayName="Wing 7" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker7.png"/>
         <!-- Unreleased
-        <MarkerCategory name="Marker8" DisplayName="Wing 8" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker8.png"/>
-        <MarkerCategory name="Marker9" DisplayName="Wing 9" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker9.png"/>
-        <MarkerCategory name="Marker10" DisplayName="Wing 10" iconFile="Data\DungeoneerPack\Arrows\NumberMarkers\Marker10.png"/>
+        <MarkerCategory name="Marker8" DisplayName="Wing 8" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker8.png"/>
+        <MarkerCategory name="Marker9" DisplayName="Wing 9" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker9.png"/>
+        <MarkerCategory name="Marker10" DisplayName="Wing 10" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker10.png"/>
         -->
         </MarkerCategory><!--/entrance-->
       </MarkerCategory><!--/raid-->
