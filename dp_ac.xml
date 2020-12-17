@@ -24,6 +24,16 @@
     </MarkerCategory><!--/dp-->
 
   <POIs>
+    <!--MapID=33 | Story-->
+    <!--Entrance markers-->
+    <POI MapID="33" xpos="-289.484" ypos="56.8225" zpos="-258.877" type="dp.common.basicsigil.forcesigil" GUID="sCIfPExiEE66M7qoZ/Tpog=="/>
+    <POI MapID="33" xpos="-288.634" ypos="56.8225" zpos="-257.053" type="dp.common.slayingsigil.nightsigil" GUID="b1FVGjBCQkmN0BARqE9G1Q=="/>
+    <POI MapID="33" xpos="-276.911" ypos="57.2957" zpos="-256.128" type="dp.common.daynight.night" GUID="SJWCBV+JIkeKRG+pasG6Vw=="/>
+    <!--Story jump over first gate-->
+    <POI MapID="33" xpos="-152.582" ypos="37.1515" zpos="-154.831" type="dp.common.leapandjumpspots.jumpmarker" GUID="2UqeIJafBUOHKo41oBfLug=="/>
+    <POI MapID="33" xpos="-157.103" ypos="37.0147" zpos="-154.209" type="dp.common.leapandjumpspots.jumpmarker" GUID="FNIGGYSI70OWabyzcGV4rA=="/>
+    <POI MapID="33" xpos="-151.194" ypos="38.5436" zpos="-153.985" type="dp.common.leapandjumpspots.jumpmarker" GUID="jwXSooY2LkSJlr0KymifaA=="/>
+
     <!--MapID=36 | Explorable-->
     <!--Entrance markers-->
     <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.common.daynight.night" GUID="jL04kVqPNkmsPxO6NAJ4gg=="/>
