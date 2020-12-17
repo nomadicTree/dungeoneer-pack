@@ -15,6 +15,6 @@ If you don't want to zip this repository, you should be able to place all the `.
 In-game, enable the Dungeoneer Pack in TacO. Common markers like sigils and potions, blink locations, and day/night indicators can be toggled under 'Common Markers'. Path-specific markers (e.g. Ascalonian Catacombs path 1 scepter piece locations) can be toggled at the dungeon and path level.
 
 ## Contributors
-chaospigeon.4135
-StealthHunter.8426
+chaospigeon.4135  
+StealthHunter.8426  
 Messiah.3745
