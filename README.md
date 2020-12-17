@@ -12,7 +12,7 @@ You can use `tacofy.ps1` to automatically zip the pack for you. This requires 7z
 If you don't want to zip this repository, you should be able to place all the `.xml` files and `Data` directory into your TacO POIs folder as is. This is not recommended.
 
 ## Usage
-In-game, enable the Dungeoneer Pack in TacO. Common markers like sigils and potions, blink locations, and day/night indicators can be toggled on or off with 'Common Markers'. Path specific markers (e.g. Ascalonian Catacombs path 1 scepter locations) can be toggled on or off at the dungeon and path level.
+In-game, enable the Dungeoneer Pack in TacO. Common markers like sigils and potions, blink locations, and day/night indicators can be toggled under 'Common Markers'. Path-specific markers (e.g. Ascalonian Catacombs path 1 scepter piece locations) can be toggled at the dungeon and path level.
 
 ## Contributors
 chaospigeon.4135
