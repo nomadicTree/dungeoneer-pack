@@ -28,6 +28,9 @@
     <POI MapID="66" xpos="-248.735" ypos="92.4619" zpos="-253.938" type="dp.common.basicsigil.forcesigil" GUID="quP7E5JSFke+sTodSYx0YA=="/>
 		<POI MapID="66" xpos="-246.563" ypos="92.426" zpos="-253.639" type="dp.common.slayingsigil.nightsigil" GUID="GLIzDsnyrU+Qzd3om2PhTA=="/>
 		<POI MapID="66" xpos="-244.57" ypos="92.4099" zpos="-253.365" type="dp.common.utility.slayingpotions.flamelegionpotion" GUID="d31TzZAEAESKUOh7eXZoLA=="/>
+    <!--Story | Entrance leap to NPCs-->
+    <POI MapID="66" xpos="-98.88" ypos="71.9313" zpos="-82.4774" type="dp.common.leapandjumpspots.leapstart" GUID=""/>
+    <POI MapID="66" xpos="-79.1048" ypos="54.4752" zpos="-59.9021" type="dp.common.leapandjumpspots.farleapaim" GUID=""/>
 
     <!--Explorable ID=69-->
     <!--Explorable | Entrance markers-->
@@ -62,8 +65,16 @@
     <POI MapID="69" xpos="41.9904" ypos="2.23171" zpos="-39.2807" type="dp.dungeon.cof.exp.path3.torches.torch1" GUID="qS9fRjqLL0WKDlMpto6N6Q=="/>
     <POI MapID="69" xpos="-43.7556" ypos="4.18339" zpos="1.1219" type="dp.dungeon.cof.exp.path3.torches.torch2" GUID="8PkZRCA9JEKoo6/FEbc1+A=="/>
     <!--Path 3 | Leaping over the gate to skip the capture point event-->
-    <POI MapID="69" xpos="176.157" ypos="73.886" zpos="-69.1333" type="dp.common.leapandjumpspots.leapaim" GUID="KLFLnpYONU+DYGfVcxkMsQ=="/>
-    <POI MapID="69" xpos="177.218" ypos="71.8786" zpos="-62.5511" type="dp.common.leapandjumpspots.leapstart" GUID="04uu8zbYGkGvUAF9xZYUww=="/>  
+    <POI MapID="69" xpos="177.218" ypos="71.8786" zpos="-62.5511" type="dp.common.leapandjumpspots.leapstart" GUID="04uu8zbYGkGvUAF9xZYUww=="/>
+    <POI MapID="69" xpos="176.5" ypos="73.8" zpos="-69.7" type="dp.common.leapandjumpspots.leapaim" GUID="kb04twkk3UqnE5jFTFLSIg=="/>
+    <POI MapID="69" xpos="182.807" ypos="80.0506" zpos="-71.1502" type="dp.common.leapandjumpspots.jumpmarker" GUID="r5wJ8rhjdkeKfHSVbQetYQ=="/>
+    <POI MapID="69" xpos="191.411" ypos="85.2712" zpos="-60.1754" type="dp.common.leapandjumpspots.jumpmarker" GUID="BWO/Y7saek20VaZgrfImTA=="/><!---->
+		<POI MapID="69" xpos="179.63" ypos="76.923" zpos="-71.5486" type="dp.common.leapandjumpspots.jumpmarker" GUID="LZ4jfyRvDUO2kfwtShwFOg=="/><!---->
+		<POI MapID="69" xpos="188.637" ypos="83.6849" zpos="-62.3717" type="dp.common.leapandjumpspots.jumpmarker" GUID="XnF9De8SdkWzbHBJ/ma7uQ=="/>
+		<POI MapID="69" xpos="200.025" ypos="83.5409" zpos="-52.1011" type="dp.common.leapandjumpspots.jumpmarker" GUID="FCcDy0EK3UCs3fQ1yFAoIA=="/>
+		<POI MapID="69" xpos="185.256" ypos="81.8553" zpos="-67.0816" type="dp.common.leapandjumpspots.jumpmarker" GUID="+3WMvYe7w02+M+055axglA=="/>
+		<POI MapID="69" xpos="194.418" ypos="83.8321" zpos="-55.0713" type="dp.common.leapandjumpspots.jumpmarker" GUID="/Ys3cwIzYkqqkB5GbSsl2Q=="/>
+    <POI MapID="69" xpos="202.106" ypos="83.8517" zpos="-48.3386" type="dp.common.leapandjumpspots.jumpmarker" GUID="6aHMAJwqJkSm1ILAwAGN1A=="/>
     <POI MapID="69" xpos="201.262" ypos="83.981" zpos="-39.9935" type="dp.common.leapandjumpspots.leapstart" GUID="yLncNVukNU2lUUdLzPLuTA=="/>
     <POI MapID="69" xpos="206.484" ypos="85.4064" zpos="-28.3256" type="dp.common.leapandjumpspots.leapaim" GUID="DXMYvlAndUq2n5+ZuxjaSQ=="/>
     <POI MapID="69" xpos="208.964" ypos="85.0068" zpos="-24.4395" type="dp.common.leapandjumpspots.leapstart" GUID="KYCLR9JyxUWIeUeAa3TRKg=="/>
