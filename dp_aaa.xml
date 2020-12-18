@@ -3,7 +3,7 @@
   <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
 
     <!--Level 1 headings-->
-    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="[ v0.1-dev | 2020.12.18 ]"/>
+    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="[ dev | 2020.12.18 ]"/>
 
     <MarkerCategory name="dungeon" DisplayName="Dungeons">
       <MarkerCategory name="separatormenudungeon" IsSeparator="1" DisplayName="&lt;-------[-DUNGEONS-]-------&gt;"/>
@@ -109,7 +109,7 @@
       </MarkerCategory><!--/Boon&SkillReminders-->
 
       <!--numbers-->
-      <MarkerCategory name="numbers" DisplayName="Numbers" iconSize="1.0" alpha="1.00" heightOffset="1.0">
+      <MarkerCategory name="Numbers" DisplayName="Numbers" iconSize="1.0" alpha="1.00" heightOffset="1.0">
         <MarkerCategory name="Marker1" DisplayName="1" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png"/>
         <MarkerCategory name="Marker2" DisplayName="2" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png"/>
         <MarkerCategory name="Marker3" DisplayName="3" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png"/>
@@ -130,6 +130,22 @@
         <MarkerCategory name="Marker18" DisplayName="18" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker18.png"/>
         <MarkerCategory name="Marker19" DisplayName="19" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker19.png"/>
       </MarkerCategory><!--/numbers-->
+
+      <!--SquadMarkers-->
+      <MarkerCategory name="SquadMarkers" DisplayName="Squad Markers" iconSize="1.0" alpha="1.00" heightOffset="1.0">
+        <MarkerCategory name="Arrow" DisplayName="Arrow" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
+        <MarkerCategory name="Circle" DisplayName="Circle" iconFile="Data\dungeoneer-pack\SquadMarkers\Circle.png"/>
+        <MarkerCategory name="Heart" DisplayName="Heart" iconFile="Data\dungeoneer-pack\SquadMarkers\Heart.png"/>
+        <MarkerCategory name="Star" DisplayName="Star" iconFile="Data\dungeoneer-pack\SquadMarkers\Star.png"/>
+        <MarkerCategory name="Spiral" DisplayName="Spiral" iconFile="Data\dungeoneer-pack\SquadMarkers\Spiral.png"/>
+        <MarkerCategory name="Triangle" DisplayName="Triangle" iconFile="Data\dungeoneer-pack\SquadMarkers\Triangle.png"/>
+        <MarkerCategory name="Cross" DisplayName="Cross" iconFile="Data\dungeoneer-pack\SquadMarkers\Cross.png"/>
+      </MarkerCategory><!--/SquadMarkers-->
+
+      <!--Misc-->
+      <MarkerCategory name="Misc" DisplayName="Miscellaneous" iconSize="1.0." alpha="1.0" heightOffset="1.0">
+        <MarkerCategory name="NoEntry" DisplayName="No Entry" iconFile="Data\dungeoneer-pack\Forbidden.png"/>
+      </MarkerCategory><!--/Misc-->
 
     </MarkerCategory><!--/common-->
 
