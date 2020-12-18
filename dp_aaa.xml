@@ -108,8 +108,8 @@
         <MarkerCategory name="CrowdControl" DisplayName="Crowd Control" iconSize="1.0" alpha="1.00" heightOffset="1.0" iconFile="Data\dungeoneer-pack\SkillUsage\CCMarker.png"/>
       </MarkerCategory><!--/Boon&SkillReminders-->
 
-      <!--numbers-->
-      <MarkerCategory name="Numbers" DisplayName="Numbers" iconSize="1.0" alpha="1.00" heightOffset="1.0">
+      <!--Numbers-->
+      <MarkerCategory name="Numbers" DisplayName="Numbers" iconSize="1.0" behavior="0" alpha="1.00" heightOffset="1.0">
         <MarkerCategory name="Marker1" DisplayName="1" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png"/>
         <MarkerCategory name="Marker2" DisplayName="2" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png"/>
         <MarkerCategory name="Marker3" DisplayName="3" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png"/>
@@ -132,7 +132,7 @@
       </MarkerCategory><!--/numbers-->
 
       <!--SquadMarkers-->
-      <MarkerCategory name="SquadMarkers" DisplayName="Squad Markers" iconSize="1.0" alpha="1.00" heightOffset="1.0">
+      <MarkerCategory name="SquadMarkers" DisplayName="Squad Markers" iconSize="1.0" behavior="0" alpha="1.00" heightOffset="1.0">
         <MarkerCategory name="Arrow" DisplayName="Arrow" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
         <MarkerCategory name="Circle" DisplayName="Circle" iconFile="Data\dungeoneer-pack\SquadMarkers\Circle.png"/>
         <MarkerCategory name="Heart" DisplayName="Heart" iconFile="Data\dungeoneer-pack\SquadMarkers\Heart.png"/>
@@ -143,8 +143,8 @@
       </MarkerCategory><!--/SquadMarkers-->
 
       <!--Misc-->
-      <MarkerCategory name="Misc" DisplayName="Miscellaneous" iconSize="1.0." alpha="1.0" heightOffset="1.0">
-        <MarkerCategory name="NoEntry" DisplayName="No Entry" iconFile="Data\dungeoneer-pack\Forbidden.png"/>
+      <MarkerCategory name="Misc" DisplayName="Miscellaneous" alpha="1.0" heightOffset="2.0">
+        <MarkerCategory name="NoEntry" DisplayName="No Entry" iconSize="1.0." behavior="0" fadeNear="1500" fadeFar="2000" iconFile="Data\dungeoneer-pack\Forbidden.png"/>
       </MarkerCategory><!--/Misc-->
 
     </MarkerCategory><!--/common-->
