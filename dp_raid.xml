@@ -20,8 +20,8 @@
   </MarkerCategory><!--/dp-->
 	
   <POIs>
-    <!--MapID=1155 | Lion's Arch Aerodrome-->
-    <!--Raid entrances-->
+    <!--Lion's Arch Aerodrome - MapID=1155-->
+    <!--Lion's Arch Aerodrome | Raid entrances-->
     <POI MapID="1155" xpos="58.3496" ypos="34.184" zpos="-343.989" type="dp.raid.entrance.marker1" GUID="0By+dbHDgk2eEn5WXoUI5w=="/>
     <POI MapID="1155" xpos="66.4905" ypos="39.5604" zpos="-370.287" type="dp.raid.entrance.marker2" GUID="m1Y3wTDIN0+sojbtIJ4b/w=="/>
     <POI MapID="1155" xpos="86.0501" ypos="34.1838" zpos="-385.833" type="dp.raid.entrance.marker3" GUID="/avm2WIfHUKNNw8IJJBWQg=="/>

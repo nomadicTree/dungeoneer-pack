@@ -15,8 +15,8 @@
   </MarkerCategory><!--/dp-->
 
   <POIs>
-    <!--MapID=76 | Eexplorable-->
-    <!--Entrance markers-->
+    <!--Explorable ID=76-->
+    <!--Explorable | Entrance markers-->
     <POI MapID="76" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.common.daynight.day" GUID="I+WRzJLe5kOkiC5VwtQCig=="/>
     <POI MapID="76" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.common.basicsigil.forcesigil" GUID="xw3lBzn34EO65AoDSQLdZg=="/>
     <POI MapID="76" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.common.slayingsigil.justiceslaying" GUID="vi/FySMSbkqwtx6VXaEA6g=="/>
