@@ -15,9 +15,16 @@
   </MarkerCategory><!--/dp-->
 
   <POIs>
+    <!--Story - MapID=81-->
+    <!--Story | Entrance Markers-->
+    <POI MapID="81" xpos="99.4483" ypos="237.596" zpos="-12.9347" type="dp.common.daynight.day" info="Attribute cap: NA" GUID="OSgiO1fWCU6C6CCp0SR+9A=="/>
+    <POI MapID="81" xpos="92.7915" ypos="237.596" zpos="-28.2022" type="dp.common.basicsigil.forcesigil" GUID="ZajkLJPfR0ypzJcJOXYg6g=="/>
+		<POI MapID="81" xpos="91.9364" ypos="237.596" zpos="-25.9838" type="dp.common.slayingsigil.inquestslaying" GUID="P4H7UrrxZE2N5d53rRYK9A=="/>
+		<POI MapID="81" xpos="90.851" ypos="237.596" zpos="-23.8715" type="dp.common.utility.slayingpotions.inquestpotion" GUID="li+ksWcke0yWBAyjw1ickg=="/>
+    
     <!--Explorable - MapID=82-->
     <!--Explorable | Entrance markers-->
-    <POI MapID="82" xpos="27.0133" ypos="115.915" zpos="39.9413" type="dp.common.daynight.night" GUID="B5H2l3uqmkO/hxqJrdPVqQ=="/>
+    <POI MapID="82" xpos="27.0133" ypos="115.915" zpos="39.9413" type="dp.common.daynight.night" info="Attribute cap: NA" GUID="B5H2l3uqmkO/hxqJrdPVqQ=="/>
     <POI MapID="82" xpos="36.3094" ypos="115.903" zpos="26.3677" type="dp.common.basicsigil.forcesigil" GUID="5y5bBceQqEefolquXj3rdA=="/>
     <POI MapID="82" xpos="34.3873" ypos="115.903" zpos="26.9529" type="dp.common.slayingsigil.nightsigil" GUID="2wPuc4kiykKpByCq1igIhg=="/>
     <POI MapID="82" xpos="32.4315" ypos="115.903" zpos="27.4237" type="dp.common.utility.slayingpotions.undeadpotion" GUID="5z/Q0qC2rEq0NQU/9a1h8Q=="/>
