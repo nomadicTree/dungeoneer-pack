@@ -18,7 +18,6 @@
       <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;----[-COMMON MARKERS-]----&gt;"/>
       <!--SlayingSigil-->
       <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
-        <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\NightSigil.png"/>
         <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\CentaurSlaying.png"/>
         <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DemonSlaying.png"/>
         <MarkerCategory name="DestroyerSlaying" DisplayName="Destroyer Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DestroyerSlaying.png"/>
@@ -39,9 +38,10 @@
 
       <!--BasicSigil-->
       <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
-        <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png"/>
         <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ForceSigil.png"/>
+        <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png"/>
         <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png"/>
+        <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png"/>
         <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NOTImpactSigil.png"/>
       </MarkerCategory><!--/BasicSigil-->
 
