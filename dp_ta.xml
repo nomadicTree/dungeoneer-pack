@@ -18,15 +18,15 @@
     <!--Story MapID=68-->
     <!--Story | Entrance markers-->
     <POI MapID="68" xpos="254.769" ypos="56.7551" zpos="-269.32" type="dp.common.daynight.night" info="Attribute cap: 1270 (2343)" GUID="h/2zCsgi0k6a46NpTF2/jQ=="/>
-    <POI MapID="68" xpos="254.197" ypos="54.7807" zpos="-288.589" type="dp.common.basicsigil.forcesigil" GUID="xKe3RFWuOUKeGB9amG1oEA=="/>
-    <POI MapID="68" xpos="252.888" ypos="54.8106" zpos="-286.989" type="dp.common.slayingsigil.nightsigil" GUID="U8gq5dqEcU2ZYyU6eurP2A=="/>
+    <POI MapID="68" xpos="254.197" ypos="54.7807" zpos="-288.589" type="dp.common.basicsigil.nightsigil" GUID="xKe3RFWuOUKeGB9amG1oEA=="/>
+    <POI MapID="68" xpos="252.888" ypos="54.8106" zpos="-286.989" type="dp.common.slayingsigil.nightmarecourtslaying" GUID="U8gq5dqEcU2ZYyU6eurP2A=="/>
 		<POI MapID="68" xpos="251.543" ypos="55.1521" zpos="-285.311" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="zrzabuFLq0qD6xdzWHs2kA=="/>
 
     <!--Explorable - MapID=67-->
     <!--Explorable | Entrance markers-->
     <POI MapID="67" xpos="148.695" ypos="46.7047" zpos="-282.322" type="dp.common.daynight.night" info="Attribute cap: 1420 (2619)" GUID="iiLfWH1kfkK8VsTVXpVBnA=="/>
-    <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.common.basicsigil.forcesigil" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
-    <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.common.slayingsigil.nightsigil" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
+    <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.common.basicsigil.nightsigil" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
+    <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.common.slayingsigil.nightmarecourtslaying" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
     <POI MapID="67" xpos="133.962" ypos="43.1964" zpos="-242.131" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="TyjDYwWwC0u3L/hIjJyEFw=="/>
     <POI MapID="67" xpos="91.1702" ypos="49.0389" zpos="-288.323" type="dp.common.utility.slayingpotions.scarletsarmypotion" GUID="d91KPVpkDUm8sb47MJ6BXg=="/>
     <!--Explorable | Jump over the first gate-->

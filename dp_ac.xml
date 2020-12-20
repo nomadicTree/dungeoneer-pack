@@ -27,8 +27,9 @@
     <!--Story - MapID=33-->
     <!--Entrance markers-->
     <POI MapID="33" xpos="-276.911" ypos="57.2957" zpos="-256.128" type="dp.common.daynight.night" GUID="SJWCBV+JIkeKRG+pasG6Vw==" info="Attribute cap: 640 (2706)"/>
-    <POI MapID="33" xpos="-289.484" ypos="56.8225" zpos="-258.877" type="dp.common.basicsigil.forcesigil" GUID="sCIfPExiEE66M7qoZ/Tpog=="/>
-    <POI MapID="33" xpos="-288.634" ypos="56.8225" zpos="-257.053" type="dp.common.slayingsigil.nightsigil" GUID="b1FVGjBCQkmN0BARqE9G1Q=="/>
+    <POI MapID="33" xpos="-289.484" ypos="56.8225" zpos="-258.877" type="dp.common.basicsigil.nightsigil" GUID="sCIfPExiEE66M7qoZ/Tpog=="/>
+    <POI MapID="33" xpos="-288.634" ypos="56.8225" zpos="-257.053" type="dp.common.basicsigil.impactsigil" GUID="b1FVGjBCQkmN0BARqE9G1Q=="/>
+    <POI MapID="33" xpos="-287.737" ypos="56.9657" zpos="-254.888" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="4IKYAvTP70amk/sPh6Pw+A=="/>
     <!--Story jump over first gate-->
     <POI MapID="33" xpos="-152.582" ypos="37.1515" zpos="-154.831" type="dp.common.leapandjumpspots.jumpmarker" GUID="2UqeIJafBUOHKo41oBfLug=="/>
     <POI MapID="33" xpos="-157.103" ypos="37.0147" zpos="-154.209" type="dp.common.leapandjumpspots.jumpmarker" GUID="FNIGGYSI70OWabyzcGV4rA=="/>
@@ -37,8 +38,8 @@
     <!--Explorable - MapID=36-->
     <!--Explorable | Entrance markers-->
     <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.common.daynight.night" GUID="jL04kVqPNkmsPxO6NAJ4gg==" info="Attribute cap: 720 (2390)"/>
-    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.forcesigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
-    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.slayingsigil.nightsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
+    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.nightsigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
+    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.basicsigil.impactsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
     <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
     <!--Explorable | Kholer-->
     <POI MapID="36" xpos="71.9345" ypos="41.302" zpos="-54.2681" type="dp.common.boon_skillreminders.reflectmarker" GUID="DA8OTUvurECrTABqQ6bTqQ=="/>

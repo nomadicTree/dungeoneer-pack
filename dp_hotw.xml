@@ -26,8 +26,8 @@
   	<!--Explorable - MapID=71-->
     <!--Explorable | Entrance markers-->
     <POI MapID="71" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.common.daynight.day" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
-    <POI MapID="71" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.common.basicsigil.forcesigil" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
-    <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.slayingsigil.icebroodslaying" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
+    <POI MapID="71" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.common.slayingsigil.icebroodslaying" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
+    <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.basicsigil.impactsigil" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
     <POI MapID="71" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
     <!--Explorable | Mapbreak at the entrance-->
     <POI MapID="71" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
