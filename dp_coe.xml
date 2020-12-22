@@ -26,10 +26,8 @@
     <!--Explorable | Entrance markers-->
     <POI MapID="82" xpos="27.0133" ypos="115.915" zpos="39.9413" type="dp.common.daynight.night" info="Attribute cap: NA" GUID="B5H2l3uqmkO/hxqJrdPVqQ=="/>
     <POI MapID="82" xpos="36.3094" ypos="115.903" zpos="26.3677" type="dp.common.basicsigil.nightsigil" GUID="5y5bBceQqEefolquXj3rdA=="/>
-    <POI MapID="82" xpos="34.3873" ypos="115.903" zpos="26.9529" type="dp.common.basicsigil.impactsigil" GUID="2wPuc4kiykKpByCq1igIhg=="/>
-    <!--<POI MapID="82" xpos="32.4315" ypos="115.903" zpos="27.4237" type="dp.common.utility.slayingpotions.undeadpotion" GUID="5z/Q0qC2rEq0NQU/9a1h8Q=="/>-->
-    <!--Explorable | Icebrood wolves at the start-->
-    <POI MapID="82" xpos="2.14522" ypos="115.65" zpos="10.1992" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="LpvtvlCEZkqKobnkgWDNPQ=="/>
+    <POI MapID="82" xpos="22.2017" ypos="115.648" zpos="23.2611" type="dp.common.slayingsigil.icebroodslaying" GUID="OfRvxfKc2kut/agNCrircA=="/>
+    <POI MapID="82" xpos="17.6243" ypos="115.648" zpos="31.7057" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="N72RU+RiAUCJa5OaEM+Pcw=="/>
   </POIs>
 
 </OverlayData>
