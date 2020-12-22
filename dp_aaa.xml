@@ -3,7 +3,7 @@
   <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
 
     <!--Level 1 headings-->
-    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="[ v0.1.2-alpha | 2020.12.20 ]"/>
+    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="[ v0.2-alpha | 2020.12.22 ]"/>
 
     <MarkerCategory name="dungeon" DisplayName="Dungeons">
       <MarkerCategory name="separatormenudungeon" IsSeparator="1" DisplayName="&lt;-------[-DUNGEONS-]-------&gt;"/>
