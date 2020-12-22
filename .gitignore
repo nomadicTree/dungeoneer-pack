@@ -3,3 +3,4 @@ custom_tacofy.ps1
 build.ps1
 *.zip
 *.sh
+*.xlsx
