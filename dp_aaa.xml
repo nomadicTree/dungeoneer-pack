@@ -3,7 +3,7 @@
   <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
 
     <!--Level 1 headings-->
-    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="[ dev | 2020.12.18 ]"/>
+    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="[ v0.1.2-alpha | 2020.12.20 ]"/>
 
     <MarkerCategory name="dungeon" DisplayName="Dungeons">
       <MarkerCategory name="separatormenudungeon" IsSeparator="1" DisplayName="&lt;-------[-DUNGEONS-]-------&gt;"/>
@@ -18,30 +18,30 @@
       <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;----[-COMMON MARKERS-]----&gt;"/>
       <!--SlayingSigil-->
       <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
-        <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\CentaurSlaying.png"/>
-        <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DemonSlaying.png"/>
-        <MarkerCategory name="DestroyerSlaying" DisplayName="Destroyer Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DestroyerSlaying.png"/>
-        <MarkerCategory name="DredgeSlaying" DisplayName="Dredge Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DredgeSlaying.png"/>
-        <MarkerCategory name="ElementalSlaying" DisplayName="Elemental Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\ElementalSlaying.png"/>
-        <MarkerCategory name="FlamelegionSlaying" DisplayName="Flame Legion Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\FlamelegionSlaying.png"/>
-        <MarkerCategory name="GhostSlaying" DisplayName="Ghost Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\GhostSlaying.png"/>
-        <MarkerCategory name="GrawlSlaying" DisplayName="Grawl Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\GrawlSlaying.png"/>
-        <MarkerCategory name="IcebroodSlaying" DisplayName="Icebrood Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\IcebroodSlaying.png"/>
-        <MarkerCategory name="InquestSlaying" DisplayName="Inquest Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png"/>
-        <MarkerCategory name="JusticeSlaying" DisplayName="Justice Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\JusticeSlaying.png"/>
-        <MarkerCategory name="NightmareCourtSlaying" DisplayName="Nightmare Court Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\NightmareCourtSlaying.png"/>
-        <MarkerCategory name="OgreSlaying" DisplayName="Ogre Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\OgreSlaying.png"/>
-        <MarkerCategory name="SerpentSlaying" DisplayName="Krait Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SerpentSlaying.png"/>
-        <MarkerCategory name="SonsOfSvanirSlaying" DisplayName="Sons Of Svanir Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SonsOfSvanirSlaying.png"/>
-        <MarkerCategory name="UndeadSlaying" DisplayName="Undead Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\UndeadSlaying.png"/>
+        <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\CentaurSlaying.png" info="Sigil of Centaur Slaying"/>
+        <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DemonSlaying.png" info="Sigil of Demon Slaying"/>
+        <MarkerCategory name="DestroyerSlaying" DisplayName="Destroyer Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DestroyerSlaying.png" info="Sigil of Destroyer Slaying"/>
+        <MarkerCategory name="DredgeSlaying" DisplayName="Dredge Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DredgeSlaying.png" info="Sigil of Sorrow"/>
+        <MarkerCategory name="ElementalSlaying" DisplayName="Elemental Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\ElementalSlaying.png" info="Sigil of Elemental Slaying"/>
+        <MarkerCategory name="FlamelegionSlaying" DisplayName="Flame Legion Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\FlamelegionSlaying.png" info="Sigil of Smothering"/>
+        <MarkerCategory name="GhostSlaying" DisplayName="Ghost Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\GhostSlaying.png" info="Sigil of Ghost Slaying"/>
+        <MarkerCategory name="GrawlSlaying" DisplayName="Grawl Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\GrawlSlaying.png" info="Sigil of Grawl Slaying"/>
+        <MarkerCategory name="IcebroodSlaying" DisplayName="Icebrood Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\IcebroodSlaying.png" info="Sigil of Icebrood Slaying"/>
+        <MarkerCategory name="InquestSlaying" DisplayName="Inquest Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png" info="Sigil of Mad Scientists"/>
+        <MarkerCategory name="JusticeSlaying" DisplayName="Justice Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\JusticeSlaying.png" info="Sigil of Justice"/>
+        <MarkerCategory name="NightmareCourtSlaying" DisplayName="Nightmare Court Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\NightmareCourtSlaying.png" info="Sigil of Dreams"/>
+        <MarkerCategory name="OgreSlaying" DisplayName="Ogre Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\OgreSlaying.png" info="Sigil of Ogre Slaying"/>
+        <MarkerCategory name="SerpentSlaying" DisplayName="Krait Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SerpentSlaying.png" info="Sigil of Serpent Slaying"/>
+        <MarkerCategory name="SonsOfSvanirSlaying" DisplayName="Sons Of Svanir Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SonsOfSvanirSlaying.png" info="Sigil of Wrath"/>
+        <MarkerCategory name="UndeadSlaying" DisplayName="Undead Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\UndeadSlaying.png" info="Sigil of Undead Slaying"/>
       </MarkerCategory><!--/SlayingSigil-->
 
       <!--BasicSigil-->
       <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
-        <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ForceSigil.png"/>
-        <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png"/>
-        <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png"/>
-        <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png"/>
+        <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ForceSigil.png" info="Sigil of Force"/>
+        <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night"/>
+        <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact"/>
+        <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png" info="Sigil of Air"/>
         <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NOTImpactSigil.png"/>
       </MarkerCategory><!--/BasicSigil-->
 
