@@ -17,13 +17,13 @@
   <POIs>
     <!--Story - MapID=63-->
     <!--Story | Entrance markers-->
-    <POI MapID="63" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.common.daynight.night" info="Attribute cap: 1660 (2641)" GUID="6CZ33oRRUUiwnmNSqECatg=="/>
+    <POI MapID="63" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.common.daynight.night" info="Attribute cap: 1660" GUID="6CZ33oRRUUiwnmNSqECatg=="/>
     <POI MapID="63" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.common.basicsigil.nightsigil" GUID="lbD4bI+xVEixXd5SKTf9oA=="/>
     <POI MapID="63" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.common.basicsigil.impactsigil" GUID="lZfosSheTEagfm8p/vAcDA=="/>
 
     <!--Explorable - MapID=64-->
     <!--Explorable | Entrance markers-->
-    <POI MapID="64" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.common.daynight.night" info="Attribute cap: 1790 (2496)" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
+    <POI MapID="64" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.common.daynight.night" info="Attribute cap: 1790" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
     <POI MapID="64" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.common.basicsigil.nightsigil" GUID="K/4/Hg2mbU+GxmDeN+b1Lg=="/>
     <!--<POI MapID="64" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.common.basicsigil.impactsigil" GUID="vJ2R08XZ/kOMiZXa7ze6kw=="/>-->
     <POI MapID="64" xpos="-297.115" ypos="214.107" zpos="209.291" type="dp.common.slayingsigil.inquestslaying" GUID="bwH9ItC9P0+2up+AR2vHwQ=="/>
@@ -53,8 +53,9 @@
     <POI MapID="64" xpos="-94.5168" ypos="216.22" zpos="225.563" type="dp.common.leapandjumpspots.leapstart" GUID="3iLZnKgRQUKqZZ2/1Xvh9Q=="/>
     <POI MapID="64" xpos="-81.0969" ypos="211.13" zpos="223.312" type="dp.common.boon_skillreminders.reflectmarker" GUID="Yi4bSwUQNESm57WKbwCDzw=="/>
     <POI MapID="64" xpos="-83.1535" ypos="211.13" zpos="223.206" type="dp.common.boon_skillreminders.stability" GUID="LZaT2vU520CEM24C5Dl1lw=="/>
-    <!--Path 2 | Taskmaster onwards-->
-    <POI MapID="64" xpos="-38.8617" ypos="204.811" zpos="235.091" type="dp.common.utility.slayingpotions.inquestpotion" GUID="EVB4k9YCGkOZeNOJ2RmQXA=="/>
+    <!--Path 2 | After Taskmaster onwards-->
+    <POI MapID="64" xpos="135.665" ypos="170.24" zpos="167.929" type="dp.common.slayingsigil.inquestslaying" GUID="NhmJx4EZOESlFLhnnrjCGg=="/>
+    <POI MapID="64" xpos="124.147" ypos="169.868" zpos="167.587" type="dp.common.utility.slayingpotions.inquestpotion" GUID="soP+YqsAa0GNpRmbqx7+rw=="/>
   </POIs>
 
 </OverlayData>
