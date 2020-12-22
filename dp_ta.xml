@@ -15,28 +15,50 @@
   </MarkerCategory><!--/dp-->
 
   <POIs>
-    <!--MapID=67 | Explorable-->
-    <!--Entrance markers-->
-    <POI MapID="67" xpos="148.695" ypos="46.7047" zpos="-282.322" type="dp.common.daynight.night" GUID="iiLfWH1kfkK8VsTVXpVBnA=="/>
-    <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.common.basicsigil.forcesigil" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
-    <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.common.slayingsigil.nightsigil" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
+    <!--Story MapID=68-->
+    <!--Story | Entrance markers-->
+    <POI MapID="68" xpos="254.769" ypos="56.7551" zpos="-269.32" type="dp.common.daynight.night" info="Attribute cap: 1270" GUID="h/2zCsgi0k6a46NpTF2/jQ=="/>
+    <POI MapID="68" xpos="254.197" ypos="54.7807" zpos="-288.589" type="dp.common.basicsigil.nightsigil" GUID="xKe3RFWuOUKeGB9amG1oEA=="/>
+    <POI MapID="68" xpos="252.888" ypos="54.8106" zpos="-286.989" type="dp.common.slayingsigil.nightmarecourtslaying" GUID="U8gq5dqEcU2ZYyU6eurP2A=="/>
+		<POI MapID="68" xpos="251.543" ypos="55.1521" zpos="-285.311" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="zrzabuFLq0qD6xdzWHs2kA=="/>
+
+    <!--Explorable - MapID=67-->
+    <!--Explorable | Entrance markers-->
+    <POI MapID="67" xpos="148.695" ypos="46.7047" zpos="-282.322" type="dp.common.daynight.night" info="Attribute cap: 1420" GUID="iiLfWH1kfkK8VsTVXpVBnA=="/>
+    <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.common.basicsigil.nightsigil" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
+    <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.common.slayingsigil.nightmarecourtslaying" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
     <POI MapID="67" xpos="133.962" ypos="43.1964" zpos="-242.131" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="TyjDYwWwC0u3L/hIjJyEFw=="/>
     <POI MapID="67" xpos="91.1702" ypos="49.0389" zpos="-288.323" type="dp.common.utility.slayingpotions.scarletsarmypotion" GUID="d91KPVpkDUm8sb47MJ6BXg=="/>
-    <!--Fw/Up-->
-    <!--Jump over the first gate-->
+    <!--Explorable | Jump over the first gate-->
     <POI MapID="67" xpos="140.603" ypos="45.9042" zpos="-245.719" type="dp.common.leapandjumpspots.jumpmarker" GUID="3L6KsUWMjkO/ocnRXSlaUw=="/>
     <POI MapID="67" xpos="142.15" ypos="46.7379" zpos="-246.845" type="dp.common.leapandjumpspots.jumpmarker" GUID="XeK+Et7PN0GIN5KakpG2rg=="/>
     <POI MapID="67" xpos="142.735" ypos="44.3483" zpos="-249.872" type="dp.common.leapandjumpspots.jumpmarker" GUID="hkN21TMf20uWnLsS2/r+9g=="/>
     <POI MapID="67" xpos="144.545" ypos="48.8823" zpos="-247.454" type="dp.common.leapandjumpspots.jumpmarker" GUID="RiztqTnDHE+h9dy5eCtl+A=="/>
-    <!--Leap over the first gate-->
+    <!--Explorable | Leap over the first gate-->
     <POI MapID="67" xpos="141.929" ypos="46.5784" zpos="-246.896" type="dp.common.leapandjumpspots.leapaim" GUID="iV5tTh1U5keIlZLSCUnBxw=="/>
     <POI MapID="67" xpos="128.988" ypos="46.1548" zpos="-245.748" type="dp.common.leapandjumpspots.leapstart" GUID="VL0qgKgjS0+OCqQ1OXqN/Q=="/>
-    <!--Leap over the second gate-->
+    <!--Explorable | Leap over the second gate-->
     <POI MapID="67" xpos="106.499" ypos="41.6025" zpos="-75.8541" type="dp.common.leapandjumpspots.leapstart" GUID="KDDWEWMJIkyrg2ysdPFAwQ=="/>  
     <POI MapID="67" xpos="92.3885" ypos="39.3951" zpos="-78.9604" type="dp.common.leapandjumpspots.leapaim" GUID="/WF9TDa/lkqUkr5a16SepQ=="/>
-    <!--Portal from the first wurm event to the start-->
+    <!--Explorable | Jump out of regular path to end boss-->
+    <POI MapID="67" xpos="129.459" ypos="34.5625" zpos="-88.9989" type="dp.common.leapandjumpspots.jumpmarker" GUID="BH715liQE0eHCnS5cU5b5g=="/>
+    <POI MapID="67" xpos="132.044" ypos="36.1682" zpos="-91.3969" type="dp.common.leapandjumpspots.jumpmarker" GUID="boydxQIfhUSynXnJdjjmNQ=="/>
+    <POI MapID="67" xpos="132.967" ypos="38.6371" zpos="-95.1931" type="dp.common.leapandjumpspots.leapstart" GUID="3BC3RCT2PE6v494BBvp0xA=="/>
+    <POI MapID="67" xpos="137.09" ypos="41.1916" zpos="-77.6374" type="dp.common.leapandjumpspots.leapaim" GUID="A7V7vxLYEkqMRUidTef1hQ=="/>
+    <POI MapID="67" xpos="131.774" ypos="38.1436" zpos="-93.3675" type="dp.common.leapandjumpspots.jumpmarker" GUID="pmIMLgDCfkOI/kl25mbMWg=="/>
+    <!--Explorable | Portal from the first wurm event to the start-->
     <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalstart" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
     <POI MapID="67" xpos="58.9938" ypos="24.2094" zpos="-123.24" type="dp.common.portalspots.portalend" GUID="paQajMqiZ0arBoG8uIok/A=="/>
+
+    <!--Forward-->
+    <!--Forward | Stealth past wurms after malrona-->
+    <POI MapID="67" xpos="83.2926" ypos="41.0866" zpos="-165.923" type="dp.common.stealthspots.stealthmarker" GUID="0cU9j0BavUidJhPeSKgrrw=="/>
+    <!--Forward | Stability for champion and elite before final boss-->
+    <POI MapID="67" xpos="150.222" ypos="37.8283" zpos="42.4867" type="dp.common.boon_skillreminders.stability" GUID="/SeTekVPWk68JXxnX+EeJg=="/>
+
+    <!--Up-->
+    <!--Up | Reflects for Leurent-->
+    <POI MapID="67" xpos="155.481" ypos="33.5809" zpos="61.7718" type="dp.common.boon_skillreminders.reflectmarker" GUID="Dai31GOuj0afVka1N/iHwg=="/>
         
   </POIs>
 

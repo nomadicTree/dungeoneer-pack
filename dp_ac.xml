@@ -10,11 +10,11 @@
         <MarkerCategory name="exp" DisplayName="Explorable">
 
           <MarkerCategory name="path1" DisplayName="Path1">
-            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360"/>
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360" info="Activate me!" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
           </MarkerCategory><!--/path1-->
 
           <MarkerCategory name="path3" DisplayName="Path 3">
-            <MarkerCategory name="burrowlocations" DisplayName="Burrow Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" behavior="4" resetLength="360"/>
+            <MarkerCategory name="burrowlocations" DisplayName="Burrow Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" behavior="4" resetLength="360" info="Activate me!"/>
           </MarkerCategory><!--/path3-->
 
         </MarkerCategory><!--/exp-->
@@ -24,15 +24,28 @@
     </MarkerCategory><!--/dp-->
 
   <POIs>
-    <!--MapID=36 | Explorable-->
+    <!--Story - MapID=33-->
     <!--Entrance markers-->
-    <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.common.daynight.night" GUID="jL04kVqPNkmsPxO6NAJ4gg=="/>
-    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.forcesigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
-    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.slayingsigil.nightsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
-    <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.common.utility.slayingpotions.ghostpotion" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
+    <POI MapID="33" xpos="-276.911" ypos="57.2957" zpos="-256.128" type="dp.common.daynight.night" GUID="SJWCBV+JIkeKRG+pasG6Vw==" info="Attribute cap: 640"/>
+    <POI MapID="33" xpos="-289.484" ypos="56.8225" zpos="-258.877" type="dp.common.basicsigil.nightsigil" GUID="sCIfPExiEE66M7qoZ/Tpog=="/>
+    <POI MapID="33" xpos="-288.634" ypos="56.8225" zpos="-257.053" type="dp.common.basicsigil.impactsigil" GUID="b1FVGjBCQkmN0BARqE9G1Q=="/>
+    <POI MapID="33" xpos="-287.737" ypos="56.9657" zpos="-254.888" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="4IKYAvTP70amk/sPh6Pw+A=="/>
+    <!--Story jump over first gate-->
+    <POI MapID="33" xpos="-152.582" ypos="37.1515" zpos="-154.831" type="dp.common.leapandjumpspots.jumpmarker" GUID="2UqeIJafBUOHKo41oBfLug=="/>
+    <POI MapID="33" xpos="-157.103" ypos="37.0147" zpos="-154.209" type="dp.common.leapandjumpspots.jumpmarker" GUID="FNIGGYSI70OWabyzcGV4rA=="/>
+    <POI MapID="33" xpos="-151.194" ypos="38.5436" zpos="-153.985" type="dp.common.leapandjumpspots.jumpmarker" GUID="jwXSooY2LkSJlr0KymifaA=="/>
+
+    <!--Explorable - MapID=36-->
+    <!--Explorable | Entrance markers-->
+    <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.common.daynight.night" GUID="jL04kVqPNkmsPxO6NAJ4gg==" info="Attribute cap: 720"/>
+    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.nightsigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
+    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.basicsigil.impactsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
+    <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
+    <!--Explorable | Kholer-->
+    <POI MapID="36" xpos="71.9345" ypos="41.302" zpos="-54.2681" type="dp.common.boon_skillreminders.reflectmarker" GUID="DA8OTUvurECrTABqQ6bTqQ=="/>
    
     <!--Path 1-->
-    <!--Path 1 scepter locations-->
+    <!--Path 1 | Scepter locations-->
     <POI MapID="36" xpos="102.673" ypos="66.6672" zpos="161.921" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="2DfVdjsNrE6OJf+7TLCiRQ=="/>
     <POI MapID="36" xpos="-70.69" ypos="68.9711" zpos="167.149" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="m6nckFCTJkemgAdnwbgPjg=="/>
     <POI MapID="36" xpos="12.9593" ypos="66.666" zpos="118.995" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="mhfnLhSiOECq5r0afnLYQQ=="/>
@@ -40,7 +53,7 @@
     <POI MapID="36" xpos="149.957" ypos="66.6663" zpos="139.748" type="dp.dungeon.ac.exp.path1.scepterlocations" GUID="KdakgCyJ+EKgDomZypaOJw=="/>
     
     <!--Path 3-->
-    <!--Path 3 burrow locations-->
+    <!--Path 3 | Burrow locations-->
     <POI MapID="36" xpos="342.877" ypos="19.5059" zpos="-35.5957" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="L+rxC6ZX0Ey6i1SMJKHkXA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png"/>
     <POI MapID="36" xpos="340.051" ypos="19.3481" zpos="-59.8697" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="q/8z/xA20UCScs1KepUMvA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png"/>
     <POI MapID="36" xpos="298.53" ypos="24.0656" zpos="-47.7369" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="TDti/zAd70WKLiILAaTYyA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png"/>

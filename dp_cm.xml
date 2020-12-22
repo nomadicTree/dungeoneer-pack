@@ -15,12 +15,29 @@
   </MarkerCategory><!--/dp-->
 
   <POIs>
-    <!--MapID=76 | Eexplorable-->
-    <!--Entrance markers-->
-    <POI MapID="76" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.common.daynight.day" GUID="I+WRzJLe5kOkiC5VwtQCig=="/>
-    <POI MapID="76" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.common.basicsigil.forcesigil" GUID="xw3lBzn34EO65AoDSQLdZg=="/>
-    <POI MapID="76" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.common.slayingsigil.justiceslaying" GUID="vi/FySMSbkqwtx6VXaEA6g=="/>
+    <!--Story - MapID=75-->
+    <!--Story | Entrnace markers-->
+    <POI MapID="75" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.common.daynight.day" info="Attribute cap: 930" GUID="ErjwBAOvXUCqNjZXaBbOjw=="/>
+    <POI MapID="75" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.common.slayingsigil.justiceslaying" GUID="L6Gi2cfQrUKeLNasGFhDBQ=="/>
+    <POI MapID="75" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.common.basicsigil.impactsigil" GUID="0jtpL2WpVkOd8an7wjN99Q="/>
+    <POI MapID="75" xpos="218.019" ypos="29.1026" zpos="3.3806" type="dp.common.utility.slayingpotions.outlawslaying" GUID="iyWkkceP1Ei8wnylQLpopQ=="/>
+
+    <!--Explorable - MapID=76-->
+    <!--Explorable | Entrance markers-->
+    <POI MapID="76" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.common.daynight.day" info="Attribute cap: 1020" GUID="I+WRzJLe5kOkiC5VwtQCig=="/>
+    <POI MapID="76" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.common.slayingsigil.justiceslaying" GUID="xw3lBzn34EO65AoDSQLdZg=="/>
+    <POI MapID="76" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.common.basicsigil.impactsigil" GUID="vi/FySMSbkqwtx6VXaEA6g=="/>
     <POI MapID="76" xpos="218.019" ypos="29.1026" zpos="3.3806" type="dp.common.utility.slayingpotions.outlawslaying" GUID="9fEX0tB4F0+tx1/Me3pWNA=="/>
+
+    <!--Path 1-->
+    <!--Path 1 | Blink up to inside barn-->
+    <POI MapID="76" xpos="1.7768" ypos="20.4047" zpos="90.418" type="dp.common.blinkspots.blinkstart" GUID="0P7dRa3/vUyrg7zROl/z/Q=="/>
+    <POI MapID="76" xpos="-14.2556" ypos="30.6915" zpos="99.0173" type="dp.common.blinkspots.blinkaim" GUID="v04QDioMHUa7onMXU8N6Dw=="/>
+
+    <!--Path 3-->
+    <!--Path 3 | Seamus-->
+    <POI MapID="76" xpos="30.0038" ypos="19.9715" zpos="61.8921" type="dp.common.boon_skillreminders.stability" GUID="Uw5E5khWxEWh7jzNMrrO8g=="/>
+    <POI MapID="76" xpos="27.7974" ypos="19.7493" zpos="62.8753" type="dp.common.boon_skillreminders.reflectmarker" GUID="qByv6qM54UaSRwPpbRAtxA=="/>
   </POIs>
 
 </OverlayData>

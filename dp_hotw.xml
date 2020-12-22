@@ -15,24 +15,35 @@
   </MarkerCategory><!--/dp-->
 
   <POIs>
-  	<!--MapID=71 | Explorable-->
-    <!--Entrance markers-->
-    <POI MapID="71" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.common.daynight.day" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
-    <POI MapID="71" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.common.basicsigil.forcesigil" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
-    <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.slayingsigil.icebroodslaying" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
+    <!--Story - MapID=70-->
+    <!--Story | Entrance Markers-->
+    <POI MapID="70" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.common.daynight.day" info="Attribute cap: 2400" GUID="3xt2dhV8F0+QI5VVFKPIWA=="/>
+    <POI MapID="70" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.common.slayingsigil.icebroodslaying" GUID="xTjW7r52mkqsIUrJOJ3FVA=="/>
+    <POI MapID="70" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.basicsigil.impactsigil" GUID="i10OBs377kOnlhfMkWxIiw=="/>
+    <POI MapID="70" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="Aq2gSm07LkGtQ+m1gL/itg=="/>
+    <!--Story | Mapbreak at the entrance-->
+    <POI MapID="70" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkstart" GUID="fiXj3Gw+CEeKN5ExJimLCA=="/>
+    <POI MapID="70" xpos="-36.9211" ypos="39.5182" zpos="-56.3777" type="dp.common.blinkspots.blinkaim" GUID="5DzqMBfyukq/AmzOw2rPjg=="/>
+
+  	<!--Explorable - MapID=71-->
+    <!--Explorable | Entrance markers-->
+    <POI MapID="71" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.common.daynight.day" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
+    <POI MapID="71" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.common.slayingsigil.icebroodslaying" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
+    <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.basicsigil.impactsigil" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
     <POI MapID="71" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
-    <!--Mapbreak at the entrance-->
+    <!--Explorable | Mapbreak at the entrance-->
     <POI MapID="71" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
     <POI MapID="71" xpos="-36.9211" ypos="39.5182" zpos="-56.3777" type="dp.common.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>
     
     <!--Path 1-->
-    <!--Path 1 first gate-->
+    <!--Path 1 | First gate-->
     <POI MapID="71" xpos="-100.755" ypos="59.458" zpos="-17.6681" type="dp.common.boon_skillreminders.reflectmarker" GUID="PwVPNiNzZUij19Yt2HoKJw=="/>
-    <!--Path 1 Aldus-->
-    <POI MapID="71" xpos="-70.2219" ypos="36.0014" zpos="165.195" type="dp.common.utility.slayingpotions.sonsofsvanirpotion" GUID="hqi69obJ7UW7DwAHafexSQ=="/>
+    <!--Path 1 | Troll-->
     <POI MapID="71" xpos="-123.098" ypos="55.8776" zpos="146.613" type="dp.common.boon_skillreminders.stability" GUID="RDh7iRewQkq8+W/ahISOQQ=="/>
+    <!--Path 1 | Aldus-->
+    <POI MapID="71" xpos="-70.2219" ypos="36.0014" zpos="165.195" type="dp.common.utility.slayingpotions.sonsofsvanirpotion" GUID="hqi69obJ7UW7DwAHafexSQ=="/>
     <POI MapID="71" xpos="-69.2131" ypos="35.9001" zpos="163.332" type="dp.common.boon_skillreminders.reflectmarker" GUID="YDLypTWc3Uu0+WLvlqbChA=="/>
-    <!--Path 1 after Aldus-->
+    <!--Path 1 | After Aldus-->
     <POI MapID="71" xpos="-46.685" ypos="6.19467" zpos="169.835" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="KUZCFOJ0P0Wg5oPotzIkXA=="/>
     <POI MapID="71" xpos="-49.0499" ypos="6.21448" zpos="170.02" type="dp.common.stealthspots.stealthmarker" GUID="SM5QwZeU8kihEDvj5M+Vfg=="/>
   </POIs>
