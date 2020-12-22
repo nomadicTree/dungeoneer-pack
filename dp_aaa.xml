@@ -42,30 +42,30 @@
         <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night"/>
         <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact"/>
         <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png" info="Sigil of Air"/>
-        <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NOTImpactSigil.png"/>
+        <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NOTImpactSigil.png" info="No Impact Sigil"/>
       </MarkerCategory><!--/BasicSigil-->
 
       <!--Utility-->
       <MarkerCategory name="Utility" DisplayName="Utility">
         <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
-          <MarkerCategory name="CentaurPotion" DisplayName="Centaur Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\CentaurPotion.png"/>
-          <MarkerCategory name="DemonPotion" DisplayName="Demon Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DemonPotion.png"/>
-          <MarkerCategory name="DestroyerPotion" DisplayName="Destroyer Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DestroyerPotion.png"/>
-          <MarkerCategory name="DredgePotion" DisplayName="Dredge Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DredgePotion.png"/>
-          <MarkerCategory name="ElementalPotion" DisplayName="Elemental Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\ElementalPotion.png"/>
-          <MarkerCategory name="FlamelegionPotion" DisplayName="Flame Legion Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\FlamelegionPotion.png"/>
-          <MarkerCategory name="GhostPotion" DisplayName="Ghost Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\GhostPotion.png"/>
-          <MarkerCategory name="GrawlPotion" DisplayName="Grawl Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\GrawlPotion.png"/>
-          <MarkerCategory name="IcebroodPotion" DisplayName="Icebrood Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\IcebroodPotion.png"/>
-          <MarkerCategory name="InquestPotion" DisplayName="Inquest Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png"/>
-          <MarkerCategory name="SerpentPotion" DisplayName="Krait Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\KraitPotion.png"/>
-          <MarkerCategory name="NightmareCourtPotion" DisplayName="Nightmare Court Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\NightmareCourtPotion.png"/>
-          <MarkerCategory name="OgrePotion" DisplayName="Ogre Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OgrePotion.png"/>
-          <MarkerCategory name="OutlawSlaying" DisplayName="Outlaw Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OutlawPotion.png"/>
-          <MarkerCategory name="ScarletsArmyPotion" DisplayName="Scarlets Army Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\ScarletPotion.png"/>
-          <MarkerCategory name="SonsOfSvanirPotion" DisplayName="Sons Of Svanir Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\SvanirPotion.png"/>
-          <MarkerCategory name="UndeadPotion" DisplayName="Undead Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\UndeadPotion.png"/>
-          <MarkerCategory name="NOpotionMarker" DisplayName="NO Potion Marker" iconFile="Data\dungeoneer-pack\PotionMarkers\NOpotionMarker.png"/>
+          <MarkerCategory name="CentaurPotion" DisplayName="Centaur Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\CentaurPotion.png" info="Potion of Centaur Slaying"/>
+          <MarkerCategory name="DemonPotion" DisplayName="Demon Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DemonPotion.png" info="Potion of Demon Slaying"/>
+          <MarkerCategory name="DestroyerPotion" DisplayName="Destroyer Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DestroyerPotion.png" info="Potion of Destroyer Slaying"/>
+          <MarkerCategory name="DredgePotion" DisplayName="Dredge Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DredgePotion.png" info="Potion of Dredge Slaying"/>
+          <MarkerCategory name="ElementalPotion" DisplayName="Elemental Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\ElementalPotion.png" info="Potion of Elemental Slaying"/>
+          <MarkerCategory name="FlamelegionPotion" DisplayName="Flame Legion Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\FlamelegionPotion.png" info="Potion of Flame Legion Slaying"/>
+          <MarkerCategory name="GhostPotion" DisplayName="Ghost Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\GhostPotion.png" info="Potion of Ghost Slaying"/>
+          <MarkerCategory name="GrawlPotion" DisplayName="Grawl Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\GrawlPotion.png" info="Potion of Grawl Slaying"/>
+          <MarkerCategory name="IcebroodPotion" DisplayName="Icebrood Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\IcebroodPotion.png" info="Potion of Icebrood Slaying"/>
+          <MarkerCategory name="InquestPotion" DisplayName="Inquest Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png" info="Potion of Inquest Slaying"/>
+          <MarkerCategory name="SerpentPotion" DisplayName="Krait Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\KraitPotion.png" info="Potion of Krait Slaying"/>
+          <MarkerCategory name="NightmareCourtPotion" DisplayName="Nightmare Court Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\NightmareCourtPotion.png" info="Potion of Nightmare Court Slaying"/>
+          <MarkerCategory name="OgrePotion" DisplayName="Ogre Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OgrePotion.png" info="Potion of Ogre Slaying"/>
+          <MarkerCategory name="OutlawSlaying" DisplayName="Outlaw Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OutlawPotion.png" info="Potion of Outlaw Slaying"/>
+          <MarkerCategory name="ScarletsArmyPotion" DisplayName="Scarlets Army Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\ScarletPotion.png" info="Potion of Scarlet's Armies"/>
+          <MarkerCategory name="SonsOfSvanirPotion" DisplayName="Sons Of Svanir Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\SvanirPotion.png" info="Potion of Sons of Svanir Slaying"/>
+          <MarkerCategory name="UndeadPotion" DisplayName="Undead Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\UndeadPotion.png" info="Potion of Undead Slaying"/>
+          <MarkerCategory name="NOpotionMarker" DisplayName="NO Potion Marker" iconFile="Data\dungeoneer-pack\PotionMarkers\NOpotionMarker.png" info="No Potion"/>
         </MarkerCategory><!--/SlayingPotions-->
       </MarkerCategory><!--/Utility-->
 
