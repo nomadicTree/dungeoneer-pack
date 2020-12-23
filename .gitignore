@@ -4,3 +4,4 @@ build.ps1
 *.zip
 *.sh
 *.xlsx
+*.code-workspace
