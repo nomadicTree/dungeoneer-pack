@@ -72,6 +72,11 @@
     <!--Up-->
     <!--Up | Reflects for Leurent-->
     <POI MapID="67" xpos="155.481" ypos="33.5809" zpos="61.7718" type="dp.common.boon_skillreminders.reflectmarker" GUID="Dai31GOuj0afVka1N/iHwg=="/>
+	  
+    <!--Aetherpath-->
+    <!--Aether | Leap for Mushroom / Ooze skip-->
+    <POI MapID="67" xpos="-161.861" ypos="35.4484" zpos="-240.748" type="dp.common.leapandjumpspots.leapstart" GUID="LUoGlbG9mki/xxfdW5DLMw=="/>
+    <POI MapID="67" xpos="-158.833" ypos="33.4083" zpos="-253.992" type="dp.common.leapandjumpspots.leapaim" GUID="zcw7hkocpUydrETCFSMgVg=="/>
         
   </POIs>
 
