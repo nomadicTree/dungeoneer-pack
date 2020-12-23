@@ -40,11 +40,24 @@
     <!--Explorable | Leap over the second gate-->
     <POI MapID="67" xpos="106.499" ypos="41.6025" zpos="-75.8541" type="dp.common.leapandjumpspots.leapstart" GUID="KDDWEWMJIkyrg2ysdPFAwQ=="/>  
     <POI MapID="67" xpos="92.3885" ypos="39.3951" zpos="-78.9604" type="dp.common.leapandjumpspots.leapaim" GUID="/WF9TDa/lkqUkr5a16SepQ=="/>
+    <!--Explorable | Leap out of the map to skip to the final boss-->
+    <POI MapID="67" xpos="165.895" ypos="41.5298" zpos="-96.7077" type="dp.common.leapandjumpspots.jumpmarker" GUID="BVycQb90wEiMppglNYHGrw=="/>
+    <POI MapID="67" xpos="172.213" ypos="45.5532" zpos="-91.9664" type="dp.common.leapandjumpspots.jumpmarker" GUID="WM9oSA6xUkii3RPML9utzQ=="/>
+    <POI MapID="67" xpos="174.165" ypos="46.5493" zpos="-96.5654" type="dp.common.leapandjumpspots.jumpmarker" GUID="Ia7XM4kHukuw92ES8AMglQ=="/>
+    <POI MapID="67" xpos="169.89" ypos="47.7891" zpos="-99.23" type="dp.common.leapandjumpspots.jumpmarker" GUID="vA/ObOIoKUCBxOscbqiswA=="/>
+    <POI MapID="67" xpos="169.898" ypos="50.3759" zpos="-96.8898" type="dp.common.leapandjumpspots.jumpmarker" GUID="qik+F2zfLUWqr9EgMeROWw=="/>
+    <POI MapID="67" xpos="170.781" ypos="52.2938" zpos="-95.4485" type="dp.common.leapandjumpspots.jumpmarker" GUID="hYd0nqAwnka2v5+maBnlgQ=="/>
+    <POI MapID="67" xpos="171.253" ypos="52.1325" zpos="-102.558" type="dp.common.leapandjumpspots.jumpmarker" GUID="1WcIlizjmEChooQdlzda/w=="/>
+    <POI MapID="67" xpos="167.833" ypos="53.9391" zpos="-108.314" type="dp.common.leapandjumpspots.jumpmarker" GUID="X7DHGsUrAkKql6GaZ7UA2A=="/>
+    <POI MapID="67" xpos="165.069" ypos="56.0479" zpos="-111.06" type="dp.common.leapandjumpspots.jumpmarker" GUID="rJz35YQIGUu3JcZMi7xS0w=="/>
+    <POI MapID="67" xpos="169.906" ypos="59.4392" zpos="-112.73" type="dp.common.leapandjumpspots.jumpmarker" GUID="cfc1/dWmvEysKyjcVlzUkQ=="/>
+    <POI MapID="67" xpos="145.685" ypos="67.6231" zpos="-10.9833" type="dp.common.leapandjumpspots.jumpmarker" GUID="nFLFzcnq9kK3DqNhJs9+vQ=="/>
+    <POI MapID="67" xpos="145.834" ypos="67.5759" zpos="-0.884455" type="dp.common.leapandjumpspots.jumpmarker" GUID="vNCH33XA6E29WffOLO84fw=="/>
     <!--Explorable | Jump out of regular path to end boss-->
     <POI MapID="67" xpos="129.459" ypos="34.5625" zpos="-88.9989" type="dp.common.leapandjumpspots.jumpmarker" GUID="BH715liQE0eHCnS5cU5b5g=="/>
     <POI MapID="67" xpos="132.044" ypos="36.1682" zpos="-91.3969" type="dp.common.leapandjumpspots.jumpmarker" GUID="boydxQIfhUSynXnJdjjmNQ=="/>
     <POI MapID="67" xpos="132.967" ypos="38.6371" zpos="-95.1931" type="dp.common.leapandjumpspots.leapstart" GUID="3BC3RCT2PE6v494BBvp0xA=="/>
-    <POI MapID="67" xpos="137.09" ypos="41.1916" zpos="-77.6374" type="dp.common.leapandjumpspots.leapaim" GUID="A7V7vxLYEkqMRUidTef1hQ=="/>
+    <POI MapID="67" xpos="137.786" ypos="41.1268" zpos="-78.4656" type="dp.common.leapandjumpspots.leapaim" GUID="A7V7vxLYEkqMRUidTef1hQ=="/>
     <POI MapID="67" xpos="131.774" ypos="38.1436" zpos="-93.3675" type="dp.common.leapandjumpspots.jumpmarker" GUID="pmIMLgDCfkOI/kl25mbMWg=="/>
     <!--Explorable | Portal from the first wurm event to the start-->
     <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalstart" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
