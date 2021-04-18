@@ -78,6 +78,9 @@
     <POI MapID="69" xpos="201.262" ypos="83.981" zpos="-39.9935" type="dp.common.leapandjumpspots.leapstart" GUID="yLncNVukNU2lUUdLzPLuTA=="/>
     <POI MapID="69" xpos="206.484" ypos="85.4064" zpos="-28.3256" type="dp.common.leapandjumpspots.leapaim" GUID="DXMYvlAndUq2n5+ZuxjaSQ=="/>
     <POI MapID="69" xpos="208.964" ypos="85.0068" zpos="-24.4395" type="dp.common.leapandjumpspots.leapstart" GUID="KYCLR9JyxUWIeUeAa3TRKg=="/>
+    <POI MapID="69" xpos="212.783" ypos="84.0352" zpos="-8.39796" type="dp.common.leapandjumpspots.leapaim" GUID="7/pKb4s/fEu//RUeQcoL+g=="/>
+		<POI MapID="69" xpos="219.405" ypos="82.6043" zpos="0.300309" type="dp.common.leapandjumpspots.leapstart" GUID="g+RT66JkN0e1OrEHmQWyEg=="/>
+		<POI MapID="69" xpos="213.981" ypos="85.8876" zpos="-10.3677" type="dp.common.leapandjumpspots.leapaim" GUID="EYJ5FDUCik6FnGiMoMw/zw=="/>
     <!--Path 3 | Final boss-->
     <POI MapID="69" xpos="223.014" ypos="135.609" zpos="236.136" type="dp.common.boon_skillreminders.stability" GUID="Yqq+9TnJiEyEfr47Q90htw=="/>
   </POIs>
