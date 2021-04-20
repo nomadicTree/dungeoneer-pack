@@ -52,8 +52,8 @@
     <POI MapID="69" xpos="-101.474" ypos="113.414" zpos="191.078" type="dp.common.blinkspots.blinkstart" GUID="qWWiSP8mwkSKH59Jlz/JTQ=="/>
     <POI MapID="69" xpos="-74.8358" ypos="112.708" zpos="184.798" type="dp.common.blinkspots.blinkaim" GUID="7TuMuwd5KkCPmgeOjA8BQw=="/>
     <!--Path 1 | Portals in the ball tunnel-->
-    <POI MapID="69" xpos="-107.197" ypos="113.366" zpos="191.818" type="dp.common.portalspots.portalstart" GUID="wzP0nwfsTkmP0eAQ0D8wPg=="/>
-    <POI MapID="69" xpos="-55.6761" ypos="111.092" zpos="192.083" type="dp.common.portalspots.portalend" GUID="Pl3jwxn+0UmQvBAp09h0fA=="/>
+    <POI MapID="69" xpos="-107.197" ypos="113.366" zpos="191.818" type="dp.common.portalspots.portalIN" GUID="wzP0nwfsTkmP0eAQ0D8wPg=="/>
+    <POI MapID="69" xpos="-55.6761" ypos="111.092" zpos="192.083" type="dp.common.portalspots.portalOUT" GUID="Pl3jwxn+0UmQvBAp09h0fA=="/>
 
     <!--Path 2-->
     <!--Path 2 | Prison Warden-->
@@ -64,6 +64,25 @@
     <POI MapID="69" xpos="34.2912" ypos="7.44534" zpos="71.1089" type="dp.dungeon.cof.exp.path3.torches.torch3" GUID="0YemMs2syECPxvex7XwTMg=="/>
     <POI MapID="69" xpos="41.9904" ypos="2.23171" zpos="-39.2807" type="dp.dungeon.cof.exp.path3.torches.torch1" GUID="qS9fRjqLL0WKDlMpto6N6Q=="/>
     <POI MapID="69" xpos="-43.7556" ypos="4.18339" zpos="1.1219" type="dp.dungeon.cof.exp.path3.torches.torch2" GUID="8PkZRCA9JEKoo6/FEbc1+A=="/>
+    <!--Path 3 | Skip torches-->
+    <POI MapID="69" xpos="-50.3069" ypos="52.388" zpos="-67.1934" type="dp.common.leapandjumpspots.jumpmarker" GUID="ZeNGfPimyUKU8X9pdAtdtQ=="/>
+		<POI MapID="69" xpos="-47.964" ypos="47.8377" zpos="-70.7045" type="dp.common.leapandjumpspots.jumpmarker" GUID="OVugphRTFEmg4x7z9iFFeg=="/>
+		<POI MapID="69" xpos="-17.3925" ypos="19.8904" zpos="-75.0627" type="dp.common.leapandjumpspots.jumpmarker" GUID="GD3dyOW7j0CFhguSsXIgNw=="/>
+		<POI MapID="69" xpos="-6.43944" ypos="2.45945" zpos="-61.412" type="dp.common.stealthspots.stealthmarker" GUID="4Ct1If3PF0yDHIJGS1J+pw=="/>
+		<POI MapID="69" xpos="-17.5003" ypos="-0.612031" zpos="65.8321" type="dp.common.blinkspots.blinkstart" GUID="OA0cXba2V0CCu6JpCH9jGg=="/>
+		<POI MapID="69" xpos="-21.9482" ypos="24.0056" zpos="79.8068" type="dp.common.blinkspots.blinkaim" GUID="0UDi+S1VKUq+K57EH8Qytw=="/>
+		<POI MapID="69" xpos="-28.5204" ypos="28.5745" zpos="89.2812" type="dp.common.leapandjumpspots.jumpmarker" GUID="ehSdWmhtNUqb48eQaKsA3A=="/>
+		<POI MapID="69" xpos="-5.7249" ypos="-0.531586" zpos="-15.74" type="dp.common.leapandjumpspots.jumpmarker" GUID="BZglmdBnAUK0eMkLyPL4XQ=="/>
+		<POI MapID="69" xpos="-8.66488" ypos="-0.58202" zpos="23.682" type="dp.common.leapandjumpspots.jumpmarker" GUID="K56Xoxcx+0SVh5yxZLx+uA=="/>
+		<POI MapID="69" xpos="-10.1871" ypos="-0.613852" zpos="48.8468" type="dp.common.leapandjumpspots.jumpmarker" GUID="wo+5kIl0kUqIFvAtR/j48g=="/>
+		<POI MapID="69" xpos="-11.2106" ypos="15.5513" zpos="-76.1715" type="dp.common.leapandjumpspots.jumpmarker" GUID="EUtWgg96ek+x8xMJs3bjlA=="/>
+		<POI MapID="69" xpos="-6.07504" ypos="3.40536" zpos="-70.2336" type="dp.common.leapandjumpspots.jumpmarker" GUID="xr4gLGU2dkGSJzY6gBY1Bg=="/>
+		<POI MapID="69" xpos="-3.78767" ypos="-0.300501" zpos="-31.733" type="dp.common.leapandjumpspots.jumpmarker" GUID="4utf01rbfEWeM9NTHmYv4w=="/>
+		<POI MapID="69" xpos="-7.39692" ypos="-0.556363" zpos="5.3974" type="dp.common.leapandjumpspots.jumpmarker" GUID="X5QVSdGAfE21a6o6RHsnaw=="/>
+		<POI MapID="69" xpos="-32.9905" ypos="29.9916" zpos="103.471" type="dp.common.leapandjumpspots.jumpmarker" GUID="KvGsEu0FZEWzDZyQy6lPtA=="/>
+		<POI MapID="69" xpos="-41.3305" ypos="34.368" zpos="109.67" type="dp.common.leapandjumpspots.jumpmarker" GUID="Bsl3vjXpC0GMK/AUjSOiQg=="/>
+		<POI MapID="69" xpos="-47.7609" ypos="35.1498" zpos="104.758" type="dp.common.leapandjumpspots.jumpmarker" GUID="sx0j0tCyQkqlKF8Q717ufQ=="/>
+		<POI MapID="69" xpos="-53.5583" ypos="38.7387" zpos="96.3897" type="dp.common.stealthspots.stealthmarker" GUID="/ELcIJlI20G7AVazPIXiEg=="/>
     <!--Path 3 | Leaping over the gate to skip the capture point event-->
     <POI MapID="69" xpos="177.218" ypos="71.8786" zpos="-62.5511" type="dp.common.leapandjumpspots.leapstart" GUID="04uu8zbYGkGvUAF9xZYUww=="/>
     <POI MapID="69" xpos="176.5" ypos="73.8" zpos="-69.7" type="dp.common.leapandjumpspots.leapaim" GUID="kb04twkk3UqnE5jFTFLSIg=="/>
@@ -81,6 +100,8 @@
     <POI MapID="69" xpos="212.783" ypos="84.0352" zpos="-8.39796" type="dp.common.leapandjumpspots.leapaim" GUID="7/pKb4s/fEu//RUeQcoL+g=="/>
 		<POI MapID="69" xpos="219.405" ypos="82.6043" zpos="0.300309" type="dp.common.leapandjumpspots.leapstart" GUID="g+RT66JkN0e1OrEHmQWyEg=="/>
 		<POI MapID="69" xpos="213.981" ypos="85.8876" zpos="-10.3677" type="dp.common.leapandjumpspots.leapaim" GUID="EYJ5FDUCik6FnGiMoMw/zw=="/>
+    <POI MapID="69" xpos="238.014" ypos="86.2127" zpos="11.4282" type="dp.common.portalspots.portalOUT" GUID="iYB4lFrJ0Uikgj/8C6tnmQ=="/>
+		<POI MapID="69" xpos="209.325" ypos="76.0744" zpos="-18.1483" type="dp.common.portalspots.portalIN" GUID="/XGj/ZDtJUaTxlpKUPkwgA=="/>
     <!--Path 3 | Final boss-->
     <POI MapID="69" xpos="223.014" ypos="135.609" zpos="236.136" type="dp.common.boon_skillreminders.stability" GUID="Yqq+9TnJiEyEfr47Q90htw=="/>
   </POIs>
