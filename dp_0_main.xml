@@ -14,7 +14,7 @@
     </MarkerCategory><!--/raid-->
 
     <!--Common markers-->
-    <MarkerCategory name="common" DisplayName="Common">
+    <MarkerCategory name="index" DisplayName="Index">
       <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;-------[-COMMON-]-------&gt;"/>
       <!--SlayingSigil-->
       <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
