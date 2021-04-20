@@ -38,16 +38,6 @@
     <POI MapID="64" xpos="128.97" ypos="146.03" zpos="-93.2302" type="dp.common.boon_skillreminders.reflectmarker" GUID="A/jHzkiSkUy5CU/5fKKPmg=="/>
 
     <!--Path 2-->
-    <!--Path 2 | Kreutzerova and Champions-->
-    <POI MapID="64" xpos="-100.465" ypos="211.128" zpos="192.736" type="dp.common.boon_skillreminders.stability" GUID="jsip3dxB10+IzqJJwUgo0g=="/>
-    <POI MapID="64" xpos="-100.801" ypos="211.121" zpos="190.752" type="dp.common.boon_skillreminders.reflectmarker" GUID="iCTnoCG5XEus31yGcf/1ow=="/>
-    <POI MapID="64" xpos="-102.58" ypos="211.458" zpos="233.783" type="dp.common.boon_skillreminders.reflectmarker" GUID="x0BkdGNrPEO/rnv7X3tSUg=="/>
-    <POI MapID="64" xpos="-104.719" ypos="211.458" zpos="234.031" type="dp.common.boon_skillreminders.stability" GUID="Niq7mpsBzE6WYlHxLRBIvA=="/>
-    <POI MapID="64" xpos="-119.695" ypos="211.131" zpos="180.424" type="dp.common.boon_skillreminders.reflectmarker" GUID="lgejDH61Kk23gdvSMq14jQ=="/>
-    <POI MapID="64" xpos="-119.897" ypos="211.131" zpos="178.587" type="dp.common.boon_skillreminders.stability" GUID="3lvihuMtqEqT7QuV2CFs2w=="/>
-    <POI MapID="64" xpos="-121.466" ypos="211.122" zpos="216.55" type="dp.common.boon_skillreminders.reflectmarker" GUID="XBbhYFii0UGnwBLVq1SisQ=="/>
-    <POI MapID="64" xpos="-122.39" ypos="211.129" zpos="214.763" type="dp.common.boon_skillreminders.stability" GUID="u0GQqHETCEWQ3fVxgtaUvg=="/>
-    <POI MapID="64" xpos="-134.81" ypos="214.132" zpos="138.137" type="dp.common.boon_skillreminders.stability" GUID="e2hLcFh5xEqJNTKBGv1Wsg=="/>
     <!--Path 2 | Jump over the door after the champions-->
     <POI MapID="64" xpos="-84.5198" ypos="217.019" zpos="218.243" type="dp.common.leapandjumpspots.leapaim" GUID="9ihnDbWRM0m3cVd0OWeMdA=="/>
     <POI MapID="64" xpos="-94.5168" ypos="216.22" zpos="225.563" type="dp.common.leapandjumpspots.leapstart" GUID="3iLZnKgRQUKqZZ2/1Xvh9Q=="/>
