@@ -38,20 +38,20 @@
   <POIs>
     <!--Story - MapID=66-->
     <!--Story | Entrance markers-->
-    <POI MapID="66" xpos="-232.797" ypos="92.6771" zpos="-264.973" type="dp.index.daynight.night" info="Attribute cap: 2400" GUID="LVsfLfnqVk+hRIvWU2IaFQ=="/>
-    <POI MapID="66" xpos="-248.735" ypos="92.4619" zpos="-253.938" type="dp.index.basicsigil.nightsigil" GUID="quP7E5JSFke+sTodSYx0YA=="/> 
-    <POI MapID="66" xpos="-246.563" ypos="92.426" zpos="-253.639" type="dp.index.slayingsigil.flamelegionslaying" GUID="GLIzDsnyrU+Qzd3om2PhTA=="/>
-    <POI MapID="66" xpos="-244.57" ypos="92.4099" zpos="-253.365" type="dp.index.utility.slayingpotions.flamelegionpotion" GUID="d31TzZAEAESKUOh7eXZoLA=="/>
+    <POI MapID="66" xpos="-232.797" ypos="92.6771" zpos="-264.973" type="dp.dungeon.cof.story.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 2400" GUID="LVsfLfnqVk+hRIvWU2IaFQ=="/>
+    <POI MapID="66" xpos="-248.735" ypos="92.4619" zpos="-253.938" type="dp.dungeon.cof.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="quP7E5JSFke+sTodSYx0YA=="/> 
+    <POI MapID="66" xpos="-246.563" ypos="92.426" zpos="-253.639" type="dp.dungeon.cof.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\FlamelegionSlaying.png" info="Sigil of Smothering" GUID="GLIzDsnyrU+Qzd3om2PhTA=="/>
+    <POI MapID="66" xpos="-244.57" ypos="92.4099" zpos="-253.365" type="dp.dungeon.cof.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\FlamelegionPotion.png" info="Potion of Flame Legion Slaying" GUID="d31TzZAEAESKUOh7eXZoLA=="/>
     <!--Story | Entrance leap to NPCs-->
     <POI MapID="66" xpos="-98.88" ypos="71.9313" zpos="-82.4774" type="dp.index.leapandjumpspots.leapstart" GUID=""/>
     <POI MapID="66" xpos="-79.1048" ypos="54.4752" zpos="-59.9021" type="dp.index.leapandjumpspots.farleapaim" GUID=""/>
 
     <!--Explorable ID=69-->
     <!--Explorable | Entrance markers-->
-    <POI MapID="69" xpos="-136.127" ypos="88.08" zpos="-155.745" type="dp.index.daynight.night" info="Attribute cap: 2260" GUID="J4vndef4ZE+Rah6EM+xacw=="/>
-    <POI MapID="69" xpos="-152.518" ypos="89.5794" zpos="-153.815" type="dp.index.basicsigil.nightsigil" GUID="x6E1nlqwoUCox5IR3Rv1oQ=="/>
-    <POI MapID="69" xpos="-150.951" ypos="89.4793" zpos="-152.356" type="dp.index.slayingsigil.flamelegionslaying" GUID="p0wbYd4lMkSgFzSUFJbw7Q=="/>
-    <POI MapID="69" xpos="-149.066" ypos="89.1783" zpos="-150.643" type="dp.index.utility.slayingpotions.flamelegionpotion" GUID="aqQNHzDVmEGdMPW1qBR3ew=="/>
+    <POI MapID="69" xpos="-136.127" ypos="88.08" zpos="-155.745" type="dp.dungeon.cof.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 2260" GUID="J4vndef4ZE+Rah6EM+xacw=="/>
+    <POI MapID="69" xpos="-152.518" ypos="89.5794" zpos="-153.815" type="dp.dungeon.cof.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="x6E1nlqwoUCox5IR3Rv1oQ=="/>
+    <POI MapID="69" xpos="-150.951" ypos="89.4793" zpos="-152.356" type="dp.dungeon.cof.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\FlamelegionSlaying.png" info="Sigil of Smothering" GUID="p0wbYd4lMkSgFzSUFJbw7Q=="/>
+    <POI MapID="69" xpos="-149.066" ypos="89.1783" zpos="-150.643" type="dp.dungeon.cof.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\FlamelegionPotion.png" info="Potion of Flame Legion Slaying" GUID="aqQNHzDVmEGdMPW1qBR3ew=="/>
 
     <!--Explorable | Entrance leap to path choosing NPC-->
     <POI MapID="69" xpos="-98.88" ypos="71.9313" zpos="-82.4774" type="dp.index.leapandjumpspots.leapstart" GUID="vDFR5wbynUGa2apIUnxDbg=="/>
