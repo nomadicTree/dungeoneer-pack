@@ -5,9 +5,23 @@
       <MarkerCategory name="ta" DisplayName="Twilight Arbor">
 
         <MarkerCategory name="story" DisplayName="Story">
+
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/story-->
 
         <MarkerCategory name="exp" DisplayName="Explorable">
+
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/exp-->
 
       </MarkerCategory><!--/ta-->
@@ -16,19 +30,22 @@
 
   <POIs>
     <!--Story MapID=68-->
-    <!--Story | Entrance markers-->
-    <POI MapID="68" xpos="254.769" ypos="56.7551" zpos="-269.32" type="dp.common.daynight.night" info="Attribute cap: 1270" GUID="h/2zCsgi0k6a46NpTF2/jQ=="/>
-    <POI MapID="68" xpos="254.197" ypos="54.7807" zpos="-288.589" type="dp.common.basicsigil.nightsigil" GUID="xKe3RFWuOUKeGB9amG1oEA=="/>
-    <POI MapID="68" xpos="252.888" ypos="54.8106" zpos="-286.989" type="dp.common.slayingsigil.nightmarecourtslaying" GUID="U8gq5dqEcU2ZYyU6eurP2A=="/>
-		<POI MapID="68" xpos="251.543" ypos="55.1521" zpos="-285.311" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="zrzabuFLq0qD6xdzWHs2kA=="/>
+    <!--Story | Meta markers-->
+    <!--Story | Meta markers | Entrance-->
+    <POI MapID="68" xpos="254.769" ypos="56.7551" zpos="-269.32" type="dp.dungeon.ta.story.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 1270" GUID="h/2zCsgi0k6a46NpTF2/jQ=="/>
+    <POI MapID="68" xpos="254.197" ypos="54.7807" zpos="-288.589" type="dp.dungeon.ta.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="xKe3RFWuOUKeGB9amG1oEA=="/>
+    <POI MapID="68" xpos="252.888" ypos="54.8106" zpos="-286.989" type="dp.dungeon.ta.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="U8gq5dqEcU2ZYyU6eurP2A=="/>
+		<POI MapID="68" xpos="251.543" ypos="55.1521" zpos="-285.311" type="dp.dungeon.ta.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\NightmareCourtPotion.png" info="Potion of Nightmare Court Slaying" GUID="zrzabuFLq0qD6xdzWHs2kA=="/>
 
     <!--Explorable - MapID=67-->
-    <!--Explorable | Entrance markers-->
-    <POI MapID="67" xpos="148.695" ypos="46.7047" zpos="-282.322" type="dp.common.daynight.night" info="Attribute cap: 1420" GUID="iiLfWH1kfkK8VsTVXpVBnA=="/>
-    <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.common.basicsigil.nightsigil" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
-    <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.common.slayingsigil.nightmarecourtslaying" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
-    <POI MapID="67" xpos="133.962" ypos="43.1964" zpos="-242.131" type="dp.common.utility.slayingpotions.nightmarecourtpotion" GUID="TyjDYwWwC0u3L/hIjJyEFw=="/>
-    <POI MapID="67" xpos="91.1702" ypos="49.0389" zpos="-288.323" type="dp.common.utility.slayingpotions.scarletsarmypotion" GUID="d91KPVpkDUm8sb47MJ6BXg=="/>
+    <!--Explorable | Meta markers-->
+    <!--Explorable | Meta markers  | Entrance-->
+    <POI MapID="67" xpos="148.695" ypos="46.7047" zpos="-282.322" type="dp.dungeon.ta.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 1420" GUID="iiLfWH1kfkK8VsTVXpVBnA=="/>
+    <POI MapID="67" xpos="148.772" ypos="47.5039" zpos="-267.53" type="dp.dungeon.ta.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="m5jbeexnvECZQuwEoGKHvw=="/>
+    <POI MapID="67" xpos="150.623" ypos="48.2315" zpos="-267.271" type="dp.dungeon.ta.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\NightmareCourtSlaying.png" info="Sigil of Dreams" GUID="BYr6T5aK2UCCABLjQ07o4A=="/>
+    <POI MapID="67" xpos="133.962" ypos="43.1964" zpos="-242.131" type="dp.dungeon.ta.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\NightmareCourtPotion.png" info="Potion of Nightmare Court Slaying" GUID="TyjDYwWwC0u3L/hIjJyEFw=="/>
+    <POI MapID="67" xpos="91.1702" ypos="49.0389" zpos="-288.323" type="dp.dungeon.ta.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\ScarletPotion.png" info="Potion of Scarlet's Armies" GUID="d91KPVpkDUm8sb47MJ6BXg=="/>
+    
     <!--Explorable | Jump over the first gate-->
     <POI MapID="67" xpos="140.603" ypos="45.9042" zpos="-245.719" type="dp.common.leapandjumpspots.jumpmarker" GUID="3L6KsUWMjkO/ocnRXSlaUw=="/>
     <POI MapID="67" xpos="142.15" ypos="46.7379" zpos="-246.845" type="dp.common.leapandjumpspots.jumpmarker" GUID="XeK+Et7PN0GIN5KakpG2rg=="/>
@@ -60,10 +77,10 @@
     <POI MapID="67" xpos="137.786" ypos="41.1268" zpos="-78.4656" type="dp.common.leapandjumpspots.leapaim" GUID="A7V7vxLYEkqMRUidTef1hQ=="/>
     <POI MapID="67" xpos="131.774" ypos="38.1436" zpos="-93.3675" type="dp.common.leapandjumpspots.jumpmarker" GUID="pmIMLgDCfkOI/kl25mbMWg=="/>
     <!--Explorable | Portal from the first wurm event to the start-->
-    <POI MapID="67" xpos="58.9938" ypos="24.2094" zpos="-123.24" type="dp.common.portalspots.portalstart" GUID="paQajMqiZ0arBoG8uIok/A=="/>
-    <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalend" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
+    <POI MapID="67" xpos="58.9938" ypos="24.2094" zpos="-123.24" type="dp.common.portalspots.portalOUT" GUID="paQajMqiZ0arBoG8uIok/A=="/>
+    <POI MapID="67" xpos="113.429" ypos="45.5915" zpos="-230.353" type="dp.common.portalspots.portalIN" GUID="Tcxy1go5U0ShyXV8xhXX8Q=="/>
     <!--Explorable | Alternative portal route for wurm event at the start-->
-    <POI MapID="67" xpos="68.1734" ypos="48.9365" zpos="-111.919" type="dp.common.portalspots.portalstart" GUID="f6IFV0WqfEmV2WsGE2oKBA=="/>
+    <POI MapID="67" xpos="68.1734" ypos="48.9365" zpos="-111.919" type="dp.common.portalspots.portalOUT" GUID="f6IFV0WqfEmV2WsGE2oKBA=="/>
 		<POI MapID="67" xpos="152.807" ypos="59.3639" zpos="-120.954" type="dp.common.leapandjumpspots.jumpmarker" GUID="K2Ew20XzG06K8BRkDsJs2w=="/>
 		<POI MapID="67" xpos="140.443" ypos="60.4251" zpos="-128.929" type="dp.common.leapandjumpspots.jumpmarker" GUID="23eafvi/WEicL3FBlEbWng=="/>
 		<POI MapID="67" xpos="123.618" ypos="58.8884" zpos="-133.141" type="dp.common.leapandjumpspots.jumpmarker" GUID="sT5w44Mts0a68bpP7J00/g=="/>
@@ -78,8 +95,8 @@
 
     <!-- Forward | Jump, port, and route markers to get to final boss while party kill elites in red bubbles-->
     <POI MapID="67" xpos="207.647" ypos="56.065" zpos="37.1359" type="dp.common.leapandjumpspots.jumpmarker" GUID="FPLl/OtE+U+st+/SMxYAdg=="/>
-		<POI MapID="67" xpos="146.845" ypos="41.2128" zpos="38.4587" type="dp.common.portalspots.portalstart" GUID="wAnLEuTLU0Ss5RO3DsL2Lw=="/>
-		<POI MapID="67" xpos="89.7513" ypos="35.7851" zpos="-71.0556" type="dp.common.portalspots.portalend" GUID="BOj7Q5Gk6kGXk+Ew7Pthcw=="/>
+		<POI MapID="67" xpos="146.845" ypos="41.2128" zpos="38.4587" type="dp.common.portalspots.portalOUT" GUID="wAnLEuTLU0Ss5RO3DsL2Lw=="/>
+		<POI MapID="67" xpos="89.7513" ypos="35.7851" zpos="-71.0556" type="dp.common.portalspots.portalIN" GUID="BOj7Q5Gk6kGXk+Ew7Pthcw=="/>
 		<POI MapID="67" xpos="171.977" ypos="65.2861" zpos="-94.3088" type="dp.common.leapandjumpspots.jumpmarker" GUID="yPg3s/8OyEG35ZXQS4A75g=="/>
 		<POI MapID="67" xpos="172.182" ypos="68.6821" zpos="-66.3564" type="dp.common.leapandjumpspots.jumpmarker" GUID="/hpmtutfNECwkGMepgXaLA=="/>
 		<POI MapID="67" xpos="163.767" ypos="69.8028" zpos="-45.7736" type="dp.common.leapandjumpspots.jumpmarker" GUID="E9wUcZ0iKE2WbXiMXofkzQ=="/>
@@ -93,6 +110,19 @@
     <!--Up-->
     <!--Up | Reflects for Leurent-->
     <POI MapID="67" xpos="155.481" ypos="33.5809" zpos="61.7718" type="dp.common.boon_skillreminders.reflectmarker" GUID="Dai31GOuj0afVka1N/iHwg=="/>
+
+    <!--Aether-->
+    <!--Aether | Ooze skip-->
+    <POI MapID="67" xpos="-158.833" ypos="33.4083" zpos="-253.992" type="dp.common.leapandjumpspots.leapstart" GUID="zcw7hkocpUydrETCFSMgVg=="/>
+		<POI MapID="67" xpos="-161.861" ypos="35.4484" zpos="-240.748" type="dp.common.leapandjumpspots.leapaim" GUID="LUoGlbG9mki/xxfdW5DLMw=="/>
+		<POI MapID="67" xpos="-270.005" ypos="26.7479" zpos="-249.548" type="dp.common.leapandjumpspots.leapaim" GUID="nva9RDaBBUm18z93kMPNyA=="/>
+		<POI MapID="67" xpos="-259.2" ypos="24" zpos="-248.835" type="dp.common.leapandjumpspots.leapaim" GUID="id5zPnbCVUCUBvkBov0uiA=="/>
+		<POI MapID="67" xpos="-261.467" ypos="22.4164" zpos="-241.114" type="dp.common.leapandjumpspots.leapstart" GUID="yEjlhEEwKEaN0ZXfBWDxcQ=="/>
+		<POI MapID="67" xpos="-260.33" ypos="24.4164" zpos="-248.087" type="dp.common.leapandjumpspots.leapstart" GUID="7djNktqevUKYiPca4qVLzQ=="/>
+		<POI MapID="67" xpos="-276.509" ypos="27.6998" zpos="-256.543" type="dp.common.portalspots.portalout" GUID="0wmxmX/4u0mOUCV2FPYvHQ=="/>
+		<POI MapID="67" xpos="-181.063" ypos="26.2012" zpos="-238.161" type="dp.common.portalspots.portalin" GUID="+Dw8wv6DqUyxOcM2XaR8UA=="/>
+    <POI MapID="67" xpos="-178.486" ypos="26.6195" zpos="-231.67" type="dp.common.blinkspots.blinkstart" GUID="14ISVHUHP0eF/r7xF/+qqw=="/>
+		<POI MapID="67" xpos="-197.067" ypos="21.7357" zpos="-236.704" type="dp.common.blinkspots.blinkaim" GUID="bt4h4PvU/EuMNxLHlicXPA=="/>
         
   </POIs>
 
