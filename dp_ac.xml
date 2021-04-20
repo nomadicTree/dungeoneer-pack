@@ -4,13 +4,28 @@
     <MarkerCategory name="dungeon">
       <MarkerCategory name="ac" DisplayName="Ascalonian Catacombs">
 
+        <!--Story-->
         <MarkerCategory name="story" DisplayName="Story">
+
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+          
         </MarkerCategory><!--/story-->
 
+        <!--Explorable-->
         <MarkerCategory name="exp" DisplayName="Explorable">
 
-          <MarkerCategory name="path1" DisplayName="Path1">
-            <MarkerCategory name="scepterlocations" DisplayName="Scepter Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360" info="Activate me!" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
+          <MarkerCategory name="path1" DisplayName="Path 1">
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Piece Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360" info="Activate me!" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
           </MarkerCategory><!--/path1-->
 
           <MarkerCategory name="path3" DisplayName="Path 3">
@@ -25,22 +40,24 @@
 
   <POIs>
     <!--Story - MapID=33-->
-    <!--Entrance markers-->
-    <POI MapID="33" xpos="-276.911" ypos="57.2957" zpos="-256.128" type="dp.common.daynight.night" GUID="SJWCBV+JIkeKRG+pasG6Vw==" info="Attribute cap: 640"/>
-    <POI MapID="33" xpos="-289.484" ypos="56.8225" zpos="-258.877" type="dp.common.basicsigil.nightsigil" GUID="sCIfPExiEE66M7qoZ/Tpog=="/>
-    <POI MapID="33" xpos="-288.634" ypos="56.8225" zpos="-257.053" type="dp.common.basicsigil.impactsigil" GUID="b1FVGjBCQkmN0BARqE9G1Q=="/>
-    <POI MapID="33" xpos="-287.737" ypos="56.9657" zpos="-254.888" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="4IKYAvTP70amk/sPh6Pw+A=="/>
-    <!--Story jump over first gate-->
+    <!--Story | Meta markers-->
+    <!--Story | Meta markers | Entrance-->
+    <POI MapID="33" xpos="-276.911" ypos="57.2957" zpos="-256.128" type="dp.dungeon.ac.story.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 640" GUID="SJWCBV+JIkeKRG+pasG6Vw=="/>
+    <POI MapID="33" xpos="-289.484" ypos="56.8225" zpos="-258.877" type="dp.dungeon.ac.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="sCIfPExiEE66M7qoZ/Tpog=="/>
+    <POI MapID="33" xpos="-288.634" ypos="56.8225" zpos="-257.053" type="dp.dungeon.ac.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="b1FVGjBCQkmN0BARqE9G1Q=="/>
+    <POI MapID="33" xpos="-287.737" ypos="56.9657" zpos="-254.888" type="dp.dungeon.ac.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\NOpotionMarker.png" info="No Potion" GUID="4IKYAvTP70amk/sPh6Pw+A==" />
+    <!--Story | jump over first gate-->
     <POI MapID="33" xpos="-152.582" ypos="37.1515" zpos="-154.831" type="dp.common.leapandjumpspots.jumpmarker" GUID="2UqeIJafBUOHKo41oBfLug=="/>
     <POI MapID="33" xpos="-157.103" ypos="37.0147" zpos="-154.209" type="dp.common.leapandjumpspots.jumpmarker" GUID="FNIGGYSI70OWabyzcGV4rA=="/>
     <POI MapID="33" xpos="-151.194" ypos="38.5436" zpos="-153.985" type="dp.common.leapandjumpspots.jumpmarker" GUID="jwXSooY2LkSJlr0KymifaA=="/>
 
     <!--Explorable - MapID=36-->
-    <!--Explorable | Entrance markers-->
-    <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.common.daynight.night" GUID="jL04kVqPNkmsPxO6NAJ4gg==" info="Attribute cap: 720"/>
-    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.common.basicsigil.nightsigil" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
-    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.common.basicsigil.impactsigil" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
-    <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.common.utility.slayingpotions.nopotionmarker" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
+    <!--Explorable | Meta markers-->
+    <!--Explorable | Meta markers | Entrance -->
+    <POI MapID="36" xpos="-301.767" ypos="63.1456" zpos="-268.495" type="dp.dungeon.ac.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 720" GUID="jL04kVqPNkmsPxO6NAJ4gg=="/>
+    <POI MapID="36" xpos="-287.424" ypos="62.9417" zpos="-273.965" type="dp.dungeon.ac.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="mpzfVUfXhkmVfHAEe/BPNw=="/>
+    <POI MapID="36" xpos="-288.259" ypos="62.9961" zpos="-275.959" type="dp.dungeon.ac.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="Qh82cCPI0EKnxCxbWzbfqw=="/>
+    <POI MapID="36" xpos="-288.838" ypos="63.1077" zpos="-277.882" type="dp.dungeon.ac.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\NOpotionMarker.png" info="No Potion" GUID="r04E+xyYhE2Uaf/C6YE54A=="/>
     <!--Explorable | Kholer-->
     <POI MapID="36" xpos="71.9345" ypos="41.302" zpos="-54.2681" type="dp.common.boon_skillreminders.reflectmarker" GUID="DA8OTUvurECrTABqQ6bTqQ=="/>
    
@@ -54,21 +71,21 @@
     
     <!--Path 3-->
     <!--Path 3 | Burrow locations-->
-    <POI MapID="36" xpos="342.877" ypos="19.5059" zpos="-35.5957" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="L+rxC6ZX0Ey6i1SMJKHkXA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png"/>
-    <POI MapID="36" xpos="340.051" ypos="19.3481" zpos="-59.8697" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="q/8z/xA20UCScs1KepUMvA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png"/>
-    <POI MapID="36" xpos="298.53" ypos="24.0656" zpos="-47.7369" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="TDti/zAd70WKLiILAaTYyA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png"/>
-    <POI MapID="36" xpos="341.502" ypos="24.0373" zpos="-80.548" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="cjTlOZSa+0uuRPVmXXPCxg==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker4.png"/>
-    <POI MapID="36" xpos="302.382" ypos="19.445" zpos="-70.5815" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="S+E91JpQWkG9ykaGwzawlA==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker5.png"/>
-    <POI MapID="36" xpos="366.801" ypos="24.0367" zpos="-51.5842" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="WCMi8boBl0uHeqDCkAh7bw==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker6.png"/>
-    <POI MapID="36" xpos="335.088" ypos="24.15" zpos="-17.1958" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="ckXZ5ECsa0eDYWVFcrVs2A==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker7.png"/>
-    <POI MapID="36" xpos="360.572" ypos="19.6797" zpos="-43.0751" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="LMlHRuBVt0udNhW2jB01IQ==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker8.png"/>
-    <POI MapID="36" xpos="334.156" ypos="19.7126" zpos="-42.0614" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="NSF8kUEBI0mvUeZZNxS8zQ==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker9.png"/>
-    <POI MapID="36" xpos="318.785" ypos="19.4436" zpos="-74.9698" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="PRmg7oVzGk+8mhECkFrTDQ==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker10.png"/>
-    <POI MapID="36" xpos="353.982" ypos="24.064" zpos="-81.4307" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="3RC4W9wKLE6+S8JiE2gweQ==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker11.png"/>
-    <POI MapID="36" xpos="314.301" ypos="24.1044" zpos="-33.3645" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="NfoYQ+LyokCBAdLvLFQawg==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker12.png"/>
-    <POI MapID="36" xpos="362.916" ypos="19.4427" zpos="-32.0799" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="vds+Xa/n7Euj+qf7fctgLg==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker13.png"/>
-    <POI MapID="36" xpos="325.076" ypos="19.4525" zpos="-61.362" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="anEYmPNdL0O/fa5G6FqEGg==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker14.png"/>
-    <POI MapID="36" xpos="369.404" ypos="19.4486" zpos="-19.6158" type="dp.dungeon.ac.exp.path3.burrowlocations" GUID="MdJUoNUcaEyCZVlGP+u+0w==" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker15.png"/>
+    <POI MapID="36" xpos="342.877" ypos="19.5059" zpos="-35.5957" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker1.png" GUID="L+rxC6ZX0Ey6i1SMJKHkXA=="/>
+    <POI MapID="36" xpos="340.051" ypos="19.3481" zpos="-59.8697" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker2.png" GUID="q/8z/xA20UCScs1KepUMvA=="/>
+    <POI MapID="36" xpos="298.53" ypos="24.0656" zpos="-47.7369" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker3.png" GUID="TDti/zAd70WKLiILAaTYyA=="/>
+    <POI MapID="36" xpos="341.502" ypos="24.0373" zpos="-80.548" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker4.png" GUID="cjTlOZSa+0uuRPVmXXPCxg=="/>
+    <POI MapID="36" xpos="302.382" ypos="19.445" zpos="-70.5815" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker5.png" GUID="S+E91JpQWkG9ykaGwzawlA=="/>
+    <POI MapID="36" xpos="366.801" ypos="24.0367" zpos="-51.5842" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker6.png" GUID="WCMi8boBl0uHeqDCkAh7bw=="/>
+    <POI MapID="36" xpos="335.088" ypos="24.15" zpos="-17.1958" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker7.png" GUID="ckXZ5ECsa0eDYWVFcrVs2A=="/>
+    <POI MapID="36" xpos="360.572" ypos="19.6797" zpos="-43.0751" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker8.png" GUID="LMlHRuBVt0udNhW2jB01IQ=="/>
+    <POI MapID="36" xpos="334.156" ypos="19.7126" zpos="-42.0614" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker9.png" GUID="NSF8kUEBI0mvUeZZNxS8zQ=="/>
+    <POI MapID="36" xpos="318.785" ypos="19.4436" zpos="-74.9698" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker10.png" GUID="PRmg7oVzGk+8mhECkFrTDQ=="/>
+    <POI MapID="36" xpos="353.982" ypos="24.064" zpos="-81.4307" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker11.png" GUID="3RC4W9wKLE6+S8JiE2gweQ=="/>
+    <POI MapID="36" xpos="314.301" ypos="24.1044" zpos="-33.3645" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker12.png" GUID="NfoYQ+LyokCBAdLvLFQawg=="/>
+    <POI MapID="36" xpos="362.916" ypos="19.4427" zpos="-32.0799" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker13.png" GUID="vds+Xa/n7Euj+qf7fctgLg=="/>
+    <POI MapID="36" xpos="325.076" ypos="19.4525" zpos="-61.362" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker14.png" GUID="anEYmPNdL0O/fa5G6FqEGg=="/>
+    <POI MapID="36" xpos="369.404" ypos="19.4486" zpos="-19.6158" type="dp.dungeon.ac.exp.path3.burrowlocations" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker15.png" GUID="MdJUoNUcaEyCZVlGP+u+0w=="/>
   </POIs>
 
 </OverlayData>
