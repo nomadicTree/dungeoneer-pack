@@ -83,10 +83,10 @@
 
   	<!--Explorable - MapID=71-->
     <!--Explorable | Entrance markers-->
-    <POI MapID="71" xpos="-46.8304" ypos="45.3986" zpos="-18.0098" type="dp.index.daynight.day" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
-    <POI MapID="71" xpos="-51.2296" ypos="47.4008" zpos="-27.093" type="dp.index.slayingsigil.icebroodslaying" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
-    <POI MapID="71" xpos="-51.3676" ypos="47.1078" zpos="-25.0299" type="dp.index.basicsigil.impactsigil" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
-    <POI MapID="71" xpos="-51.4352" ypos="46.68" zpos="-22.8785" type="dp.index.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
+    <POI MapID="71" xpos="-60.406" ypos="44.1341" zpos="-10.3785" type="dp.dungeon.hotw.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
+    <POI MapID="71" xpos="-61.6642" ypos="46.5995" zpos="-22.6597" type="dp.dungeon.hotw.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
+    <POI MapID="71" xpos="-62.587" ypos="46.2512" zpos="-20.9064" type="dp.dungeon.hotw.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SonsOfSvanirSlaying.png" info="Sigil of Wrath" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
+    <POI MapID="71" xpos="-63.5253" ypos="45.8993" zpos="-19.1356" type="dp.dungeon.hotw.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\SvanirPotion.png" info="Potion of Sons of Svanir Slaying" GUID="rTW6I7SjcEiphngqjyB16w=="/>
     <!--Explorable | Mapbreak at the entrance-->
     <POI MapID="71" xpos="-37.5105" ypos="39.9122" zpos="-55.9245" type="dp.index.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>
     <POI MapID="71" xpos="-21.6105" ypos="31.6737" zpos="-66.0833" type="dp.index.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
