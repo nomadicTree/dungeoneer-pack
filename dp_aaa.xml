@@ -14,8 +14,8 @@
     </MarkerCategory><!--/raid-->
 
     <!--Common markers-->
-    <MarkerCategory name="common" DisplayName="Common Markers">
-      <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;----[-COMMON MARKERS-]----&gt;"/>
+    <MarkerCategory name="common" DisplayName="Common">
+      <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;-------[-COMMON-]-------&gt;"/>
       <!--SlayingSigil-->
       <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
         <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\CentaurSlaying.png" info="Sigil of Centaur Slaying"/>
@@ -77,8 +77,8 @@
 
       <!--PortalSpots-->
       <MarkerCategory name="PortalSpots" DisplayName="Portal Spots" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" >
-        <MarkerCategory name="PortalSTART" DisplayName="Portal-Start" iconFile="Data\dungeoneer-pack\SkillUsage\Portal-IN-Marker.png"/>
-        <MarkerCategory name="PortalEND" DisplayName="Portal-End" iconFile="Data\dungeoneer-pack\SkillUsage\Portal-OUT-Marker.png"/>
+        <MarkerCategory name="PortalIN" DisplayName="Portal-IN" iconFile="Data\dungeoneer-pack\SkillUsage\Portal-IN-Marker.png"/>
+        <MarkerCategory name="PortalOUT" DisplayName="Portal-OUT" iconFile="Data\dungeoneer-pack\SkillUsage\Portal-OUT-Marker.png"/>
       </MarkerCategory><!--/PortalSpots-->
 
       <!--BlinkSpots-->
