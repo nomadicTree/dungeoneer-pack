@@ -22,8 +22,50 @@
     <POI MapID="70" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.basicsigil.impactsigil" GUID="i10OBs377kOnlhfMkWxIiw=="/>
     <POI MapID="70" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="Aq2gSm07LkGtQ+m1gL/itg=="/>
     <!--Story | Mapbreak at the entrance-->
-    <POI MapID="70" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkstart" GUID="fiXj3Gw+CEeKN5ExJimLCA=="/>
-    <POI MapID="70" xpos="-36.9211" ypos="39.5182" zpos="-56.3777" type="dp.common.blinkspots.blinkaim" GUID="5DzqMBfyukq/AmzOw2rPjg=="/>
+    <POI MapID="70" xpos="-37.5105" ypos="39.9122" zpos="-55.9245" type="dp.common.blinkspots.blinkstart" GUID="fiXj3Gw+CEeKN5ExJimLCA=="/>
+    <POI MapID="70" xpos="-21.6105" ypos="31.6737" zpos="-66.0833" type="dp.common.blinkspots.blinkaim" GUID="5DzqMBfyukq/AmzOw2rPjg=="/>
+    <!--Story | Route to end boss + portal locations-->
+    <POI MapID="70" xpos="-8.88923" ypos="26.3938" zpos="-70.9799" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="10.9452" ypos="19.3675" zpos="-76.4598" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="27.4921" ypos="13.9724" zpos="-78.901" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="48.7533" ypos="9.35423" zpos="-87.3038" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-154.675" ypos="0.790119" zpos="14.9133" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-120.781" ypos="3.45547" zpos="41.8303" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-101.747" ypos="-0.758388" zpos="59.9725" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="10.1806" ypos="14.5314" zpos="89.7286" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="37.6512" ypos="21.898" zpos="42.1612" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="38.8728" ypos="4.98427" zpos="40.0623" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-138.434" ypos="4.55196" zpos="22.1385" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-128.721" ypos="5.0499" zpos="32.6612" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="53.4972" ypos="2.44703" zpos="-92.1468" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="48.9997" ypos="-12.0952" zpos="-102.118" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="28.7406" ypos="-10.4008" zpos="-106.831" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="6.69436" ypos="-8.44784" zpos="-111.671" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-14.0819" ypos="-6.89742" zpos="-116.349" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-31.5178" ypos="-5.50623" zpos="-117.769" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-49.6956" ypos="-4.05584" zpos="-119.249" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-73.7697" ypos="-3.18514" zpos="-117.326" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-92.6531" ypos="-2.53845" zpos="-111.829" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-108.415" ypos="-2.39654" zpos="-100.596" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-122.799" ypos="-2.21631" zpos="-84.3046" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-131.63" ypos="-1.9706" zpos="-65.0593" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-138.711" ypos="-2.14638" zpos="-45.3915" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-145.275" ypos="-2.42526" zpos="-25.9349" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-151.284" ypos="-1.75327" zpos="-7.89335" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-84.5853" ypos="-1.06157" zpos="70.6614" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-70.2349" ypos="-1.06157" zpos="78.6598" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-57.4501" ypos="-1.06157" zpos="85.7855" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-44.6653" ypos="-1.06157" zpos="92.9113" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-29.5322" ypos="-1.06157" zpos="101.346" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-20.0097" ypos="-1.06151" zpos="106.479" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-17.95" ypos="-0.145943" zpos="114.01" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="16.7167" ypos="16.6533" zpos="69.6964" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="28.5939" ypos="20.7341" zpos="54.8992" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-13.0021" ypos="4.06061" zpos="116.445" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="-0.445534" ypos="8.52282" zpos="114.884" type="dp.common.leapandjumpspots.jumpmarker"/>
+	<POI MapID="70" xpos="5.571" ypos="11.0233" zpos="103.378" type="dp.common.leapandjumpspots.jumpmarker"/>
+    <POI MapID="70" xpos="9.45831" ypos="3.77883" zpos="46.2266" type="dp.common.portalspots.portalout"/>
+	<POI MapID="70" xpos="-61.9119" ypos="47.0271" zpos="-42.2207" type="dp.common.portalspots.portalin"/>
 
   	<!--Explorable - MapID=71-->
     <!--Explorable | Entrance markers-->
@@ -32,8 +74,66 @@
     <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.common.basicsigil.impactsigil" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
     <POI MapID="71" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.common.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
     <!--Explorable | Mapbreak at the entrance-->
-    <POI MapID="71" xpos="-23.4291" ypos="32.6263" zpos="-64.4058" type="dp.common.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
-    <POI MapID="71" xpos="-36.9211" ypos="39.5182" zpos="-56.3777" type="dp.common.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>
+    <POI MapID="71" xpos="-37.5105" ypos="39.9122" zpos="-55.9245" type="dp.common.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>
+    <POI MapID="71" xpos="-21.6105" ypos="31.6737" zpos="-66.0833" type="dp.common.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>
+    <!--Explorable | Route to end boss-->
+    <POI MapID="71" xpos="-8.88923" ypos="26.3938" zpos="-70.9799" type="dp.common.leapandjumpspots.jumpmarker" GUID="O1i4tYrAkkecahBjUyBCDA=="/>
+	<POI MapID="71" xpos="10.9452" ypos="19.3675" zpos="-76.4598" type="dp.common.leapandjumpspots.jumpmarker" GUID="JR6sV3e6t0uLKSrLu3lAfQ=="/>
+	<POI MapID="71" xpos="27.4921" ypos="13.9724" zpos="-78.901" type="dp.common.leapandjumpspots.jumpmarker" GUID="tLr2qPVM4kGH4s9DLjsjKQ=="/>
+	<POI MapID="71" xpos="48.7533" ypos="9.35423" zpos="-87.3038" type="dp.common.leapandjumpspots.jumpmarker" GUID="ILWhfMHydUOhDjKNXZUyrQ=="/>
+	<POI MapID="71" xpos="-154.675" ypos="0.790119" zpos="14.9133" type="dp.common.leapandjumpspots.jumpmarker" GUID="ej3aIYb9fEm/gHCNNcQ1Vg=="/>
+	<POI MapID="71" xpos="-120.781" ypos="3.45547" zpos="41.8303" type="dp.common.leapandjumpspots.jumpmarker" GUID="TwGlVY1HTESDUNaExZtAEg=="/>
+	<POI MapID="71" xpos="-101.747" ypos="-0.758388" zpos="59.9725" type="dp.common.leapandjumpspots.jumpmarker" GUID="SMfr6ufY9EKok+BRyqg/jg=="/>
+	<POI MapID="71" xpos="10.1806" ypos="14.5314" zpos="89.7286" type="dp.common.leapandjumpspots.jumpmarker" GUID="z4w/NkA3DkKhXCMMbRVJ8A=="/>
+	<POI MapID="71" xpos="-138.434" ypos="4.55196" zpos="22.1385" type="dp.common.leapandjumpspots.jumpmarker" GUID="ALxZbxm4OkKL9YAbBZaXsw=="/>
+	<POI MapID="71" xpos="-128.721" ypos="5.0499" zpos="32.6612" type="dp.common.leapandjumpspots.jumpmarker" GUID="qRDXLxVje0+yKrELxxCIxA=="/>
+	<POI MapID="71" xpos="53.4972" ypos="2.44703" zpos="-92.1468" type="dp.common.leapandjumpspots.jumpmarker" GUID="0rE9nvbgE0iPaBo/ZNUuhg=="/>
+	<POI MapID="71" xpos="48.9997" ypos="-12.0952" zpos="-102.118" type="dp.common.leapandjumpspots.jumpmarker" GUID="cIw/oLbuLkiNTuI630r8VA=="/>
+	<POI MapID="71" xpos="28.7406" ypos="-10.4008" zpos="-106.831" type="dp.common.leapandjumpspots.jumpmarker" GUID="LNcQ59auC0+Om97/nMx0Hg=="/>
+	<POI MapID="71" xpos="6.69436" ypos="-8.44784" zpos="-111.671" type="dp.common.leapandjumpspots.jumpmarker" GUID="eGsg7gZn00WNsAmy4SsAew=="/>
+	<POI MapID="71" xpos="-14.0819" ypos="-6.89742" zpos="-116.349" type="dp.common.leapandjumpspots.jumpmarker" GUID="34YQvBQ3bEegiHC+ZTQ6eA=="/>
+	<POI MapID="71" xpos="-31.5178" ypos="-5.50623" zpos="-117.769" type="dp.common.leapandjumpspots.jumpmarker" GUID="Yo5wdSLK/EaYqf+/IfA9Sw=="/>
+	<POI MapID="71" xpos="-49.6956" ypos="-4.05584" zpos="-119.249" type="dp.common.leapandjumpspots.jumpmarker" GUID="ePi5Rw22sUiDeGi9ftKXEA=="/>
+	<POI MapID="71" xpos="-73.7697" ypos="-3.18514" zpos="-117.326" type="dp.common.leapandjumpspots.jumpmarker" GUID="93W+sc2+1EaS3NWzjHDfHg=="/>
+	<POI MapID="71" xpos="-92.6531" ypos="-2.53845" zpos="-111.829" type="dp.common.leapandjumpspots.jumpmarker" GUID="nj7YeRAn3kObP6dm8vKfxw=="/>
+	<POI MapID="71" xpos="-108.415" ypos="-2.39654" zpos="-100.596" type="dp.common.leapandjumpspots.jumpmarker" GUID="kkdu2zxmfE+284bS2HDOGg=="/>
+	<POI MapID="71" xpos="-122.799" ypos="-2.21631" zpos="-84.3046" type="dp.common.leapandjumpspots.jumpmarker" GUID="+LIYZklbME6WIxChNoJ6fg=="/>
+	<POI MapID="71" xpos="-131.63" ypos="-1.9706" zpos="-65.0593" type="dp.common.leapandjumpspots.jumpmarker" GUID="HZo1zGsyEE2pcseOMcNJWw=="/>
+	<POI MapID="71" xpos="-138.711" ypos="-2.14638" zpos="-45.3915" type="dp.common.leapandjumpspots.jumpmarker" GUID="nrDsbO5iZk2KXmddiLKWqw=="/>
+	<POI MapID="71" xpos="-145.275" ypos="-2.42526" zpos="-25.9349" type="dp.common.leapandjumpspots.jumpmarker" GUID="2Tp/rZkXnkCAVeaUYqaQoA=="/>
+	<POI MapID="71" xpos="-151.284" ypos="-1.75327" zpos="-7.89335" type="dp.common.leapandjumpspots.jumpmarker" GUID="ATeqtopudUyXxS14YqRkHg=="/>
+	<POI MapID="71" xpos="-84.5853" ypos="-1.06157" zpos="70.6614" type="dp.common.leapandjumpspots.jumpmarker" GUID="aOfipzfTwUWczvSQfhvafQ=="/>
+	<POI MapID="71" xpos="-70.2349" ypos="-1.06157" zpos="78.6598" type="dp.common.leapandjumpspots.jumpmarker" GUID="YaleEndx0Ems0rW+mXmN7w=="/>
+	<POI MapID="71" xpos="-57.4501" ypos="-1.06157" zpos="85.7855" type="dp.common.leapandjumpspots.jumpmarker" GUID="E1hEFSHrU0u6YciK5gE6YQ=="/>
+	<POI MapID="71" xpos="-44.6653" ypos="-1.06157" zpos="92.9113" type="dp.common.leapandjumpspots.jumpmarker" GUID="ZJEAkUfwN0WEV607yNcknQ=="/>
+	<POI MapID="71" xpos="-29.5322" ypos="-1.06157" zpos="101.346" type="dp.common.leapandjumpspots.jumpmarker" GUID="9ikEFLbDXk6V/kcecDiQwg=="/>
+	<POI MapID="71" xpos="-20.0097" ypos="-1.06151" zpos="106.479" type="dp.common.leapandjumpspots.jumpmarker" GUID="ffLvtHEXW0qku+Lwur34KQ=="/>
+	<POI MapID="71" xpos="-17.95" ypos="-0.145943" zpos="114.01" type="dp.common.leapandjumpspots.jumpmarker" GUID="anXXEQOHwEWEe+EaHGBi1A=="/>
+	<POI MapID="71" xpos="-13.0021" ypos="4.06061" zpos="116.445" type="dp.common.leapandjumpspots.jumpmarker" GUID="RmlGQB42rUe9bQXaEKyymw=="/>
+	<POI MapID="71" xpos="-0.445534" ypos="8.52282" zpos="114.884" type="dp.common.leapandjumpspots.jumpmarker" GUID="IKsvGl2qh021m05Yte1s/A=="/>
+	<POI MapID="71" xpos="5.571" ypos="11.0233" zpos="103.378" type="dp.common.leapandjumpspots.jumpmarker" GUID="P/e/OVxYs0uh69hsBjuyuQ=="/>
+	<POI MapID="71" xpos="9.25928" ypos="13.7616" zpos="79.3682" type="dp.common.leapandjumpspots.jumpmarker" GUID="e8Gs/vjY8U66BaNM4q9SuA=="/>
+	<POI MapID="71" xpos="4.55096" ypos="15.0303" zpos="76.7052" type="dp.common.leapandjumpspots.jumpmarker" GUID="jYITsYes50K2zHJPLm8fUw=="/>
+	<POI MapID="71" xpos="3.3898" ypos="18.6941" zpos="56.2612" type="dp.common.leapandjumpspots.jumpmarker" GUID="0Yo/iGvsO0eC+jup2OMp5Q=="/>
+	<POI MapID="71" xpos="3.0684" ypos="20.2602" zpos="47.4127" type="dp.common.leapandjumpspots.jumpmarker" GUID="1dGg18NbHE24v+udLSg2Aw=="/>
+	<POI MapID="71" xpos="5.66321" ypos="22.2837" zpos="45.0959" type="dp.common.leapandjumpspots.jumpmarker" GUID="AdOXUL6P2Ei8+QbpGxQqCg=="/>
+	<POI MapID="71" xpos="-5.2233" ypos="23.0796" zpos="42.4916" type="dp.common.leapandjumpspots.jumpmarker" GUID="kUnkDU56qUKxunV0klBMwg=="/>
+	<POI MapID="71" xpos="-12.4585" ypos="22.9788" zpos="43.0072" type="dp.common.leapandjumpspots.jumpmarker" GUID="HoI7QnE5x0uWZ6YJN3nIKQ=="/>
+	<POI MapID="71" xpos="-18.6448" ypos="23.0396" zpos="42.9109" type="dp.common.leapandjumpspots.jumpmarker" GUID="Eb5YIdQwYUeTWr+KrTE0uw=="/>
+	<POI MapID="71" xpos="-30.4723" ypos="28.4918" zpos="34.5202" type="dp.common.leapandjumpspots.jumpmarker" GUID="4crBO2KWeUq0Q+hMiNTKGA=="/>
+	<POI MapID="71" xpos="-32.9749" ypos="30.1581" zpos="33.4169" type="dp.common.leapandjumpspots.jumpmarker" GUID="yhAjQLYgokSHBCmV6EFCIg=="/>
+	<POI MapID="71" xpos="-53.5286" ypos="31.7223" zpos="28.7115" type="dp.common.leapandjumpspots.jumpmarker" GUID="O62WJ4kYkEeNMAfdD7sHxw=="/>
+	<POI MapID="71" xpos="-58.0187" ypos="32.0544" zpos="25.5594" type="dp.common.leapandjumpspots.jumpmarker" GUID="SbgNsY+ewEW4vNKWSjEeLw=="/>
+	<POI MapID="71" xpos="-55.3699" ypos="31.9706" zpos="21.1348" type="dp.common.leapandjumpspots.jumpmarker" GUID="7k/aoDi8E0Kx8T1ts9fSFg=="/>
+	<POI MapID="71" xpos="-58.8467" ypos="35.2036" zpos="6.13497" type="dp.common.leapandjumpspots.jumpmarker" GUID="bOy+QLYfwk+49XIly3OeRw=="/>
+	<POI MapID="71" xpos="-64.1849" ypos="36.3973" zpos="-4.00804" type="dp.common.leapandjumpspots.jumpmarker" GUID="QNHK+QK/DUCzzqjcN3TBAA=="/>
+	<POI MapID="71" xpos="-73.0147" ypos="33.2406" zpos="-25.4737" type="dp.common.leapandjumpspots.jumpmarker" GUID="NhXeenG+4EKezheIPa/+0Q=="/>
+	<POI MapID="71" xpos="-74.4422" ypos="31.4917" zpos="-33.6398" type="dp.common.leapandjumpspots.jumpmarker" GUID="XChhyfH/WUm6DhMS2eDn8w=="/>
+	<POI MapID="71" xpos="-75.2077" ypos="26.3958" zpos="-42.167" type="dp.common.leapandjumpspots.jumpmarker" GUID="UwUSkoM5kEKKIMaSjaHE5Q=="/>
+	<POI MapID="71" xpos="-75.3625" ypos="26.6232" zpos="-52.4556" type="dp.common.leapandjumpspots.jumpmarker" GUID="yqDvaZj0IUWBuXkr3jYOAA=="/>
+	<POI MapID="71" xpos="-74.387" ypos="29.6843" zpos="-63.7102" type="dp.common.leapandjumpspots.jumpmarker" GUID="9vpdxFe2NUaOgoB5zzQCSg=="/>
+	<POI MapID="71" xpos="-74.0729" ypos="18.3984" zpos="-64.8127" type="dp.common.leapandjumpspots.jumpmarker" GUID="yQMeXTpS/Eyy/pEsy2FCKQ=="/>
+	<POI MapID="71" xpos="-72.9062" ypos="19.03" zpos="-45.8418" type="dp.common.leapandjumpspots.jumpmarker" GUID="Fsa6Is98wE+3UcyNHROvVQ=="/>
     
     <!--Path 1-->
     <!--Path 1 | First gate-->
