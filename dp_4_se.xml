@@ -17,35 +17,35 @@
   <POIs>
     <!--Story - MapID=63-->
     <!--Story | Entrance markers-->
-    <POI MapID="63" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.common.daynight.night" info="Attribute cap: 1660" GUID="6CZ33oRRUUiwnmNSqECatg=="/>
-    <POI MapID="63" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.common.basicsigil.nightsigil" GUID="lbD4bI+xVEixXd5SKTf9oA=="/>
-    <POI MapID="63" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.common.basicsigil.impactsigil" GUID="lZfosSheTEagfm8p/vAcDA=="/>
+    <POI MapID="63" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.index.daynight.night" info="Attribute cap: 1660" GUID="6CZ33oRRUUiwnmNSqECatg=="/>
+    <POI MapID="63" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.index.basicsigil.nightsigil" GUID="lbD4bI+xVEixXd5SKTf9oA=="/>
+    <POI MapID="63" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.index.basicsigil.impactsigil" GUID="lZfosSheTEagfm8p/vAcDA=="/>
 
     <!--Explorable - MapID=64-->
     <!--Explorable | Entrance markers-->
-    <POI MapID="64" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.common.daynight.night" info="Attribute cap: 1790" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
-    <POI MapID="64" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.common.basicsigil.nightsigil" GUID="K/4/Hg2mbU+GxmDeN+b1Lg=="/>
-    <!--<POI MapID="64" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.common.basicsigil.impactsigil" GUID="vJ2R08XZ/kOMiZXa7ze6kw=="/>-->
-    <POI MapID="64" xpos="-297.115" ypos="214.107" zpos="209.291" type="dp.common.slayingsigil.inquestslaying" GUID="bwH9ItC9P0+2up+AR2vHwQ=="/>
-    <POI MapID="64" xpos="-300.195" ypos="214.073" zpos="205.596" type="dp.common.utility.slayingpotions.inquestpotion" GUID="8AsV4m9R20+53pecN6hrjw=="/>
-    <POI MapID="64" xpos="-303.357" ypos="213.966" zpos="194.693" type="dp.common.slayingsigil.dredgeslaying" GUID="WXLbf1UdrU+rEtZTlNHjHQ=="/>
-    <POI MapID="64" xpos="-315.139" ypos="213.912" zpos="191.471" type="dp.common.utility.slayingpotions.dredgepotion" GUID="UYp4Lvuxqk+pPO3orcT09g=="/>
+    <POI MapID="64" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.index.daynight.night" info="Attribute cap: 1790" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
+    <POI MapID="64" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.index.basicsigil.nightsigil" GUID="K/4/Hg2mbU+GxmDeN+b1Lg=="/>
+    <!--<POI MapID="64" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.index.basicsigil.impactsigil" GUID="vJ2R08XZ/kOMiZXa7ze6kw=="/>-->
+    <POI MapID="64" xpos="-297.115" ypos="214.107" zpos="209.291" type="dp.index.slayingsigil.inquestslaying" GUID="bwH9ItC9P0+2up+AR2vHwQ=="/>
+    <POI MapID="64" xpos="-300.195" ypos="214.073" zpos="205.596" type="dp.index.utility.slayingpotions.inquestpotion" GUID="8AsV4m9R20+53pecN6hrjw=="/>
+    <POI MapID="64" xpos="-303.357" ypos="213.966" zpos="194.693" type="dp.index.slayingsigil.dredgeslaying" GUID="WXLbf1UdrU+rEtZTlNHjHQ=="/>
+    <POI MapID="64" xpos="-315.139" ypos="213.912" zpos="191.471" type="dp.index.utility.slayingpotions.dredgepotion" GUID="UYp4Lvuxqk+pPO3orcT09g=="/>
 
     <!--Path 1-->
     <!--Path 1 | Champion golem at start-->
-    <POI MapID="64" xpos="-91.646" ypos="160.705" zpos="-155.642" type="dp.common.boon_skillreminders.reflectmarker" GUID="rSPzGUmPWkWu2gvjQI5ZZQ=="/>
+    <POI MapID="64" xpos="-91.646" ypos="160.705" zpos="-155.642" type="dp.index.boon_skillreminders.reflectmarker" GUID="rSPzGUmPWkWu2gvjQI5ZZQ=="/>
     <!--Path 1 | Champion asura after gates-->
-    <POI MapID="64" xpos="128.97" ypos="146.03" zpos="-93.2302" type="dp.common.boon_skillreminders.reflectmarker" GUID="A/jHzkiSkUy5CU/5fKKPmg=="/>
+    <POI MapID="64" xpos="128.97" ypos="146.03" zpos="-93.2302" type="dp.index.boon_skillreminders.reflectmarker" GUID="A/jHzkiSkUy5CU/5fKKPmg=="/>
 
     <!--Path 2-->
     <!--Path 2 | Jump over the door after the champions-->
-    <POI MapID="64" xpos="-84.5198" ypos="217.019" zpos="218.243" type="dp.common.leapandjumpspots.leapaim" GUID="9ihnDbWRM0m3cVd0OWeMdA=="/>
-    <POI MapID="64" xpos="-94.5168" ypos="216.22" zpos="225.563" type="dp.common.leapandjumpspots.leapstart" GUID="3iLZnKgRQUKqZZ2/1Xvh9Q=="/>
-    <POI MapID="64" xpos="-81.0969" ypos="211.13" zpos="223.312" type="dp.common.boon_skillreminders.reflectmarker" GUID="Yi4bSwUQNESm57WKbwCDzw=="/>
-    <POI MapID="64" xpos="-83.1535" ypos="211.13" zpos="223.206" type="dp.common.boon_skillreminders.stability" GUID="LZaT2vU520CEM24C5Dl1lw=="/>
+    <POI MapID="64" xpos="-84.5198" ypos="217.019" zpos="218.243" type="dp.index.leapandjumpspots.leapaim" GUID="9ihnDbWRM0m3cVd0OWeMdA=="/>
+    <POI MapID="64" xpos="-94.5168" ypos="216.22" zpos="225.563" type="dp.index.leapandjumpspots.leapstart" GUID="3iLZnKgRQUKqZZ2/1Xvh9Q=="/>
+    <POI MapID="64" xpos="-81.0969" ypos="211.13" zpos="223.312" type="dp.index.boon_skillreminders.reflectmarker" GUID="Yi4bSwUQNESm57WKbwCDzw=="/>
+    <POI MapID="64" xpos="-83.1535" ypos="211.13" zpos="223.206" type="dp.index.boon_skillreminders.stability" GUID="LZaT2vU520CEM24C5Dl1lw=="/>
     <!--Path 2 | After Taskmaster onwards-->
-    <POI MapID="64" xpos="135.665" ypos="170.24" zpos="167.929" type="dp.common.slayingsigil.inquestslaying" GUID="NhmJx4EZOESlFLhnnrjCGg=="/>
-    <POI MapID="64" xpos="124.147" ypos="169.868" zpos="167.587" type="dp.common.utility.slayingpotions.inquestpotion" GUID="soP+YqsAa0GNpRmbqx7+rw=="/>
+    <POI MapID="64" xpos="135.665" ypos="170.24" zpos="167.929" type="dp.index.slayingsigil.inquestslaying" GUID="NhmJx4EZOESlFLhnnrjCGg=="/>
+    <POI MapID="64" xpos="124.147" ypos="169.868" zpos="167.587" type="dp.index.utility.slayingpotions.inquestpotion" GUID="soP+YqsAa0GNpRmbqx7+rw=="/>
   </POIs>
 
 </OverlayData>
