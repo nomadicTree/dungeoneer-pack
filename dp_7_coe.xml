@@ -32,10 +32,10 @@
     <!--Story - MapID=81-->
     <!--Meta-->
     <!--Meta | Entrance-->
-    <POI MapID="81" xpos="99.4483" ypos="237.596" zpos="-12.9347" type="dp.dungeon.coe.story.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: NA" GUID="OSgiO1fWCU6C6CCp0SR+9A=="/>
-    <POI MapID="81" xpos="92.7915" ypos="237.596" zpos="-28.2022" type="dp.dungeon.coe.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png" info="Sigil of Mad Scientists" GUID="ZajkLJPfR0ypzJcJOXYg6g=="/>
-		<POI MapID="81" xpos="91.9364" ypos="237.596" zpos="-25.9838" type="dp.dungeon.coe.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="P4H7UrrxZE2N5d53rRYK9A=="/>
-		<POI MapID="81" xpos="90.851" ypos="237.596" zpos="-23.8715" type="dp.dungeon.coe.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png" info="Potion of Inquest Slaying" GUID="li+ksWcke0yWBAyjw1ickg=="/>
+    <POI MapID="81" xpos="111.759" ypos="237.53" zpos="-20.9578" type="dp.dungeon.coe.story.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: NA" GUID="OSgiO1fWCU6C6CCp0SR+9A=="/>
+    <POI MapID="81" xpos="104.467" ypos="237.661" zpos="-27.4521" type="dp.dungeon.coe.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="ZajkLJPfR0ypzJcJOXYg6g=="/>
+		<POI MapID="81" xpos="104.063" ypos="237.591" zpos="-25.4685" type="dp.dungeon.coe.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png" info="Sigil of Mad Scientists" GUID="P4H7UrrxZE2N5d53rRYK9A=="/>
+		<POI MapID="81" xpos="103.935" ypos="237.591" zpos="-23.4609" type="dp.dungeon.coe.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png" info="Potion of Inquest Slaying" GUID="li+ksWcke0yWBAyjw1ickg=="/>
     
     <!--Explorable - MapID=82-->
     <!--Meta-->
