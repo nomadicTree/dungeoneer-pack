@@ -6,7 +6,7 @@
 
         <MarkerCategory name="story" DisplayName="Story">
 
-          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
             <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
             <MarkerCategory name="sigil" DisplayName="Sigils"/>
             <MarkerCategory name="potion" DisplayName="Potions"/>
@@ -16,7 +16,7 @@
 
         <MarkerCategory name="exp" DisplayName="Explorable">
 
-          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
             <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
             <MarkerCategory name="sigil" DisplayName="Sigils"/>
             <MarkerCategory name="potion" DisplayName="Potions"/>
@@ -30,20 +30,20 @@
 
   <POIs>
     <!--Story - MapID=75-->
-    <!--Story | Meta markers-->
-    <!--Story | Meta markers | Entrance-->
+    <!--Meta-->
+    <!--Meta | Entrance-->
     <POI MapID="75" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.dungeon.cm.story.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: 930" GUID="ErjwBAOvXUCqNjZXaBbOjw=="/>
     <POI MapID="75" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.dungeon.cm.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\JusticeSlaying.png" info="Sigil of Justice" GUID="L6Gi2cfQrUKeLNasGFhDBQ=="/>
-    <POI MapID="75" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.dungen.cm.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact"  GUID="0jtpL2WpVkOd8an7wjN99Q="/>
+    <POI MapID="75" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.dungeon.cm.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact"  GUID="0jtpL2WpVkOd8an7wjN99Q="/>
     <POI MapID="75" xpos="218.019" ypos="29.1026" zpos="3.3806" type="dp.dungeon.cm.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OutlawPotion.png" info="Potion of Outlaw Slaying" GUID="iyWkkceP1Ei8wnylQLpopQ=="/>
 
     <!--Explorable - MapID=76-->
-    <!--Explorable | Meta markers-->
-    <!--Explorable | Meta markers | Entrance-->
-    <POI MapID="76" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.dungeon.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: 1020" GUID="I+WRzJLe5kOkiC5VwtQCig=="/>
-    <POI MapID="76" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.dungeon.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\JusticeSlaying.png" info="Sigil of Justice" GUID="xw3lBzn34EO65AoDSQLdZg=="/>
-    <POI MapID="76" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.dungeon.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="vi/FySMSbkqwtx6VXaEA6g=="/>
-    <POI MapID="76" xpos="218.019" ypos="29.1026" zpos="3.3806" type="dp.dungeon.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OutlawPotion.png" info="Potion of Outlaw Slaying" GUID="9fEX0tB4F0+tx1/Me3pWNA=="/>
+    <!--Meta-->
+    <!--Meta | Entrance-->
+    <POI MapID="76" xpos="203.63" ypos="28.4786" zpos="-4.0372" type="dp.dungeon.cm.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: 1020" GUID="I+WRzJLe5kOkiC5VwtQCig=="/>
+    <POI MapID="76" xpos="214.348" ypos="28.39" zpos="5.29203" type="dp.dungeon.cm.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\JusticeSlaying.png" info="Sigil of Justice" GUID="xw3lBzn34EO65AoDSQLdZg=="/>
+    <POI MapID="76" xpos="216.263" ypos="28.7459" zpos="4.29391" type="dp.dungeon.cm.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="vi/FySMSbkqwtx6VXaEA6g=="/>
+    <POI MapID="76" xpos="218.019" ypos="29.1026" zpos="3.3806" type="dp.dungeon.cm.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\OutlawPotion.png" info="Potion of Outlaw Slaying" GUID="9fEX0tB4F0+tx1/Me3pWNA=="/>
 
     <!--Path 1-->
     <!--Path 1 | Blink up to inside barn-->

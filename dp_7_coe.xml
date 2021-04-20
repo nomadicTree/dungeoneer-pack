@@ -5,9 +5,23 @@
       <MarkerCategory name="coe" DisplayName="Crucible of Eternity">
 
         <MarkerCategory name="story" DisplayName="Story">
+        
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/story-->
 
         <MarkerCategory name="exp" DisplayName="Explorable">
+        
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/exp-->
 
       </MarkerCategory><!--/coe-->
@@ -16,18 +30,23 @@
 
   <POIs>
     <!--Story - MapID=81-->
-    <!--Story | Entrance Markers-->
-    <POI MapID="81" xpos="99.4483" ypos="237.596" zpos="-12.9347" type="dp.index.daynight.day" info="Attribute cap: NA" GUID="OSgiO1fWCU6C6CCp0SR+9A=="/>
-    <POI MapID="81" xpos="92.7915" ypos="237.596" zpos="-28.2022" type="dp.index.slayingsigil.inquestslaying" GUID="ZajkLJPfR0ypzJcJOXYg6g=="/>
-		<POI MapID="81" xpos="91.9364" ypos="237.596" zpos="-25.9838" type="dp.index.basicsigil.impact" GUID="P4H7UrrxZE2N5d53rRYK9A=="/>
-		<POI MapID="81" xpos="90.851" ypos="237.596" zpos="-23.8715" type="dp.index.utility.slayingpotions.inquestpotion" GUID="li+ksWcke0yWBAyjw1ickg=="/>
+    <!--Meta-->
+    <!--Meta | Entrance-->
+    <POI MapID="81" xpos="99.4483" ypos="237.596" zpos="-12.9347" type="dp.dungeon.coe.story.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: NA" GUID="OSgiO1fWCU6C6CCp0SR+9A=="/>
+    <POI MapID="81" xpos="92.7915" ypos="237.596" zpos="-28.2022" type="dp.dungeon.coe.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png" info="Sigil of Mad Scientists" GUID="ZajkLJPfR0ypzJcJOXYg6g=="/>
+		<POI MapID="81" xpos="91.9364" ypos="237.596" zpos="-25.9838" type="dp.dungeon.coe.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="P4H7UrrxZE2N5d53rRYK9A=="/>
+		<POI MapID="81" xpos="90.851" ypos="237.596" zpos="-23.8715" type="dp.dungeon.coe.story.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png" info="Potion of Inquest Slaying" GUID="li+ksWcke0yWBAyjw1ickg=="/>
     
     <!--Explorable - MapID=82-->
-    <!--Explorable | Entrance markers-->
-    <POI MapID="82" xpos="27.0133" ypos="115.915" zpos="39.9413" type="dp.index.daynight.night" info="Attribute cap: NA" GUID="B5H2l3uqmkO/hxqJrdPVqQ=="/>
-    <POI MapID="82" xpos="36.3094" ypos="115.903" zpos="26.3677" type="dp.index.basicsigil.nightsigil" GUID="5y5bBceQqEefolquXj3rdA=="/>
-    <POI MapID="82" xpos="22.2017" ypos="115.648" zpos="23.2611" type="dp.index.slayingsigil.icebroodslaying" GUID="OfRvxfKc2kut/agNCrircA=="/>
-    <POI MapID="82" xpos="17.6243" ypos="115.648" zpos="31.7057" type="dp.index.utility.slayingpotions.icebroodpotion" GUID="N72RU+RiAUCJa5OaEM+Pcw=="/>
+    <!--Meta-->
+    <!--Meta | Entrance-->
+    <POI MapID="82" xpos="28.9127" ypos="115.809" zpos="42.834" type="dp.dungeon.coe.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: NA" GUID="B5H2l3uqmkO/hxqJrdPVqQ=="/>
+    <POI MapID="82" xpos="34.0713" ypos="115.811" zpos="34.4815" type="dp.dungeon.coe.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="5y5bBceQqEefolquXj3rdA=="/>
+    <POI MapID="82" xpos="32.0735" ypos="115.811" zpos="34.7177" type="dp.dungeon.coe.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\UndeadSlaying.png" info="Sigil of Undead Slaying" GUID="6FsB69ebYkaJouN5Jcfndw=="/>
+		<POI MapID="82" xpos="29.7352" ypos="115.895" zpos="35.0052" type="dp.dungeon.coe.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\UndeadPotion.png" info="Potion of Undead Slaying" GUID="/01TRfW2h0Kc3cuj1ZftKQ=="/>
+    <!--Meta | Icebrood corridor-->
+    <POI MapID="82" xpos="0.956077" ypos="115.648" zpos="11.0549" type="dp.dungeon.coe.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\IcebroodSlaying.png" info="Sigil of Icebrood Slaying" GUID="OfRvxfKc2kut/agNCrircA=="/>
+    <POI MapID="82" xpos="-0.368814" ypos="115.648" zpos="12.5687" type="dp.dungeon.coe.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\IcebroodPotion.png" info="Potion of Icebrood Slaying" GUID="N72RU+RiAUCJa5OaEM+Pcw=="/>
   </POIs>
 
 </OverlayData>

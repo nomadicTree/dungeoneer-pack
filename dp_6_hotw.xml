@@ -5,9 +5,23 @@
       <MarkerCategory name="hotw" DisplayName="Honor of the Waves">
 
         <MarkerCategory name="story" DisplayName="Story">
+		
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/story-->
 
         <MarkerCategory name="exp" DisplayName="Explorable">
+		
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/exp-->
 
       </MarkerCategory><!--/hotw-->
@@ -17,10 +31,10 @@
   <POIs>
     <!--Story - MapID=70-->
     <!--Story | Entrance Markers-->
-    <POI MapID="70" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.index.daynight.day" info="Attribute cap: 2400" GUID="3xt2dhV8F0+QI5VVFKPIWA=="/>
-    <POI MapID="70" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.index.slayingsigil.icebroodslaying" GUID="xTjW7r52mkqsIUrJOJ3FVA=="/>
-    <POI MapID="70" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.index.basicsigil.impactsigil" GUID="i10OBs377kOnlhfMkWxIiw=="/>
-    <POI MapID="70" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.index.utility.slayingpotions.icebroodpotion" GUID="Aq2gSm07LkGtQ+m1gL/itg=="/>
+    <POI MapID="70" xpos="-46.9311" ypos="44.4506" zpos="-41.0256" type="dp.index.daynight.day" info="Attribute cap: 2400" GUID="3xt2dhV8F0+QI5VVFKPIWA=="/>
+    <POI MapID="70" xpos="-51.0157" ypos="45.5855" zpos="-45.984" type="dp.index.slayingsigil.icebroodslaying" GUID="xTjW7r52mkqsIUrJOJ3FVA=="/> <!--actually svanir-->
+    <POI MapID="70" xpos="-52.0335" ypos="45.1138" zpos="-44.1422" type="dp.index.basicsigil.impactsigil" GUID="i10OBs377kOnlhfMkWxIiw=="/>
+    <POI MapID="70" xpos="-52.8772" ypos="44.6447" zpos="-42.3464" type="dp.index.utility.slayingpotions.icebroodpotion" GUID="Aq2gSm07LkGtQ+m1gL/itg=="/>
     <!--Story | Mapbreak at the entrance-->
     <POI MapID="70" xpos="-37.5105" ypos="39.9122" zpos="-55.9245" type="dp.index.blinkspots.blinkstart" GUID="fiXj3Gw+CEeKN5ExJimLCA=="/>
     <POI MapID="70" xpos="-21.6105" ypos="31.6737" zpos="-66.0833" type="dp.index.blinkspots.blinkaim" GUID="5DzqMBfyukq/AmzOw2rPjg=="/>
@@ -69,10 +83,10 @@
 
   	<!--Explorable - MapID=71-->
     <!--Explorable | Entrance markers-->
-    <POI MapID="71" xpos="-65.588" ypos="45.2294" zpos="-15.9224" type="dp.index.daynight.day" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
-    <POI MapID="71" xpos="-65.4741" ypos="48.6534" zpos="-33.2649" type="dp.index.slayingsigil.icebroodslaying" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
-    <POI MapID="71" xpos="-66.3598" ypos="48.3214" zpos="-31.5938" type="dp.index.basicsigil.impactsigil" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
-    <POI MapID="71" xpos="-67.7928" ypos="47.9563" zpos="-29.7557" type="dp.index.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
+    <POI MapID="71" xpos="-46.8304" ypos="45.3986" zpos="-18.0098" type="dp.index.daynight.day" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
+    <POI MapID="71" xpos="-51.2296" ypos="47.4008" zpos="-27.093" type="dp.index.slayingsigil.icebroodslaying" GUID="xY/+355w5U6TSA0CWYxA9g=="/>
+    <POI MapID="71" xpos="-51.3676" ypos="47.1078" zpos="-25.0299" type="dp.index.basicsigil.impactsigil" GUID="xXU+2TrxU0Gsa7g+DhY3+w=="/>
+    <POI MapID="71" xpos="-51.4352" ypos="46.68" zpos="-22.8785" type="dp.index.utility.slayingpotions.icebroodpotion" GUID="rTW6I7SjcEiphngqjyB16w=="/>
     <!--Explorable | Mapbreak at the entrance-->
     <POI MapID="71" xpos="-37.5105" ypos="39.9122" zpos="-55.9245" type="dp.index.blinkspots.blinkstart" GUID="t002NY7t7ESMYyh3hxEOEg=="/>
     <POI MapID="71" xpos="-21.6105" ypos="31.6737" zpos="-66.0833" type="dp.index.blinkspots.blinkaim" GUID="N1ywUlAUy0GbUUIj+NseTQ=="/>

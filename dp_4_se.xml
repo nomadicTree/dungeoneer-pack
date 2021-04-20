@@ -5,9 +5,23 @@
       <MarkerCategory name="se" DisplayName="Sorrow's Embrace">
 
         <MarkerCategory name="story" DisplayName="Story">
+        
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/story-->
 
         <MarkerCategory name="exp" DisplayName="Explorable">
+        
+          <MarkerCategory name="meta" DisplayName="Meta" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" mapVisibility="0" miniMapVisibility="0">
+            <MarkerCategory name="day_night" DisplayName="Day/Night Indicator"/>
+            <MarkerCategory name="sigil" DisplayName="Sigils"/>
+            <MarkerCategory name="potion" DisplayName="Potions"/>
+          </MarkerCategory><!--meta-->
+
         </MarkerCategory><!--/exp-->
 
       </MarkerCategory><!--/se-->
@@ -16,20 +30,24 @@
   
   <POIs>
     <!--Story - MapID=63-->
-    <!--Story | Entrance markers-->
-    <POI MapID="63" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.index.daynight.night" info="Attribute cap: 1660" GUID="6CZ33oRRUUiwnmNSqECatg=="/>
-    <POI MapID="63" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.index.basicsigil.nightsigil" GUID="lbD4bI+xVEixXd5SKTf9oA=="/>
-    <POI MapID="63" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.index.basicsigil.impactsigil" GUID="lZfosSheTEagfm8p/vAcDA=="/>
+    <!--Meta-->
+    <!--Meta | Entrance-->
+    <POI MapID="63" xpos="-328.062" ypos="215.387" zpos="225.568"  type="dp.dungeon.se.story.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 1660" GUID="6CZ33oRRUUiwnmNSqECatg=="/>
+    <POI MapID="63" xpos="-321.311" ypos="215.4" zpos="228.751" type="dp.dungeon.se.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="lbD4bI+xVEixXd5SKTf9oA=="/>
+    <POI MapID="63" xpos="-322.519" ypos="215.196" zpos="227.156" type="dp.dungeon.se.story.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="lZfosSheTEagfm8p/vAcDA=="/>
 
     <!--Explorable - MapID=64-->
-    <!--Explorable | Entrance markers-->
-    <POI MapID="64" xpos="-322.595" ypos="214.555" zpos="219.03"  type="dp.index.daynight.night" info="Attribute cap: 1790" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
-    <POI MapID="64" xpos="-308.764" ypos="214.809" zpos="226.511" type="dp.index.basicsigil.nightsigil" GUID="K/4/Hg2mbU+GxmDeN+b1Lg=="/>
-    <!--<POI MapID="64" xpos="-310.614" ypos="214.795" zpos="225.022" type="dp.index.basicsigil.impactsigil" GUID="vJ2R08XZ/kOMiZXa7ze6kw=="/>-->
-    <POI MapID="64" xpos="-297.115" ypos="214.107" zpos="209.291" type="dp.index.slayingsigil.inquestslaying" GUID="bwH9ItC9P0+2up+AR2vHwQ=="/>
-    <POI MapID="64" xpos="-300.195" ypos="214.073" zpos="205.596" type="dp.index.utility.slayingpotions.inquestpotion" GUID="8AsV4m9R20+53pecN6hrjw=="/>
-    <POI MapID="64" xpos="-303.357" ypos="213.966" zpos="194.693" type="dp.index.slayingsigil.dredgeslaying" GUID="WXLbf1UdrU+rEtZTlNHjHQ=="/>
-    <POI MapID="64" xpos="-315.139" ypos="213.912" zpos="191.471" type="dp.index.utility.slayingpotions.dredgepotion" GUID="UYp4Lvuxqk+pPO3orcT09g=="/>
+    <!--Meta-->
+    <!--Meta | Entrance-->
+    <POI MapID="64" xpos="-328.062" ypos="215.387" zpos="225.568"  type="dp.dungeon.se.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Moon.png" info="Attribute cap: 1790" GUID="nJrLUBq8Ok+hsPS9OuK3dw=="/>
+    <POI MapID="64" xpos="-321.311" ypos="215.4" zpos="228.751" type="dp.dungeon.se.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night" GUID="K/4/Hg2mbU+GxmDeN+b1Lg=="/>
+    <POI MapID="64" xpos="-297.115" ypos="214.107" zpos="209.291" type="dp.dungeon.se.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png" info="Sigil of Mad Scientists" GUID="bwH9ItC9P0+2up+AR2vHwQ=="/>
+    <POI MapID="64" xpos="-300.195" ypos="214.073" zpos="205.596" type="dp.dungeon.se.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png" info="Potion of Inquest Slaying" GUID="8AsV4m9R20+53pecN6hrjw=="/>
+    <POI MapID="64" xpos="-303.357" ypos="213.966" zpos="194.693" type="dp.dungeon.se.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DredgeSlaying.png" info="Sigil of Sorrow" GUID="WXLbf1UdrU+rEtZTlNHjHQ=="/>
+    <POI MapID="64" xpos="-303.91" ypos="213.69" zpos="191.785" type="dp.dungeon.se.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DredgePotion.png" info="Potion of Dredge Slaying" GUID="UYp4Lvuxqk+pPO3orcT09g=="/>
+    <!--Meta | Path 2 | After Taskmaster onwards-->
+    <POI MapID="64" xpos="135.665" ypos="170.24" zpos="167.929" type="dp.dungeon.se.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\InquestSlaying.png" info="Sigil of Mad Scientists" GUID="NhmJx4EZOESlFLhnnrjCGg=="/>
+    <POI MapID="64" xpos="124.147" ypos="169.868" zpos="167.587" type="dp.dungeon.se.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\InquestPotion.png" info="Potion of Inquest Slaying" GUID="soP+YqsAa0GNpRmbqx7+rw=="/>
 
     <!--Path 1-->
     <!--Path 1 | Champion golem at start-->
@@ -43,9 +61,7 @@
     <POI MapID="64" xpos="-94.5168" ypos="216.22" zpos="225.563" type="dp.index.leapandjumpspots.leapstart" GUID="3iLZnKgRQUKqZZ2/1Xvh9Q=="/>
     <POI MapID="64" xpos="-81.0969" ypos="211.13" zpos="223.312" type="dp.index.boon_skillreminders.reflectmarker" GUID="Yi4bSwUQNESm57WKbwCDzw=="/>
     <POI MapID="64" xpos="-83.1535" ypos="211.13" zpos="223.206" type="dp.index.boon_skillreminders.stability" GUID="LZaT2vU520CEM24C5Dl1lw=="/>
-    <!--Path 2 | After Taskmaster onwards-->
-    <POI MapID="64" xpos="135.665" ypos="170.24" zpos="167.929" type="dp.index.slayingsigil.inquestslaying" GUID="NhmJx4EZOESlFLhnnrjCGg=="/>
-    <POI MapID="64" xpos="124.147" ypos="169.868" zpos="167.587" type="dp.index.utility.slayingpotions.inquestpotion" GUID="soP+YqsAa0GNpRmbqx7+rw=="/>
+    
   </POIs>
 
 </OverlayData>
