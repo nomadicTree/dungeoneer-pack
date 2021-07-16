@@ -68,6 +68,11 @@
     <!--Path 1 | Portals in the ball tunnel-->
     <POI MapID="69" xpos="-107.197" ypos="113.366" zpos="191.818" type="dp.index.portalspots.portalIN" GUID="wzP0nwfsTkmP0eAQ0D8wPg=="/>
     <POI MapID="69" xpos="-55.6761" ypos="111.092" zpos="192.083" type="dp.index.portalspots.portalOUT" GUID="Pl3jwxn+0UmQvBAp09h0fA=="/>
+    <!-- Path 1 | Get over the ball tunnel gate-->
+    <POI MapID="69" xpos="-89.7583" ypos="122.278" zpos="176.679" type="dp.index.leapandjumpspots.leapstart" GUID="p2TZ2i0IY0+RTZDzVQeyWA=="/>
+		<POI MapID="69" xpos="-67.1652" ypos="122.987" zpos="192.288" type="dp.index.leapandjumpspots.jumpmarker" GUID="xtWN7HcxPEq56dEgSDXdBg=="/>
+		<POI MapID="69" xpos="-63.6647" ypos="123.084" zpos="189.383" type="dp.index.leapandjumpspots.jumpmarker" GUID="KYWYHhfKRE6uHq6fDZUH2g=="/>
+		<POI MapID="69" xpos="-84.1642" ypos="122.463" zpos="188.295" type="dp.index.leapandjumpspots.leapaim" GUID="b75pm0/LLUKoaF9byCsohw=="/>
 
     <!--Path 2-->
     <!--Path 2 | Prison Warden-->
@@ -96,7 +101,8 @@
 		<POI MapID="69" xpos="-32.9905" ypos="29.9916" zpos="103.471" type="dp.index.leapandjumpspots.jumpmarker" GUID="KvGsEu0FZEWzDZyQy6lPtA=="/>
 		<POI MapID="69" xpos="-41.3305" ypos="34.368" zpos="109.67" type="dp.index.leapandjumpspots.jumpmarker" GUID="Bsl3vjXpC0GMK/AUjSOiQg=="/>
 		<POI MapID="69" xpos="-47.7609" ypos="35.1498" zpos="104.758" type="dp.index.leapandjumpspots.jumpmarker" GUID="sx0j0tCyQkqlKF8Q717ufQ=="/>
-		<POI MapID="69" xpos="-53.5583" ypos="38.7387" zpos="96.3897" type="dp.index.stealthspots.stealthmarker" GUID="/ELcIJlI20G7AVazPIXiEg=="/>
+		<!--<POI MapID="69" xpos="-53.5583" ypos="38.7387" zpos="96.3897" type="dp.index.stealthspots.stealthmarker" GUID="/ELcIJlI20G7AVazPIXiEg=="/>-->
+    <POI MapID="69" xpos="-52.6504" ypos="44.7417" zpos="79.0517" type="dp.index.stealthspots.stealthmarker" GUID="e8gLnI3NlEi4XICojNMS9w=="/>
     <!--Path 3 | Leaping over the gate to skip the capture point event-->
     <POI MapID="69" xpos="177.218" ypos="71.8786" zpos="-62.5511" type="dp.index.leapandjumpspots.leapstart" GUID="04uu8zbYGkGvUAF9xZYUww=="/>
     <POI MapID="69" xpos="176.5" ypos="73.8" zpos="-69.7" type="dp.index.leapandjumpspots.leapaim" GUID="kb04twkk3UqnE5jFTFLSIg=="/>
