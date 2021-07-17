@@ -105,7 +105,8 @@
     <POI MapID="69" xpos="-52.6504" ypos="44.7417" zpos="79.0517" type="dp.index.stealthspots.stealthmarker" GUID="e8gLnI3NlEi4XICojNMS9w=="/>
     <!--Path 3 | Leaping over the gate to skip the capture point event-->
     <POI MapID="69" xpos="177.218" ypos="71.8786" zpos="-62.5511" type="dp.index.leapandjumpspots.leapstart" GUID="04uu8zbYGkGvUAF9xZYUww=="/>
-    <POI MapID="69" xpos="176.5" ypos="73.8" zpos="-69.7" type="dp.index.leapandjumpspots.leapaim" GUID="kb04twkk3UqnE5jFTFLSIg=="/>
+    <!--<POI MapID="69" xpos="176.5" ypos="73.8" zpos="-69.7" type="dp.index.leapandjumpspots.leapaim" GUID="kb04twkk3UqnE5jFTFLSIg=="/>-->
+    <POI MapID="69" xpos="176.805" ypos="74.1633" zpos="-69.9446" type="dp.index.leapandjumpspots.leapaim" GUID="4EwEx/fT20amjzEdPkVPrQ=="/>
     <POI MapID="69" xpos="182.807" ypos="80.0506" zpos="-71.1502" type="dp.index.leapandjumpspots.jumpmarker" GUID="r5wJ8rhjdkeKfHSVbQetYQ=="/>
     <POI MapID="69" xpos="191.411" ypos="85.2712" zpos="-60.1754" type="dp.index.leapandjumpspots.jumpmarker" GUID="BWO/Y7saek20VaZgrfImTA=="/>
     <POI MapID="69" xpos="179.63" ypos="76.923" zpos="-71.5486" type="dp.index.leapandjumpspots.jumpmarker" GUID="LZ4jfyRvDUO2kfwtShwFOg=="/>
