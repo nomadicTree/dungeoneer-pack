@@ -38,6 +38,35 @@
     <POI MapID="112" xpos="-541.31" ypos="13.57" zpos="50.6022" type="dp.dungeon.arah.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact" GUID="NHRZsFxBJ0mvqLp8zGO9ng=="/>
     <POI MapID="112" xpos="-539.747" ypos="13.5548" zpos="49.3359" type="dp.dungeon.arah.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\UndeadSlaying.png" info="Sigil of Undead Slaying" GUID="SeRgF0Ro0Uy9F/j0uhyLjg=="/>
     <POI MapID="112" xpos="-538.185" ypos="13.4378" zpos="48.0707" type="dp.dungeon.arah.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\UndeadPotion.png" info="Potion of Undead Slaying" GUID="wqTlVor0wEqUDjHwP2PVnA=="/>
+
+    <!--Explorable | Skip to Vault of Holiness-->
+    <POI MapID="112" xpos="-351.2" ypos="18.8" zpos="-37.264" type="dp.index.leapandjumpspots.leapaim" GUID="RT8vuq+sqEW+npQCFkceIQ=="/>
+		<POI MapID="112" xpos="-349.804" ypos="16.4357" zpos="-41.8941" type="dp.index.leapandjumpspots.leapstart" GUID="4VJELFqPvUOfHdk/rHOKnw=="/>
+		<POI MapID="112" xpos="-355.034" ypos="19.9157" zpos="-35.9281" type="dp.index.leapandjumpspots.leapstart" GUID="okWS8enAs0iz7FTCepHRGA=="/>
+		<POI MapID="112" xpos="-361.892" ypos="15.7086" zpos="-28.0675" type="dp.index.leapandjumpspots.leapaim" GUID="pw855XMa20eI1mKznMn4Vw=="/>
+		<POI MapID="112" xpos="-360.882" ypos="18.818" zpos="-6.38425" type="dp.index.leapandjumpspots.leapaim" GUID="RO4MhhoWp0iX3y/bbtuKqQ=="/>
+		<POI MapID="112" xpos="-347.097" ypos="28.7781" zpos="-32.5915" type="dp.index.leapandjumpspots.jumpmarker" GUID="9odWLeEKZ0GvQ/yog16DKQ=="/>
+		<POI MapID="112" xpos="-349.16" ypos="29.9742" zpos="-36.7142" type="dp.index.leapandjumpspots.jumpmarker" GUID="L/ZAZpZkikijXUlENcft5w=="/>
+		<POI MapID="112" xpos="-350.775" ypos="32.7428" zpos="-34.9525" type="dp.index.leapandjumpspots.jumpmarker" GUID="r//jvcwbWUmhJB1BCOX+Hw=="/>
+		<POI MapID="112" xpos="-348.131" ypos="33.3522" zpos="-33.2018" type="dp.index.leapandjumpspots.jumpmarker" GUID="8amTT7K3bEuhxO5RdMRYDQ=="/>
+		<POI MapID="112" xpos="-336.026" ypos="34.3731" zpos="-47.1999" type="dp.index.leapandjumpspots.leapaim" GUID="cVKycTLlYUCxG7WqkltLmw=="/>
+		<POI MapID="112" xpos="-330.809" ypos="36.4488" zpos="-52.3938" type="dp.index.leapandjumpspots.jumpmarker" GUID="dkb5a6hWXE+cw5hbUR6RjQ=="/>
+		<POI MapID="112" xpos="-331.569" ypos="32.4429" zpos="-56.8958" type="dp.index.leapandjumpspots.jumpmarker" GUID="cd+bOHbmikqSpCf2k3y6WQ=="/>
+		<POI MapID="112" xpos="-330.836" ypos="28.2415" zpos="-63.3389" type="dp.index.leapandjumpspots.jumpmarker" GUID="chIJqlJUaUeNYsZHZbQwLA=="/>
+		<POI MapID="112" xpos="-325.819" ypos="29.3424" zpos="-64.9663" type="dp.index.leapandjumpspots.jumpmarker" GUID="EsZSAUwABEWrtgVQqnal6Q=="/>
+		<POI MapID="112" xpos="-320.302" ypos="27.4287" zpos="-66.6261" type="dp.index.leapandjumpspots.jumpmarker" GUID="+DIBdKnOokeNJVnT17OtJQ=="/>
+		<POI MapID="112" xpos="-314.229" ypos="20.4819" zpos="-66.5535" type="dp.index.leapandjumpspots.jumpmarker" GUID="0Qq9kUnYZUKf+9UE489hkw=="/>
+		<POI MapID="112" xpos="-310.848" ypos="8.93748" zpos="-70.4106" type="dp.index.leapandjumpspots.jumpmarker" GUID="uXXw2rDuyEWu5tKsBU+lXA=="/>
+		<POI MapID="112" xpos="-364.591" ypos="13.7964" zpos="-18.4445" type="dp.index.leapandjumpspots.leapaim" GUID="UOZvyIhO2EeJAT5Pf16cTA=="/>
+		<POI MapID="112" xpos="-357.774" ypos="22.0799" zpos="-8.43602" type="dp.index.leapandjumpspots.jumpmarker" GUID="+G5PVvZIuE6DaoZTX/JsWg=="/>
+		<POI MapID="112" xpos="-356.51" ypos="23.4984" zpos="-10.8456" type="dp.index.leapandjumpspots.jumpmarker" GUID="yWpkFOPwl0agGlqjakqLqQ=="/>
+		<POI MapID="112" xpos="-353.5" ypos="24.3047" zpos="-14.4854" type="dp.index.leapandjumpspots.jumpmarker" GUID="KpF1zM+5PE6PjFFRAUY9rg=="/>
+		<POI MapID="112" xpos="-349.185" ypos="26.2628" zpos="-20.3767" type="dp.index.leapandjumpspots.jumpmarker" GUID="3t/ppwjNJkGbryj97qJLVQ=="/>
+		<POI MapID="112" xpos="-348.264" ypos="24.3255" zpos="-27.1936" type="dp.index.leapandjumpspots.jumpmarker" GUID="s0fLkq2OikKeYI+hhuF4rw=="/>
+		<POI MapID="112" xpos="-348.287" ypos="26.7308" zpos="-28.7671" type="dp.index.leapandjumpspots.jumpmarker" GUID="jXStGh7qjU+8JXZo3PecmA=="/>
+		<POI MapID="112" xpos="-359.465" ypos="19.7603" zpos="-6.47713" type="dp.index.leapandjumpspots.jumpmarker" GUID="xVOmghzw/kuOu2fdsDLuMw=="/>
+		<POI MapID="112" xpos="-342.215" ypos="38.1426" zpos="-34.0345" type="dp.index.leapandjumpspots.leapstart" GUID="D6A409mCcEy8cRdJVNIGDw=="/>
+		<POI MapID="112" xpos="-349.362" ypos="25.5686" zpos="-15.5009" type="dp.index.leapandjumpspots.jumpmarker" GUID="XI95Ldxiy0qpslvwaQvvmQ=="/>
   </POIs>
 
 </OverlayData>
