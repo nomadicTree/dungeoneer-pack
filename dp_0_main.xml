@@ -1,3 +1,22 @@
+<!--Dungeon Map IDs
+  33: AC Story
+  36: AC Exp
+  63: SE Story
+  64: SE Exp
+  66: CoF Story
+  67: TA Exp
+  68: TA Story
+  69: CoF Exp
+  70: HotW Story
+  71: HotW Exp
+  75: CM Story
+  76: Exp
+  80: CoE Story
+  81: CoE Exp
+  ??: Arah Story
+  112: Arah Exp
+-->
+
 <!--Level 1 Headings and common markers including day/night, sigils, leaps, potions, etc.-->
 <OverlayData>
   <MarkerCategory name="dp" DisplayName="Dungeoneer Pack">
