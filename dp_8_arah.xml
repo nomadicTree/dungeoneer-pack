@@ -39,7 +39,13 @@
     <POI MapID="112" xpos="-539.747" ypos="13.5548" zpos="49.3359" type="dp.dungeon.arah.exp.meta.sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\UndeadSlaying.png" info="Sigil of Undead Slaying" GUID="SeRgF0Ro0Uy9F/j0uhyLjg=="/>
     <POI MapID="112" xpos="-538.185" ypos="13.4378" zpos="48.0707" type="dp.dungeon.arah.exp.meta.potion" iconFile="Data\dungeoneer-pack\PotionMarkers\UndeadPotion.png" info="Potion of Undead Slaying" GUID="wqTlVor0wEqUDjHwP2PVnA=="/>
 
-    <!--Explorable | Skip to Vault of Holiness-->
+    <!--Explorable | Skip to Vault of Holiness, vault jump-->
+    <POI MapID="112" xpos="-357.471" ypos="17.433" zpos="22.5014" type="dp.index.leapandjumpspots.leapstart" GUID="5z554Rm3dkeU+GzNgrPGtg=="/>
+		<POI MapID="112" xpos="-367.63" ypos="17.3786" zpos="15.7954" type="dp.index.leapandjumpspots.leapstart" GUID="7cqMPLnQDUmkQSRdo73bXg=="/>
+		<POI MapID="112" xpos="-356.125" ypos="10.8946" zpos="29.5316" type="dp.index.leapandjumpspots.leapstart" GUID="N612yyyMu0SWIimvXp5jYQ=="/>
+		<POI MapID="112" xpos="-366.859" ypos="17.4181" zpos="17.2822" type="dp.index.leapandjumpspots.leapaim" GUID="doXrzlIScky77eDgkzrTdQ=="/>
+		<POI MapID="112" xpos="-363.576" ypos="17.9682" zpos="4.46276" type="dp.index.leapandjumpspots.leapaim" GUID="iX3JX00MG0GgY7FEkfxTOA=="/>
+    <!--Explorable | Skip to Vault of Holiness, long way-->
     <POI MapID="112" xpos="-351.2" ypos="18.8" zpos="-37.264" type="dp.index.leapandjumpspots.leapaim" GUID="RT8vuq+sqEW+npQCFkceIQ=="/>
 		<POI MapID="112" xpos="-349.804" ypos="16.4357" zpos="-41.8941" type="dp.index.leapandjumpspots.leapstart" GUID="4VJELFqPvUOfHdk/rHOKnw=="/>
 		<POI MapID="112" xpos="-355.034" ypos="19.9157" zpos="-35.9281" type="dp.index.leapandjumpspots.leapstart" GUID="okWS8enAs0iz7FTCepHRGA=="/>
