@@ -25,7 +25,7 @@
           </MarkerCategory><!--meta-->
 
           <MarkerCategory name="path1" DisplayName="Path 1">
-            <MarkerCategory name="scepterlocations" DisplayName="Scepter Piece Locations" fadeFar="2500" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
+            <MarkerCategory name="scepterlocations" DisplayName="Scepter Piece Locations" fadeNear="3500" fadeFar="4000" heightOffset="0.5" iconSize="0.5" behavior="4" resetLength="360" iconFile="Data\dungeoneer-pack\SquadMarkers\Arrow.png"/>
           </MarkerCategory><!--/path1-->
 
           <MarkerCategory name="path3" DisplayName="Path 3">
