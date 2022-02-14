@@ -81,6 +81,16 @@
     <POI MapID="70" xpos="9.45831" ypos="3.77883" zpos="46.2266" type="dp.index.portalspots.portalout"/>
 	<POI MapID="70" xpos="-61.9119" ypos="47.0271" zpos="-42.2207" type="dp.index.portalspots.portalin"/>
 	<!--Story | Faster route to end boss-->
+	<POI MapID="70" xpos="131.36" ypos="-1.1962" zpos="56.0765" type="dp.index.leapandjumpspots.jumpmarker" GUID="2Z0anowNREWwBi10lav0QA=="/>
+	<POI MapID="70" xpos="129.161" ypos="-14.1204" zpos="42.6166" type="dp.index.leapandjumpspots.jumpmarker" GUID="u5AvCsZV30+YAKM5rSlwNw=="/>
+	<POI MapID="70" xpos="99.4824" ypos="-37.4608" zpos="-12.3843" type="dp.index.leapandjumpspots.jumpmarker" GUID="19xz0VWqvUKB4uelR8XhfQ=="/>
+	<POI MapID="70" xpos="66.1411" ypos="2.01714" zpos="-76.5829" type="dp.index.leapandjumpspots.jumpmarker" GUID="De8CZEfUvU2T2HK/lyKhgw=="/>
+	<POI MapID="70" xpos="79.9444" ypos="-45.4098" zpos="-80.4758" type="dp.index.leapandjumpspots.jumpmarker" GUID="yelbYe499E6DKHXHS7IN1A=="/>
+	<POI MapID="70" xpos="81.2311" ypos="-53.0172" zpos="-53.5494" type="dp.index.leapandjumpspots.jumpmarker" GUID="eXQYlT2DkUeOF64alorcgw=="/>
+	<POI MapID="70" xpos="91.3035" ypos="-45.7243" zpos="-26.6419" type="dp.index.leapandjumpspots.jumpmarker" GUID="yTDYrmb790aP4m9yupNIiA=="/>
+	<POI MapID="70" xpos="121.128" ypos="-24.7349" zpos="28.1364" type="dp.index.leapandjumpspots.jumpmarker" GUID="xGPHOjps3U2iLIgziGWFLg=="/>
+	<POI MapID="70" xpos="111.008" ypos="-30.6201" zpos="9.48363" type="dp.index.leapandjumpspots.jumpmarker" GUID="1U6jYu5n10Cr2Ik5UoIkAg=="/>
+	<!--
 	<POI MapID="70" xpos="54.9187" ypos="9.3502" zpos="-78.3351" type="dp.index.leapandjumpspots.jumpmarker" GUID="9pEllwvPQkKd511IId1jWg=="/>
 	<POI MapID="70" xpos="65.3817" ypos="2.29567" zpos="-76.6415" type="dp.index.leapandjumpspots.jumpmarker" GUID="tSQ4sk1ZqkeVPw5zejVfEw=="/>
 	<POI MapID="70" xpos="79.6442" ypos="-37.8118" zpos="-79.9669" type="dp.index.leapandjumpspots.jumpmarker" GUID="OqIIq7lg+U67MnDa41HO+A=="/>
@@ -102,7 +112,7 @@
 	<POI MapID="70" xpos="30.6679" ypos="6.74359" zpos="25.313" type="dp.index.blinkspots.blinkaim" GUID="yTstbMjAbEGwsfR+AtVFyw=="/>
 	<POI MapID="70" xpos="128.97" ypos="-24.6764" zpos="-0.409764" type="dp.index.leapandjumpspots.jumpmarker" GUID="V+VYdwfoZ0u+3ig54ju8cQ=="/>
 	<POI MapID="70" xpos="134.235" ypos="-1.95423" zpos="58.4523" type="dp.index.leapandjumpspots.jumpmarker" GUID="GYYtC/KTkk2HG5dYsYgKIw=="/>
-
+	-->
   	<!--Explorable - MapID=71-->
     <!--Explorable | Entrance markers-->
     <POI MapID="71" xpos="-60.406" ypos="44.1341" zpos="-10.3785" type="dp.dungeon.hotw.exp.meta.day_night" iconFile="Data\dungeoneer-pack\Sun.png" info="Attribute cap: NA" GUID="MMqJmjOTkk2Z88D25vE/pw=="/>
