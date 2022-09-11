@@ -26,17 +26,17 @@
 
     <MarkerCategory name="dungeon" DisplayName="Dungeons">
       <MarkerCategory name="separatormenudungeon" IsSeparator="1" DisplayName="&lt;-------[-DUNGEONS-]-------&gt;"/>
-    </MarkerCategory><!--/dungeon-->
+    </MarkerCategory>    <!--/dungeon-->
 
     <MarkerCategory name="raid" DisplayName="Raids">
       <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;--------[-RAIDS-]--------&gt;"/>
-    </MarkerCategory><!--/raid-->
+    </MarkerCategory>    <!--/raid-->
 
     <!--Common markers-->
     <MarkerCategory name="index" DisplayName="Index">
       <MarkerCategory name="separatormenuraid" IsSeparator="1" DisplayName="&lt;-------[-INDEX-]-------&gt;"/>
       <!--SlayingSigil-->
-      <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+      <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" miniMapVisibility="0" mapVisibility="0">
         <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\CentaurSlaying.png" info="Sigil of Centaur Slaying"/>
         <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DemonSlaying.png" info="Sigil of Demon Slaying"/>
         <MarkerCategory name="DestroyerSlaying" DisplayName="Destroyer Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\DestroyerSlaying.png" info="Sigil of Destroyer Slaying"/>
@@ -53,20 +53,20 @@
         <MarkerCategory name="SerpentSlaying" DisplayName="Krait Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SerpentSlaying.png" info="Sigil of Serpent Slaying"/>
         <MarkerCategory name="SonsOfSvanirSlaying" DisplayName="Sons Of Svanir Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\SonsOfSvanirSlaying.png" info="Sigil of Wrath"/>
         <MarkerCategory name="UndeadSlaying" DisplayName="Undead Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\Slaying\UndeadSlaying.png" info="Sigil of Undead Slaying"/>
-      </MarkerCategory><!--/SlayingSigil-->
+      </MarkerCategory>      <!--/SlayingSigil-->
 
       <!--BasicSigil-->
-      <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+      <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" miniMapVisibility="0" mapVisibility="0">
         <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ForceSigil.png" info="Sigil of Force"/>
         <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NightSigil.png" info="Sigil of the Night"/>
         <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\ImpactSigil.png" info="Sigil of Impact"/>
-        <MarkerCategory name="AirSigil" DisplayName="Air Sigil"  iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png" info="Sigil of Air"/>
+        <MarkerCategory name="AirSigil" DisplayName="Air Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\AirSigil.png" info="Sigil of Air"/>
         <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconFile="Data\dungeoneer-pack\SigilMarkers\BasicDPS\NOTImpactSigil.png" info="No Impact Sigil"/>
-      </MarkerCategory><!--/BasicSigil-->
+      </MarkerCategory>      <!--/BasicSigil-->
 
       <!--Utility-->
       <MarkerCategory name="Utility" DisplayName="Utility">
-        <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60">
+        <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1800" heightOffset="1.5" resetLength="60" miniMapVisibility="0" mapVisibility="0">
           <MarkerCategory name="CentaurPotion" DisplayName="Centaur Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\CentaurPotion.png" info="Potion of Centaur Slaying"/>
           <MarkerCategory name="DemonPotion" DisplayName="Demon Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DemonPotion.png" info="Potion of Demon Slaying"/>
           <MarkerCategory name="DestroyerPotion" DisplayName="Destroyer Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\DestroyerPotion.png" info="Potion of Destroyer Slaying"/>
@@ -85,47 +85,47 @@
           <MarkerCategory name="SonsOfSvanirPotion" DisplayName="Sons Of Svanir Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\SvanirPotion.png" info="Potion of Sons of Svanir Slaying"/>
           <MarkerCategory name="UndeadPotion" DisplayName="Undead Potion" iconFile="Data\dungeoneer-pack\PotionMarkers\UndeadPotion.png" info="Potion of Undead Slaying"/>
           <MarkerCategory name="NOpotionMarker" DisplayName="NO Potion Marker" iconFile="Data\dungeoneer-pack\PotionMarkers\NOpotionMarker.png" info="No Potion"/>
-        </MarkerCategory><!--/SlayingPotions-->
-      </MarkerCategory><!--/Utility-->
+        </MarkerCategory>        <!--/SlayingPotions-->
+      </MarkerCategory>      <!--/Utility-->
 
       <!--Day/Night-->
-      <MarkerCategory name="DayNight" DisplayName="Day/Night Indicators" iconSize="0.75" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60">
+      <MarkerCategory name="DayNight" DisplayName="Day/Night Indicators" iconSize="0.75" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60" miniMapVisibility="0" mapVisibility="0">
         <MarkerCategory name="Day" DisplayName="Daytime" iconFile="Data\dungeoneer-pack\Sun.png"/>
         <MarkerCategory name="Night" DisplayName="Nighttime" iconFile="Data\dungeoneer-pack\Moon.png"/>
-      </MarkerCategory><!--/Day/Night-->
+      </MarkerCategory>      <!--/Day/Night-->
 
       <!--PortalSpots-->
-      <MarkerCategory name="PortalSpots" DisplayName="Portal Spots" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" >
+      <MarkerCategory name="PortalSpots" DisplayName="Portal Spots" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60">
         <MarkerCategory name="PortalIN" DisplayName="Portal-IN" iconFile="Data\dungeoneer-pack\SkillUsage\Portal-IN-Marker.png"/>
         <MarkerCategory name="PortalOUT" DisplayName="Portal-OUT" iconFile="Data\dungeoneer-pack\SkillUsage\Portal-OUT-Marker.png"/>
-      </MarkerCategory><!--/PortalSpots-->
+      </MarkerCategory>      <!--/PortalSpots-->
 
       <!--BlinkSpots-->
-      <MarkerCategory name="BlinkSpots" DisplayName="Blink Spots" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60">
+      <MarkerCategory name="BlinkSpots" DisplayName="Blink Spots" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" miniMapVisibility="0" mapVisibility="0">
         <MarkerCategory name="BlinkStart" DisplayName="Blink Start" iconFile="Data\dungeoneer-pack\Arrows\TeleportMarkerUP-white.png"/>
         <MarkerCategory name="BlinkAIM" DisplayName="Blink AIM" iconFile="Data\dungeoneer-pack\Arrows\TeleportMarkerDOWN-white.png"/>
-      </MarkerCategory><!--/BlinkSpots-->
+      </MarkerCategory>      <!--/BlinkSpots-->
 
       <!--LeapAndJumpSpots-->
-      <MarkerCategory name="LeapAndJumpSpots" DisplayName="Leap + Jump Spots" iconSize="0.50" behavior="0" heightOffset="0" resetLength="60">
-        <MarkerCategory name="LeapSTART" DisplayName="Leap-Start"  alpha="0.50" fadeNear="1200" fadeFar="1300" iconFile="Data\dungeoneer-pack\SkillUsage\LeapMarker.png"/>
+      <MarkerCategory name="LeapAndJumpSpots" DisplayName="Leap + Jump Spots" iconSize="0.50" behavior="0" heightOffset="0" resetLength="60" miniMapVisibility="0" mapVisibility="0">
+        <MarkerCategory name="LeapSTART" DisplayName="Leap-Start" alpha="0.50" fadeNear="1200" fadeFar="1300" iconFile="Data\dungeoneer-pack\SkillUsage\LeapMarker.png" />
         <MarkerCategory name="LeapAIM" DisplayName="Leap-AIM" alpha="1.0" fadeNear="1300" fadeFar="1500" iconFile="Data\dungeoneer-pack\Arrows\CrosshairMarker-White.png"/>
         <MarkerCategory name="FARLeapAIM" DisplayName="FARLeap-AIM" alpha="1.0" fadeNear="5300" fadeFar="5500" iconFile="Data\dungeoneer-pack\Arrows\CrosshairMarker-White.png"/>
         <MarkerCategory name="JumpMarker" DisplayName="Jump Marker" alpha="0.50" fadeNear="1200" fadeFar="1300" iconFile="Data\dungeoneer-pack\SkillUsage\JumpMarker.png"/>
-      </MarkerCategory><!--/LeapAndJumpSpots-->
+      </MarkerCategory>      <!--/LeapAndJumpSpots-->
 
       <!--StealthSpots-->
-      <MarkerCategory name="StealthSpots" DisplayName="Stealth Spots" iconSize="0.60" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60">
+      <MarkerCategory name="StealthSpots" DisplayName="Stealth Spots" iconSize="0.60" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" miniMapVisibility="0" mapVisibility="0">
         <MarkerCategory name="StealthMarker" DisplayName="Stealth Marker" iconFile="Data\dungeoneer-pack\SkillUsage\StealthMarker.png"/>
-      </MarkerCategory><!--/StealthSpots-->
+      </MarkerCategory>      <!--/StealthSpots-->
 
       <!--Boon&SkillReminders-->
-      <MarkerCategory name="Boon_SkillReminders" DisplayName="Boon + Skill Reminders" behavior="0" fadeNear="900" fadeFar="1000" resetLength="60">
-        <MarkerCategory name="MightStacking" DisplayName="Might Stacking" iconSize="0.35" alpha="0.75"  heightOffset="0.0" iconFile="Data\dungeoneer-pack\SkillUsage\MightMarker.png"/>
+      <MarkerCategory name="Boon_SkillReminders" DisplayName="Boon + Skill Reminders" behavior="0" fadeNear="900" fadeFar="1000" resetLength="60" miniMapVisibility="0" mapVisibility="0">
+        <MarkerCategory name="MightStacking" DisplayName="Might Stacking" iconSize="0.35" alpha="0.75" heightOffset="0.0" iconFile="Data\dungeoneer-pack\SkillUsage\MightMarker.png"/>
         <MarkerCategory name="Stability" DisplayName="Stability" iconSize="0.35" alpha="0.75" heightOffset="0.0" iconFile="Data\dungeoneer-pack\SkillUsage\StabilityMarker.png"/>
         <MarkerCategory name="ReflectMarker" DisplayName="Reflects" iconSize="1.0" alpha="1.00" heightOffset="1.0" iconFile="Data\dungeoneer-pack\SkillUsage\ReflectMarker.png"/>
         <MarkerCategory name="CrowdControl" DisplayName="Crowd Control" iconSize="1.0" alpha="1.00" heightOffset="1.0" iconFile="Data\dungeoneer-pack\SkillUsage\CCMarker.png"/>
-      </MarkerCategory><!--/Boon&SkillReminders-->
+      </MarkerCategory>      <!--/Boon&SkillReminders-->
 
       <!--Numbers-->
       <MarkerCategory name="Numbers" DisplayName="Numbers" iconSize="1.0" behavior="0" alpha="1.00" heightOffset="1.0">
@@ -148,7 +148,7 @@
         <MarkerCategory name="Marker17" DisplayName="17" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker17.png"/>
         <MarkerCategory name="Marker18" DisplayName="18" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker18.png"/>
         <MarkerCategory name="Marker19" DisplayName="19" iconFile="Data\dungeoneer-pack\Arrows\NumberMarkers\Marker19.png"/>
-      </MarkerCategory><!--/numbers-->
+      </MarkerCategory>      <!--/numbers-->
 
       <!--SquadMarkers-->
       <MarkerCategory name="SquadMarkers" DisplayName="Squad Markers" iconSize="1.0" behavior="0" alpha="1.00" heightOffset="1.0">
@@ -159,15 +159,15 @@
         <MarkerCategory name="Spiral" DisplayName="Spiral" iconFile="Data\dungeoneer-pack\SquadMarkers\Spiral.png"/>
         <MarkerCategory name="Triangle" DisplayName="Triangle" iconFile="Data\dungeoneer-pack\SquadMarkers\Triangle.png"/>
         <MarkerCategory name="Cross" DisplayName="Cross" iconFile="Data\dungeoneer-pack\SquadMarkers\Cross.png"/>
-      </MarkerCategory><!--/SquadMarkers-->
+      </MarkerCategory>      <!--/SquadMarkers-->
 
       <!--Misc-->
       <MarkerCategory name="Misc" DisplayName="Miscellaneous" alpha="1.0" heightOffset="2.0">
         <MarkerCategory name="NoEntry" DisplayName="No Entry" iconSize="1.0." behavior="0" fadeNear="1500" fadeFar="2000" iconFile="Data\dungeoneer-pack\Forbidden.png"/>
-      </MarkerCategory><!--/Misc-->
+      </MarkerCategory>      <!--/Misc-->
 
-    </MarkerCategory><!--/common-->
+    </MarkerCategory>    <!--/common-->
 
-  </MarkerCategory><!--/dp-->
+  </MarkerCategory>  <!--/dp-->
 
 </OverlayData>
